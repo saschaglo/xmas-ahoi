@@ -9,11 +9,11 @@ Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bi
 _Avoid_: Gruppe, Team, Besetzung
 
 **Rätsel**:
-Spieltyp mit genau einer richtigen Lösung, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden).
+Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden).
 _Avoid_: Puzzle
 
 **Punktespiel**:
-Spieltyp mit begrenzter Zeit oder Aufgabenzahl, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator).
+Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator).
 _Avoid_: Zeitspiel, Wertungsspiel
 
 **Schlüssel**:

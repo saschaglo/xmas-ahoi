@@ -37,5 +37,5 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablau
 
 ## Annahmen und offene Punkte
 
-1. Die Screens zeigen das alte Modell mit festen Crews. Mit der [Crew je Station](crews.md) entfallen die Screens 3 bis 6, 10 bis 12, 15, 16, 22 und 26. Neu zu zeichnen: Station mit „Allein spielen“ oder „Crew bilden“, Crewcode eingeben an der Station, „Du warst hier schon mal“, die Sperre bei Verbindungsverlust (siehe [Karte und Stationen](karte-und-stationen.md#verbindung-während-der-station)). Screen 23 ändert sich: Ein Abbruch gibt keinen Schlüssel und löst die Crew auf.
+1. Die Screens zeigen das alte Modell mit festen Crews. Mit der [Crew je Station](crews.md) entfallen die Screens 3 bis 6, 10 bis 12, 15, 16, 22 und 26. Neu zu zeichnen: Station mit „Allein spielen“ oder „Crew bilden“, Crewcode eingeben an der Station, „Du warst hier schon mal“, die Sperre bei Verbindungsverlust (siehe [Karte und Stationen](karte-und-stationen.md#verbindung-während-der-station)), die Station eines Punktespiels (Restzeit, ohne Hinweise und Exit). Screen 23 ändert sich: Ein Abbruch gibt keinen Schlüssel und löst die Crew auf.
 2. Die Spielflächen der Minispiele sind Platzhalter; sie werden je Spiel nach der Beschreibung ergänzt. Varianten nach Crewgröße kommen dann ebenfalls dazu.

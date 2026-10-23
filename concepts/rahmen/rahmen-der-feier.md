@@ -7,7 +7,7 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 - Weihnachtsfeier am 20. November 2026; Motto „Xmas Ahoi!“, Schiff „MS Web Care“, Hafen „Beyond The Fog“.
 - Digitale Schnitzeljagd/Schatzsuche im begrenzten Raum, allein oder in Crews (bis 3 Personen).
 - Erwartet werden etwa 80 Personen, davon rund 75 % Mitspielende (rund 60).
-- Rätsel-Minispiele, je höchstens 5 Minuten, insgesamt höchstens 30 Minuten.
+- Minispiele, je etwa 5 Minuten geplant, insgesamt höchstens 30 Minuten. Die 5 Minuten sind ein Planungswert, kein Zeitlimit; ein Rätsel bleibt durch den Exit ab 4:00 darin ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 - Asynchron den ganzen Abend spielbar, Pausen möglich.
 - Webseite und QR-Codes sind erlaubt; Firmenwissen und soziale Komponenten sollen vorkommen.
 - Alle Spiele laufen ohne Betreuung; nur die Siegerehrung am Ende ist moderiert.

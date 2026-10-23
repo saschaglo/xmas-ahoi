@@ -10,6 +10,6 @@ Wie viel Schutz gegen das Weitergeben von Lösungen (Firmenchat, Zuruf, Googeln,
 
 ## Kontext
 
-- [Spielübergreifend, Punkt 4](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
+- [Spielübergreifend, Punkt 3](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
 - [Akzeptierte Risiken](../../../concepts/framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken)
-- Quiz Frage 8, Navigator Frage 3, Begriffe finden Fragen 2 und 7
+- Quiz Frage 6, Navigator Frage 2, Begriffe finden Fragen 2 und 5

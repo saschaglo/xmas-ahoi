@@ -28,7 +28,7 @@ Alle Mitglieder der Crew sind Navigatoren und lösen verschiedene Aufgaben. Bish
 
 ## Aufbau (Empfehlung)
 
-Der Navigator ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte). Die Punkte sind der Anteil der Treffer über alle Aufgaben des Durchlaufs.
+Der Navigator ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte). Die Punkte sind der Anteil der Treffer über alle Aufgaben des Durchlaufs. Wie jedes Punktespiel hat der Navigator ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md)); das Zeitlimit gilt auch für Aufgabe B und eine mögliche Aufgabe C.
 
 Ein Navigator-Durchlauf besteht aus zwei Runden von je etwa 2 Minuten, damit das Limit von 5 Minuten bleibt: erst Aufgabe A, dann Aufgabe B (später gegebenenfalls C anstelle von B oder als dritte Runde).
 
@@ -40,12 +40,11 @@ Ideen für Aufgabe C (nur Vorschläge): Seezeichen zuordnen (rote und grüne Ton
 
 ## Offene Fragen und Widersprüche
 
-1. Besteht eine Navigator-Station aus mehreren Aufgaben nacheinander (A, B, C) oder wird bei jedem Durchlauf eine Aufgabe ausgewählt? Das entscheidet über die Zeit von höchstens 5 Minuten.
-2. Hinweise und Exit: Sind sie bei diesem Spiel sinnvoll, und gelten sie je Aufgabe oder für die ganze Station? Die globalen Mindestzeiten (1:30, 1:30, 1:00) müssten dazu je Spiel einstellbar sein.
-3. Aufgabe A: Wie lange wird das Bild gezeigt? Ein Screenshot lässt sich im Browser nicht verhindern. Ist das ein akzeptiertes Risiko?
-4. Aufgabe A, Variation: Was geschieht bei Einzelspielern?
-5. Aufgabe B: Wie genau muss der Tipp sein (Radius)? Zeigt die Karte Ortsnamen und Länder? Das verrät viel.
-6. Aufgabe B, Street View: Auf offener See gibt es keine Street-View-Aufnahmen. Zoomen und Bewegen lassen sich nur mit der Google-Programmierschnittstelle einschränken; das müsste vor einer Zusage geprüft werden, ebenso Kosten und Nutzungsbedingungen. Ist die Variation das wert?
-7. Koordinaten-Variation: Das Blatt an der Station widerspricht dem rein digitalen Konzept, in dem Stationen nur Punkte auf der App-Karte sind. Wo läge das Blatt, und wäre die Bordkarte-Rückseite eine Alternative?
-8. Bilder: Woher kommen die Wimmelbilder und Meer-Fotos (Lizenz, eigene Illustration, KI-generiert, Rechte)? Wie viele Bilder braucht es, damit Crews nicht dasselbe sehen?
-9. Aufgabe C: Passt eine der drei Ideen, oder soll weitergesucht werden?
+1. Besteht eine Navigator-Station aus mehreren Aufgaben nacheinander (A, B, C) oder wird bei jedem Durchlauf eine Aufgabe ausgewählt? Das entscheidet über die Zeit von höchstens 5 Minuten. Welches Zeitlimit gilt dann je Aufgabe?
+2. Aufgabe A: Wie lange wird das Bild gezeigt? Ein Screenshot lässt sich im Browser nicht verhindern. Ist das ein akzeptiertes Risiko?
+3. Aufgabe A, Variation: Was geschieht bei Einzelspielern?
+4. Aufgabe B: Wie genau muss der Tipp sein (Radius)? Zeigt die Karte Ortsnamen und Länder? Das verrät viel.
+5. Aufgabe B, Street View: Auf offener See gibt es keine Street-View-Aufnahmen. Zoomen und Bewegen lassen sich nur mit der Google-Programmierschnittstelle einschränken; das müsste vor einer Zusage geprüft werden, ebenso Kosten und Nutzungsbedingungen. Ist die Variation das wert?
+6. Koordinaten-Variation: Das Blatt an der Station widerspricht dem rein digitalen Konzept, in dem Stationen nur Punkte auf der App-Karte sind. Wo läge das Blatt, und wäre die Bordkarte-Rückseite eine Alternative?
+7. Bilder: Woher kommen die Wimmelbilder und Meer-Fotos (Lizenz, eigene Illustration, KI-generiert, Rechte)? Wie viele Bilder braucht es, damit Crews nicht dasselbe sehen?
+8. Aufgabe C: Passt eine der drei Ideen, oder soll weitergesucht werden?

@@ -19,13 +19,14 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 ## Decisions so far
 
 - [Spieltypen, Punkte und Crew je Station](issues/01-spieltypen-schluesselregel.md): Rätsel und Punktespiel; jede beendete Station gibt Schlüssel und 0–100 Punkte, Abbruch gibt nichts und wird neu gespielt; Crew bildet sich je Station; Rangliste nach Punkten statt Ziehung, Trostpreis für alle im Lostopf.
+- [Hinweise, Exit und Mindestzeiten je Spiel](issues/02-hinweise-exit-mindestzeiten.md): Hinweise und Exit nur bei Rätseln; Rätsel haben kein Zeitlimit (Begriffe finden verliert seins); Punktespiele haben immer ein Zeitlimit. Mindestzeiten gleich für alle Rätsel, fest ab Start des Durchlaufs (1:30 / 3:00 / 4:00).
 - [Rudolph's: Räume, Netz, Hausregeln](issues/05-rudolphs-recherche.md): Restaurant mit einem ebenerdigen Gastraum (laut Nebenquelle etwa 60 Plätze), Terrasse und Hinterhof. WLAN ist nicht genannt. Besondere Deko muss bis 13.11. abgesprochen sein.
 
 ## Not yet specified
 
 - **Spieldetails Spiel 6:** erst nach [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md). Je nach Ergebnis ein Handy- oder ein Raumspiel.
 - **Rückseite der Bordkarte:** Morsetabelle, Anleitung für Koordinaten, Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Navigator, Morse und Begriffe finden.
-- **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 3). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
+- **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
 - **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an der Antwort vom Rudolph's und an einem Test vor Ort.
 - **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.
 

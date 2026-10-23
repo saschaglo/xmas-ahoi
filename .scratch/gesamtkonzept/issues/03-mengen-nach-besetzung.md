@@ -10,6 +10,6 @@ Nach welcher Regel skalieren alle Spiele mit der Crew (1, 2 oder 3 Spieler)? Spi
 
 ## Kontext
 
-- [Spielübergreifend, Punkt 5](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
+- [Spielübergreifend, Punkt 4](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
 - [Karte und Stationen](../../../concepts/framework/karte-und-stationen.md) (Spielstand je Spieler) und [Crews](../../../concepts/framework/crews.md) (Crew je Station)
-- Quiz Fragen 2, 3, 7; Navigator Frage 4; Morse Frage 4; Knoten und Begriffe finden: Variationen
+- Quiz Fragen 1, 2, 5; Navigator Frage 3; Morse Frage 4; Knoten und Begriffe finden: Variationen

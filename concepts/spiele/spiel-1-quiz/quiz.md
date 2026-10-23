@@ -29,16 +29,14 @@ Jede Person spielt auf dem eigenen Handy parallel (also die Variation mit eigene
 
 Poolgröße als grobe Schätzung: mindestens 60 bis 80 Fragen, damit sich zwei beliebige Crews nur wenig überschneiden. Den Anteil der Firmenfragen legt der Veranstalter fest.
 
-Das Quiz ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte). Die Punkte sind der Anteil richtiger Antworten an allen Fragen der Crew. Hinweise und Exit entfallen bei dieser Spielart.
+Das Quiz ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte). Die Punkte sind der Anteil richtiger Antworten an allen Fragen der Crew. Wie jedes Punktespiel hat das Quiz weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md)).
 
 ## Offene Fragen und Widersprüche
 
-1. Hinweise und Exit passen nicht zu einem Spiel, das nach 2 Minuten von selbst endet. Der Exit ist laut Konzept erst nach 4:00 möglich. Die Mindestzeiten müssten je Spiel einstellbar sein, oder das Quiz hat keine Hinweise.
-2. „Im Team bearbeiten“: gemeinsames Handy oder jede Person auf dem eigenen? Bei eigenen Handys: dieselben Fragen für alle oder verschiedene?
-3. Gilt die Zeit pro Person oder pro Crew? Bei 5 Fragen in 2 Minuten bleiben pro Frage etwa 24 Sekunden, bei 15 Fragen im gemeinsamen Spiel nur etwa 8 Sekunden. Das passt nur bei paralleler Bearbeitung auf mehreren Handys.
-4. „Egal ob richtig oder falsch“ heißt vermutlich: Eine falsche Antwort wird gezählt und es geht weiter. Stimmt das?
-5. Schätzfragen: Wann ist eine Antwort richtig (Toleranz), oder zählt die Nähe?
-6. Die vierte Kategorie fehlt. Vorschläge passend zum Motto: Seefahrt und Meer, Weihnachten oder eine eigene Firmenkategorie.
-7. Variation mit Kategoriewahl: Einzelspieler wählen eine Kategorie, bei 2 Personen zwei verschiedene. Reichen 4 Kategorien?
-8. Googeln und Absprache zwischen Crews lassen sich bei Allgemeinwissen nicht verhindern. Ist das ein akzeptiertes Risiko? Firmenfragen sind davon weniger betroffen.
-9. Wer erstellt die Fragen und wie viele sollen es sein?
+1. „Im Team bearbeiten“: gemeinsames Handy oder jede Person auf dem eigenen? Bei eigenen Handys: dieselben Fragen für alle oder verschiedene?
+2. Gilt die Zeit pro Person oder pro Crew? Bei 5 Fragen in 2 Minuten bleiben pro Frage etwa 24 Sekunden, bei 15 Fragen im gemeinsamen Spiel nur etwa 8 Sekunden. Das passt nur bei paralleler Bearbeitung auf mehreren Handys.
+3. Schätzfragen: Wann ist eine Antwort richtig (Toleranz), oder zählt die Nähe?
+4. Die vierte Kategorie fehlt. Vorschläge passend zum Motto: Seefahrt und Meer, Weihnachten oder eine eigene Firmenkategorie.
+5. Variation mit Kategoriewahl: Einzelspieler wählen eine Kategorie, bei 2 Personen zwei verschiedene. Reichen 4 Kategorien?
+6. Googeln und Absprache zwischen Crews lassen sich bei Allgemeinwissen nicht verhindern. Ist das ein akzeptiertes Risiko? Firmenfragen sind davon weniger betroffen.
+7. Wer erstellt die Fragen und wie viele sollen es sein?

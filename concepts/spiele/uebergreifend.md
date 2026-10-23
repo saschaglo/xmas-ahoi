@@ -26,13 +26,13 @@ Jedes Spiel hat einen festen Spieltyp:
 - Ein Abbruch gibt weder Schlüssel noch Punkte, auch wenn bis dahin Treffer erzielt wurden. Die Station wird neu gespielt ([Abbruch](../framework/hinweise-abbruch-exit.md)).
 - Alle in der Crew bekommen dieselben Punkte. Weil die Mengen mit der Crewgröße wachsen, zählt die Quote, nicht die absolute Trefferzahl; so sind Einzelspieler und Crews vergleichbar.
 - Kein Zeitbonus: Wer ein Rätsel ohne Hinweis löst, bekommt 100 Punkte, egal wie schnell.
+- Rätsel haben kein Zeitlimit, dafür Hinweise und Exit. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 - Jedes Spiel braucht genug Varianten (Fragen, Wörter, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt.
 - Den Spieltyp von Spiel 6 legt [Spiel 6](spiel-6-offen/spiel-6.md) fest.
 
 ## Spielübergreifende offene Punkte
 
-1. Die globalen Mindestzeiten (Hinweis 1 nach 1:30, Hinweis 2 nach 3:00, Exit nach 4:00) passen nicht zu einem Quiz mit 2 Minuten. Sie müssten je Spiel einstellbar sein.
-2. Knoten und Begriffe finden brauchen feste Orte, Material und gelegentliche Kontrolle. Das Konzept kennt Stationen bisher nur als Punkte auf der App-Karte. Es fehlt: Location, Platz, Hausrecht, Kapazität bei gleichzeitigem Spiel, Zurücksetzen der Requisiten ohne Betreuung.
-3. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Raumspielen zählt die Laufzeit mit.
-4. Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf). Zufällige Varianten je Crew (Fragen, Startwort, Ort, Wort) mindern das. Ob das Restrisiko akzeptiert wird, ist offen.
-5. Spielvarianten nach Crewgröße und die Details je Spiel werden noch beschrieben (aus „Offen und später“ im Spielkonzept).
+1. Knoten und Begriffe finden brauchen feste Orte, Material und gelegentliche Kontrolle. Das Konzept kennt Stationen bisher nur als Punkte auf der App-Karte. Es fehlt: Location, Platz, Hausrecht, Kapazität bei gleichzeitigem Spiel, Zurücksetzen der Requisiten ohne Betreuung.
+2. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Raumspielen zählt die Laufzeit mit.
+3. Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf). Zufällige Varianten je Crew (Fragen, Startwort, Ort, Wort) mindern das. Ob das Restrisiko akzeptiert wird, ist offen.
+4. Spielvarianten nach Crewgröße und die Details je Spiel werden noch beschrieben (aus „Offen und später“ im Spielkonzept).

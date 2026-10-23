@@ -11,6 +11,6 @@ Wo und wie laufen Knoten und Begriffe finden im Restaurant Poggenmühle 5: ein G
 ## Kontext
 
 - [Recherche Rudolph's](../research/rudolphs.md)
-- [Spielübergreifend, Punkte 2 und 3](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
-- Knoten Fragen 4 bis 7, Begriffe finden Fragen 3 und 8
+- [Spielübergreifend, Punkte 1 und 2](../../../concepts/spiele/uebergreifend.md#spielübergreifende-offene-punkte)
+- Knoten Fragen 4 bis 7, Begriffe finden Fragen 3 und 6
 - Annahme bis zur Antwort aus [Hausrecht beim Rudolph's anfragen](06-hausrecht-anfragen.md): erlaubt; Rückfall Hinterhof

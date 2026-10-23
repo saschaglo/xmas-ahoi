@@ -26,8 +26,7 @@ Blinken sollte langsam sein: Lernertempo von etwa 5 bis 8 Wörtern pro Minute, d
 
 Ohne Morsetabelle ist das Spiel für die meisten nicht lösbar. Die Tabelle wäre in der App aufklappbar und zusätzlich auf der Rückseite der Bordkarte. Mit Tabelle wird aus dem Rätsel ein sorgfältiges Dekodieren, was für 5 Minuten gut passt.
 
-Hinweise (Vorschlag): Hinweis 1 nennt den ersten Buchstaben, Hinweis 2 die Länge des Wortes und einen Themenbereich. Die globalen Mindestzeiten passen hier.
-
+Hinweise (Vorschlag): Hinweis 1 nennt den ersten Buchstaben, Hinweis 2 die Länge des Wortes und einen Themenbereich.
 ## Offene Fragen und Widersprüche
 
 1. Ist eine Morsetabelle erlaubt, und wo gibt es sie (App, Bordkarte oder Papier an einer Station)? Ohne Tabelle ist das Spiel für Laien praktisch unlösbar.

@@ -42,7 +42,7 @@ Hinweise (Vorschlag): Hinweis 1 nennt den Bereich oder Tisch, Hinweis 2 den Name
 1. „Der fertige Knoten (auf einer Karte) zeigt ein Lösungswort“: Wie genau? Wird das Seil auf die Karte gebunden, und wie wird dabei ein Wort sichtbar? Lesart aus der Durchsicht: Das Wort steht auf der Karte, der Knoten selbst ist reine Aufgabe.
 2. Wie wird geprüft, dass der Knoten gebunden wurde? Ohne Betreuung nicht möglich; reicht ein Prüfbild und Ehrlichkeit?
 3. Wie viele Knoten gehören zu einem Durchlauf, und wie schließt die Crew ab: ein Wort in die App eingeben?
-4. Wo in der Location liegen die beiden Bereiche, und wie weit sind sie auseinander? Das bestimmt die Laufzeit in den 5 Minuten und passt nicht zu den globalen Mindestzeiten (Exit nach 4:00).
+4. Wo in der Location liegen die beiden Bereiche, und wie weit sind sie auseinander? Das bestimmt die Laufzeit in den 5 Minuten.
 5. Kapazität: Wie viele Crews spielen gleichzeitig? Wer setzt Seile und Karten zurück und ersetzt verlorene? Das widerspricht „komplett ohne Menschen“, wenn jemand nachsehen muss. Wäre das akzeptabel?
 6. Die Trennwand: Soll sie nur verhindern, dass man bei anderen Crews mitliest, oder auch etwas anderes?
 7. Das Konzept kennt nur digitale Stationen auf der App-Karte. Wie erfährt die Crew, wo die physischen Bereiche sind (Beschilderung, Hinweis in der App)?

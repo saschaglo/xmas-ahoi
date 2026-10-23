@@ -31,7 +31,7 @@ flowchart LR
 
 ### Rahmen
 
-- [Rahmen der Feier](rahmen/rahmen-der-feier.md): Motto, Zeitlimits, Preise, technische Vorgaben, Vorgehen
+- [Rahmen der Feier](rahmen/rahmen-der-feier.md): Motto, Zeitbudget, Preise, technische Vorgaben, Vorgehen
 
 ### Framework (Spielablauf)
 
