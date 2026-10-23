@@ -54,4 +54,4 @@ for f in $(find . -name '*.md' -not -path './.claude/*'); do d=$(dirname "$f"); 
 
 ## Git
 
-Commits are GPG-signed. The Bash sandbox cannot read `~/.gnupg`, so `git commit` fails inside it. Stage the files, then give the user the exact commit command to run with the `!` prefix. Never bypass signing with `--no-gpg-sign`.
+Commits are GPG-signed. On the maintainer's machine, the local and uncommitted `.claude/settings.local.json` excludes `git *` from the Bash sandbox so git can reach `~/.gnupg`. The exclusion applies only when every segment of the call is a git command and nothing in it uses `$(…)`. A pipe into another command, a leading non-git command, or any `$(…)` runs the call sandboxed, and signing fails with `No secret key`. That includes the `git commit -m "$(cat <<'EOF' … EOF)"` heredoc form, so pass multi-line messages as repeated `-m` arguments. If signing still fails, stage the files and give the user the commit command to run with the `!` prefix. Never bypass signing with `--no-gpg-sign`.

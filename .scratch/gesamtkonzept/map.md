@@ -14,7 +14,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - Location: **Restaurant Rudolph's, Poggenmühle 5** (umgebucht von der Event-Location). Der Hinterhof gehört an dem Abend teilweise der Feier und ist der Rückfall für die Raumspiele, bei Regen unter einem Schirm.
 - Raumspiele: Das Konzept nimmt an, dass das Hausrecht sie erlaubt. Die Anfrage läuft parallel ([Hausrecht beim Rudolph's anfragen](issues/06-hausrecht-anfragen.md)).
 - Inhalte (Fragen, Wörter, Bilder, Hinweistexte) werden nicht produziert. Das Konzept legt nur fest, was gebraucht wird und wie viel.
-- Commits macht der Nutzer selbst mit `!`, weil GPG-Signatur und Sandbox nicht zusammenpassen.
+- Commits: siehe `CLAUDE.md`, Abschnitt Git.
 
 ## Decisions so far
 
