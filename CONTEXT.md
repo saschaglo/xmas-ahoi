@@ -8,6 +8,10 @@ Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen St
 Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Objekte, Wörter, Knoten) richten sich nach der Crew.
 _Avoid_: Gruppe, Team, Besetzung
 
+**Teilaufgabe**:
+Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigenes Wort, eigener Knoten). Eine Crew aus n Personen hat n Teilaufgaben.
+_Avoid_: Unteraufgabe, Einzelaufgabe
+
 **Rätsel**:
 Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden).
 _Avoid_: Puzzle
@@ -28,7 +32,7 @@ Beenden einer Station ohne Schlüssel und ohne Punkte, gültig für die ganze Cr
 _Avoid_: Aufgeben
 
 **Exit**:
-Ausweg aus einem Rätsel nach zwei Hinweisen und einer Mindestzeit: Schlüssel ja, Punkte 0.
+Ausweg aus einem Rätsel, frühestens 60 Sekunden nach dem zweiten Hinweis: Schlüssel ja, Punkte 0.
 
 **Lostopf**:
 Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt mindestens einen Trostpreis.

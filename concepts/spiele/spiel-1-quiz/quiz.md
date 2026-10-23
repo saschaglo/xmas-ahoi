@@ -25,7 +25,7 @@ Jede Crew bearbeitet im Team schnell eine festgelegte Höchstzahl an Fragen, ega
 
 Ablauf auf dem Handy: Regelkarte (Kategorie, Fragenzahl, Zeit), Countdown, danach eine Frage nach der anderen mit Restzeit-Anzeige, am Ende das Ergebnis „x von y richtig“. Die Zeit läuft auf dem Server; eine Antwort nach Ablauf wird nicht mehr gewertet. Die Fragen zieht der Server ohne Wiederholung für jede Person aus dem Pool.
 
-Jede Person spielt auf dem eigenen Handy parallel (also die Variation mit eigenen Fragen als Standard), weil der Spielstand im Konzept am einzelnen Spieler hängt. Die Crew teilt dann nur die Startzeit und die Gesamtzahl der Fragen. Antwortformat: Multiple Choice mit 4 Antworten, bei Schätzfragen ein Zahlenfeld oder Regler.
+Jede Person spielt auf dem eigenen Handy parallel eigene Fragen; die Crew teilt nur die Startzeit und das Zeitlimit ([Crewgröße und Teilaufgaben](../uebergreifend.md#crewgröße-und-teilaufgaben)). Antwortformat: Multiple Choice mit 4 Antworten, bei Schätzfragen ein Zahlenfeld oder Regler.
 
 Poolgröße als grobe Schätzung: mindestens 60 bis 80 Fragen, damit sich zwei beliebige Crews nur wenig überschneiden. Den Anteil der Firmenfragen legt der Veranstalter fest.
 
@@ -33,10 +33,8 @@ Das Quiz ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte]
 
 ## Offene Fragen und Widersprüche
 
-1. „Im Team bearbeiten“: gemeinsames Handy oder jede Person auf dem eigenen? Bei eigenen Handys: dieselben Fragen für alle oder verschiedene?
-2. Gilt die Zeit pro Person oder pro Crew? Bei 5 Fragen in 2 Minuten bleiben pro Frage etwa 24 Sekunden, bei 15 Fragen im gemeinsamen Spiel nur etwa 8 Sekunden. Das passt nur bei paralleler Bearbeitung auf mehreren Handys.
-3. Schätzfragen: Wann ist eine Antwort richtig (Toleranz), oder zählt die Nähe?
-4. Die vierte Kategorie fehlt. Vorschläge passend zum Motto: Seefahrt und Meer, Weihnachten oder eine eigene Firmenkategorie.
-5. Variation mit Kategoriewahl: Einzelspieler wählen eine Kategorie, bei 2 Personen zwei verschiedene. Reichen 4 Kategorien?
-6. Googeln und Absprache zwischen Crews lassen sich bei Allgemeinwissen nicht verhindern. Ist das ein akzeptiertes Risiko? Firmenfragen sind davon weniger betroffen.
-7. Wer erstellt die Fragen und wie viele sollen es sein?
+1. Schätzfragen: Wann ist eine Antwort richtig (Toleranz), oder zählt die Nähe?
+2. Die vierte Kategorie fehlt. Vorschläge passend zum Motto: Seefahrt und Meer, Weihnachten oder eine eigene Firmenkategorie.
+3. Variation mit Kategoriewahl: Einzelspieler wählen eine Kategorie, bei 2 Personen zwei verschiedene. Reichen 4 Kategorien?
+4. Googeln und Absprache zwischen Crews lassen sich bei Allgemeinwissen nicht verhindern. Ist das ein akzeptiertes Risiko? Firmenfragen sind davon weniger betroffen.
+5. Wer erstellt die Fragen und wie viele sollen es sein?

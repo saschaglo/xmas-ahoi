@@ -10,4 +10,4 @@ Ist eine Morsetabelle erlaubt und wo gibt es sie, Wort oder Satz und wie lang, w
 
 ## Kontext
 
-- [Morsezeichen, offene Fragen](../../../concepts/spiele/spiel-3-morsezeichen/morsezeichen.md#offene-fragen-und-widersprüche) (1, 2, 3, 5, 6 sowie Reste aus den übrigen)
+- [Morsezeichen, offene Fragen](../../../concepts/spiele/spiel-3-morsezeichen/morsezeichen.md#offene-fragen-und-widersprüche) (1 bis 6)

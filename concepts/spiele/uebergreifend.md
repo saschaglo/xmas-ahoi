@@ -30,9 +30,19 @@ Jedes Spiel hat einen festen Spieltyp:
 - Jedes Spiel braucht genug Varianten (Fragen, Wörter, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt.
 - Den Spieltyp von Spiel 6 legt [Spiel 6](spiel-6-offen/spiel-6.md) fest.
 
+## Crewgröße und Teilaufgaben
+
+Alle Spiele skalieren nach derselben Regel mit der Crew:
+
+- Jede Person spielt auf dem eigenen Handy eine eigene [Teilaufgabe](../../CONTEXT.md) (eigene Fragen, eigenes Wort, eigener Knoten). Eine Crew aus n Personen hat n Teilaufgaben. Wie groß eine Teilaufgabe ist, legt die Seite des Spiels fest.
+- Der Server zieht die Teilaufgaben ohne Wiederholung innerhalb der Crew. Nach einem Abbruch bekommt ein Spieler an dieser Station nichts, was er dort schon hatte. Die nötige Poolgröße legt die Seite des Spiels fest.
+- Rätsel: Die Station ist beendet, wenn alle Teilaufgaben gelöst sind. Wer fertig ist, sieht „Warte auf deine Crew“ und darf den anderen helfen. Verlassen lässt sich die Station nur über Exit oder Abbruch.
+- Punktespiel: Die Crew hat ein gemeinsames Zeitlimit ab dem gemeinsamen Start, gleich lang wie für Einzelspieler. Die Station ist beendet, wenn alle ihre Teilaufgaben beantwortet haben oder die Zeit abgelaufen ist.
+- Varianten, die auf Verständigung zwischen Personen setzen (zum Beispiel Navigator Aufgabe A mit Fragen bei einem anderen Mitglied), spielen Einzelspieler in der Grundform auf dem eigenen Handy.
+- Hinweise bei Rätseln gelten je Crew, ihr Text je Person ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+
 ## Spielübergreifende offene Punkte
 
 1. Knoten und Begriffe finden brauchen feste Orte, Material und gelegentliche Kontrolle. Das Konzept kennt Stationen bisher nur als Punkte auf der App-Karte. Es fehlt: Location, Platz, Hausrecht, Kapazität bei gleichzeitigem Spiel, Zurücksetzen der Requisiten ohne Betreuung.
 2. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Raumspielen zählt die Laufzeit mit.
 3. Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf). Zufällige Varianten je Crew (Fragen, Startwort, Ort, Wort) mindern das. Ob das Restrisiko akzeptiert wird, ist offen.
-4. Spielvarianten nach Crewgröße und die Details je Spiel werden noch beschrieben (aus „Offen und später“ im Spielkonzept).

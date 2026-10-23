@@ -39,7 +39,7 @@ flowchart LR
 2. [Eingang und Bordkarte](framework/eingang-und-bordkarte.md): QR-Code, Textcode, Check-in
 3. [Crews](framework/crews.md): Crew je Station bilden und beitreten
 4. [Karte und Stationen](framework/karte-und-stationen.md): Schatzkarte, Schlüssel und Punkte, Verbindungsverlust
-5. [Hinweise, Abbruch und Exit](framework/hinweise-abbruch-exit.md): Mindestzeiten, Zustimmung, Log
+5. [Hinweise, Abbruch und Exit](framework/hinweise-abbruch-exit.md): Hinweis-Takt, Zustimmung, Log
 6. [Spielstand und Wiedereinstieg](framework/spielstand-und-wiedereinstieg.md)
 7. [Finale, Ende-Seite und Siegerehrung](framework/finale-und-ziehung.md)
 8. [Betrieb, Datenschutz und Risiken](framework/betrieb-datenschutz-risiken.md)

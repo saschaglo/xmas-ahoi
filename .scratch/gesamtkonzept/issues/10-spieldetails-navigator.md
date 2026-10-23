@@ -10,4 +10,4 @@ Wie ist eine Navigator-Station aufgebaut (Aufgaben A, B, C nacheinander oder ein
 
 ## Kontext
 
-- [Navigator, offene Fragen](../../../concepts/spiele/spiel-2-navigator/navigator.md#offene-fragen-und-widersprüche) (1, 2, 4 bis 8 sowie Reste aus den übrigen)
+- [Navigator, offene Fragen](../../../concepts/spiele/spiel-2-navigator/navigator.md#offene-fragen-und-widersprüche) (1 bis 7)

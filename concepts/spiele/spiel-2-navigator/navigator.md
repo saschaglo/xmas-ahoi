@@ -32,7 +32,7 @@ Der Navigator ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Pu
 
 Ein Navigator-Durchlauf besteht aus zwei Runden von je etwa 2 Minuten, damit das Limit von 5 Minuten bleibt: erst Aufgabe A, dann Aufgabe B (später gegebenenfalls C anstelle von B oder als dritte Runde).
 
-Aufgabe A: Das Bild ist zum Beispiel 10 Sekunden sichtbar, danach folgt eine Liste mit zwölf bis fünfzehn Objekten, von denen die Crew die gesehenen anklickt. Als Startwerte für die Objektzahl wären 4 für eine Person, 6 für zwei und 8 für drei Personen ein Anfang; das müsste an echten Bildern ausprobiert werden. Bei der Variation mit Fragen bei einer anderen Person müssen sich beide verständigen, was das Spiel sozial macht. Dafür braucht es eine Rückfalllösung für Einzelspieler.
+Aufgabe A: Das Bild ist zum Beispiel 10 Sekunden sichtbar, danach folgt eine Liste mit zwölf bis fünfzehn Objekten, von denen die Crew die gesehenen anklickt. Als Startwerte für die Objektzahl wären 4 für eine Person, 6 für zwei und 8 für drei Personen ein Anfang; das müsste an echten Bildern ausprobiert werden. Bei der Variation mit Fragen bei einer anderen Person müssen sich beide verständigen, was das Spiel sozial macht. Einzelspieler sehen Bild und Fragen auf dem eigenen Handy ([Crewgröße und Teilaufgaben](../uebergreifend.md#crewgröße-und-teilaufgaben)).
 
 Aufgabe B: Für die Landkarte OpenStreetMap statt Google Maps (keine Schlüssel und Kosten, kein Streit um Nutzungsbedingungen), das Foto aus einer frei lizenzierten Quelle. Gewertet wird als richtig, wenn der Tipp innerhalb eines Radius um die echte Position liegt, der je Bild festgelegt wird. Die Koordinaten-Variation ist die technisch einfachste: vier Bilder zur Auswahl, kein Kartenwerkzeug nötig. Die Anleitung zum Lesen der Koordinaten käme auf die Rückseite der Bordkarte (jede Person hat sie dabei) oder als Hinweis in die App, statt ein Blatt an einer Station auszulegen.
 
@@ -42,9 +42,8 @@ Ideen für Aufgabe C (nur Vorschläge): Seezeichen zuordnen (rote und grüne Ton
 
 1. Besteht eine Navigator-Station aus mehreren Aufgaben nacheinander (A, B, C) oder wird bei jedem Durchlauf eine Aufgabe ausgewählt? Das entscheidet über die Zeit von höchstens 5 Minuten. Welches Zeitlimit gilt dann je Aufgabe?
 2. Aufgabe A: Wie lange wird das Bild gezeigt? Ein Screenshot lässt sich im Browser nicht verhindern. Ist das ein akzeptiertes Risiko?
-3. Aufgabe A, Variation: Was geschieht bei Einzelspielern?
-4. Aufgabe B: Wie genau muss der Tipp sein (Radius)? Zeigt die Karte Ortsnamen und Länder? Das verrät viel.
-5. Aufgabe B, Street View: Auf offener See gibt es keine Street-View-Aufnahmen. Zoomen und Bewegen lassen sich nur mit der Google-Programmierschnittstelle einschränken; das müsste vor einer Zusage geprüft werden, ebenso Kosten und Nutzungsbedingungen. Ist die Variation das wert?
-6. Koordinaten-Variation: Das Blatt an der Station widerspricht dem rein digitalen Konzept, in dem Stationen nur Punkte auf der App-Karte sind. Wo läge das Blatt, und wäre die Bordkarte-Rückseite eine Alternative?
-7. Bilder: Woher kommen die Wimmelbilder und Meer-Fotos (Lizenz, eigene Illustration, KI-generiert, Rechte)? Wie viele Bilder braucht es, damit Crews nicht dasselbe sehen?
-8. Aufgabe C: Passt eine der drei Ideen, oder soll weitergesucht werden?
+3. Aufgabe B: Wie genau muss der Tipp sein (Radius)? Zeigt die Karte Ortsnamen und Länder? Das verrät viel.
+4. Aufgabe B, Street View: Auf offener See gibt es keine Street-View-Aufnahmen. Zoomen und Bewegen lassen sich nur mit der Google-Programmierschnittstelle einschränken; das müsste vor einer Zusage geprüft werden, ebenso Kosten und Nutzungsbedingungen. Ist die Variation das wert?
+5. Koordinaten-Variation: Das Blatt an der Station widerspricht dem rein digitalen Konzept, in dem Stationen nur Punkte auf der App-Karte sind. Wo läge das Blatt, und wäre die Bordkarte-Rückseite eine Alternative?
+6. Bilder: Woher kommen die Wimmelbilder und Meer-Fotos (Lizenz, eigene Illustration, KI-generiert, Rechte)? Wie viele Bilder braucht es, damit Crews nicht dasselbe sehen?
+7. Aufgabe C: Passt eine der drei Ideen, oder soll weitergesucht werden?

@@ -20,7 +20,7 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablau
 10. Station: Bereit in der Crew („2 von 3 Personen sind da“, Trotzdem starten, ab 2 Personen)
 11. Karte mit Crew-Banner („Peter startet Station 3. Bist du dabei?“)
 12. Hinweis zum 1. Spiel (Dialog: danach keine neuen Crew-Mitglieder mehr)
-13. Station mit Hinweisen (Platzhalter für die Spielfläche, Hinweis 1 von 2, nächster Hinweis mit Mindestzeit, Station abbrechen)
+13. Station mit Hinweisen (Platzhalter für die Spielfläche, Hinweis 1 von 2, nächster Hinweis mit Sperre, Station abbrechen)
 14. Exit vorschlagen (Dialog, braucht Zustimmung der Anwesenden)
 15. Menü (Crew anzeigen, Weitere Person einladen, Crew verlassen ganz unten)
 16. Crew verlassen (Rückfrage, mit Hinweis auf den Verlust von Gründen und Beitritt)
@@ -32,7 +32,7 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablau
 22. Station: zu wenige Personen (Crew mit 1 Anwesenden, „Trotzdem starten“ gesperrt)
 23. Station abbrechen (Dialog, gilt für alle, setzt den Spielstand zurück)
 24. Exit: Zustimmung (Dialog bei den anderen Mitgliedern, 60 Sekunden, danach abgelehnt)
-25. Station: Hinweis gesperrt (Mindestzeit-Anzeige, „Hinweis 1 in 0:47“)
+25. Station: Hinweis gesperrt (Sperre-Anzeige, „Nächster Hinweis in 0:47“), Rückfrage vor dem Nehmen
 26. Crew: Beitritt-Hinweis („Peter ist noch zur Crew beigetreten“)
 
 ## Annahmen und offene Punkte

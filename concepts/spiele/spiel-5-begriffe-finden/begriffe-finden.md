@@ -28,7 +28,7 @@ Die Hinweise sollten in einer Art verschlüsselt sein, die Laien in kurzer Zeit 
 
 Die Crew tippt am Ort den Begriff in die App ein (kein QR-Code, denn der wäre auch ohne Suchen scannbar, wenn jemand ein Foto davon hat).
 
-Hinweise (Vorschlag): Hinweis 1 nennt den Bereich (zum Beispiel „im Eingangsbereich“), Hinweis 2 den Ort fast direkt. Exit nach der Mindestzeit.
+Hinweise (Vorschlag): Hinweis 1 nennt den Bereich (zum Beispiel „im Eingangsbereich“), Hinweis 2 den Ort fast direkt. Exit nach dem [Takt](../../framework/hinweise-abbruch-exit.md).
 
 ## Offene Fragen und Widersprüche
 

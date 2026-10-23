@@ -22,6 +22,6 @@ Welche Spiele haben Hinweise und Exit, und welche Mindestzeiten gelten jeweils? 
 - Begriffe finden verliert sein Zeitlimit und wird damit ein normales Rätsel.
 - Damit ist auch die Quiz-Frage „egal ob richtig oder falsch“ beantwortet: Eine falsche Antwort zählt als falsch, und es geht weiter.
 - Die 5 Minuten je Spiel sind ein Planungswert, kein Zeitlimit.
-- Mindestzeiten gelten für alle Rätsel gleich, ohne Einstellung je Spiel, und zählen fest ab Start des Durchlaufs: Hinweis 1 ab 1:30, Hinweis 2 ab 3:00 (nach Hinweis 1), Exit ab 4:00 (nach Hinweis 2).
+- ~~Mindestzeiten gelten für alle Rätsel gleich, ohne Einstellung je Spiel, und zählen fest ab Start des Durchlaufs: Hinweis 1 ab 1:30, Hinweis 2 ab 3:00 (nach Hinweis 1), Exit ab 4:00 (nach Hinweis 2).~~ Ersetzt durch den Hinweis-Takt aus [Mengen und Varianten nach Crewgröße](03-mengen-nach-besetzung.md).
 
 Eingearbeitet in: `hinweise-abbruch-exit.md`, `uebergreifend.md`, `CONTEXT.md`, `CLAUDE.md`, Quiz, Navigator, Knoten, Begriffe finden. Offene Punkte dort gelöscht und neu nummeriert; Verweise in den Tickets angepasst. Das Ticket „Spieldetails Navigator“ fragt jetzt auch nach dem Zeitlimit je Aufgabe.

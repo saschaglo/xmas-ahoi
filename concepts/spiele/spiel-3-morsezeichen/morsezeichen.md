@@ -32,6 +32,6 @@ Hinweise (Vorschlag): Hinweis 1 nennt den ersten Buchstaben, Hinweis 2 die Läng
 1. Ist eine Morsetabelle erlaubt, und wo gibt es sie (App, Bordkarte oder Papier an einer Station)? Ohne Tabelle ist das Spiel für Laien praktisch unlösbar.
 2. Wort oder Satz, und wie lang? Ein Satz sprengt bei langsamem Tempo die 5 Minuten schnell.
 3. Unbegrenzt wiederholbar, und fest oder einstellbar im Tempo?
-4. Variation: Bekommt jede Person ein eigenes Wort auf dem eigenen Handy? Sollen die Wörter am Ende zu einem Lösungssatz zusammengesetzt werden (Zusammenarbeit)? Das ist nur ein Vorschlag.
+4. Jede Person bekommt ein eigenes Wort auf dem eigenen Handy ([Crewgröße und Teilaufgaben](../uebergreifend.md#crewgröße-und-teilaufgaben)). Sollen die Wörter am Ende zu einem Lösungssatz zusammengesetzt werden (Zusammenarbeit)? Das ist nur ein Vorschlag.
 5. Gibt es einen Zusammenhang zur Geschichte (Legende, Schiff, Hafen), oder ist das Wort frei wählbar?
 6. Beide Kanäle (Ton und Licht) anzubieten hilft Menschen mit Hör- oder Sehbeeinträchtigung; soll das fest eingeplant werden?
