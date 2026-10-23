@@ -6,9 +6,9 @@ Das sechste Minispiel steht noch aus. Sobald es beschrieben ist, bekommt diese S
 
 ## Ideen (nur Vorschläge, nicht entschieden)
 
-- Seemannsgarn: Eine Aussage über die Firma oder Kolleginnen und Kollegen, die Gruppe entscheidet, ob sie wahr oder erfunden ist. Das bringt die gewünschte Firmen- und soziale Komponente.
+- Seemannsgarn: Eine Aussage über die Firma oder Kolleginnen und Kollegen, die Besetzung entscheidet, ob sie wahr oder erfunden ist. Das bringt die gewünschte Firmen- und soziale Komponente.
 - Signalflaggen: Flaggen den Buchstaben zuordnen und daraus ein Wort lesen (ähnelt dem Morsespiel).
-- Synchron rudern: Alle Personen der Gruppe tippen im Takt. Das hängt stark von der Netzverzögerung ab und ist für eine unbetreute Station riskant.
+- Synchron rudern: Alle Personen der Besetzung tippen im Takt. Das hängt stark von der Netzverzögerung ab und ist für eine unbetreute Station riskant.
 
 ## Offene Fragen
 

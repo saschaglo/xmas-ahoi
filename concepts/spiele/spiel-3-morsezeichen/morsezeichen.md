@@ -2,15 +2,15 @@
 
 Quelle: Trilium „Spiel 3 – Morsezeichen“ · Stand 22.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
-Eine „Gruppe“ ist eine oder mehrere Personen, also 1 bis 3 (in der Oberfläche „Crew“). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
+Die „Besetzung“ sind die Spieler, die einen Durchlauf der Station tatsächlich spielen (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
 
 ## Beschreibung
 
-Ein Wort oder ein Satz wird im Morsealphabet auf dem Handy ausgespielt. Falls es im Raum zu laut ist oder jemand das Handy auf lautlos hat, kann stattdessen oder zusätzlich ein blinkendes Licht im Spielbereich die Morsezeichen zeigen, so als ob jemand mit einer Taschenlampe morst. Die Gruppe entschlüsselt das Wort und gibt es ein.
+Ein Wort oder ein Satz wird im Morsealphabet auf dem Handy ausgespielt. Falls es im Raum zu laut ist oder jemand das Handy auf lautlos hat, kann stattdessen oder zusätzlich ein blinkendes Licht im Spielbereich die Morsezeichen zeigen, so als ob jemand mit einer Taschenlampe morst. Die Besetzung entschlüsselt das Wort und gibt es ein.
 
 ## Variationen
 
-- Bei mehr Personen in der Gruppe löst jede Person ihr eigenes Wort und gibt es ein. Die Aufgabe ist erst fertig, wenn alle gelöst haben.
+- Bei mehr Personen in der Besetzung löst jede Person ihr eigenes Wort und gibt es ein. Die Aufgabe ist erst fertig, wenn alle gelöst haben.
 
 ## Requisiten
 

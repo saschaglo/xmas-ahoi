@@ -24,8 +24,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Every concept file starts with `Quelle: <Trilium-Seite> · Stand <Datum> · [Übersicht](…)` below the title.
 - Open points go in a section named `Offene Punkte` or `Offene Fragen und Widersprüche`. Do not delete an open point without the user's decision; when a decision is made, write it into the body and remove the point.
 - Game pages separate the organizer's input from suggestions. `Beschreibung` and `Variationen` hold the organizer's input. `Aufbau (Empfehlung)` and `Offene Fragen` hold review suggestions that are not decided yet.
-- The UI term is "Crew". Game pages say "Gruppe" for 1 to 3 players, solo players included.
+- Domain terms live in the German glossary `CONTEXT.md` (for example "Crew" vs. "Besetzung"). Use them exactly; avoid the terms it lists under _Avoid_.
 - Points that affect several games belong in `concepts/spiele/uebergreifend.md`, not in each game page.
+
+## Open concept work
+
+Open decisions are tracked as a wayfinder map in `.scratch/gesamtkonzept/map.md`, with one ticket per decision under `issues/`. Resolving a ticket means writing the decision into the affected `concepts/` page, removing the open point there, and appending a line to the map's "Decisions so far".
 
 ## Core model (spans several concept files)
 

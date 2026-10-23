@@ -2,7 +2,7 @@
 
 Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Grundprinzip“ · Stand 21.10.2026 · [Übersicht](../README.md)
 
-In der Oberfläche heißt eine Gruppe „Crew“.
+Fachbegriffe wie „Crew“ und „Besetzung“ stehen im [Glossar](../../CONTEXT.md).
 
 - Digitale Schnitzeljagd über den gesamten Abend, asynchron, nicht geführt und nicht von Menschen unterstützt; der Ablauf muss selbsterklärend sein.
 - Mobile Webseite (keine App) auf Basis von Nuxt, gehostet im Internet. Der Laptop des Veranstalters dient nur der Administration.

@@ -70,5 +70,5 @@ Jede Seite führt ihre offenen Punkte im Abschnitt „Offene Punkte“ oder „O
 
 ## Wortwahl
 
-- „Crew“ ist der Begriff in der Oberfläche; die Spielseiten sagen „Gruppe“ für 1 bis 3 Personen (auch Einzelspieler).
+- Fachbegriffe wie „Crew“ und „Besetzung“ stehen im [Glossar](../CONTEXT.md).
 - Auf den Spielseiten sind „Beschreibung“ und „Variationen“ die Vorgabe des Veranstalters; „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind nicht entschieden.
