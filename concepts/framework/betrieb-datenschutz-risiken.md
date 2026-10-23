@@ -1,6 +1,6 @@
 # Betrieb, Datenschutz und akzeptierte Risiken
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte „Technik, Datenschutz und akzeptierte Risiken“ und „Offen und später“ · Stand 21.10.2026 · [Übersicht](../README.md)
+Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte „Technik, Datenschutz und akzeptierte Risiken“ und „Offen und später“ · Stand 23.10.2026 · [Übersicht](../README.md)
 
 ## Betrieb
 
@@ -8,7 +8,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
 
 ## Datenschutz
 
-- Gespeichert werden nur Vornamen, Spielstände sowie das Hinweis- und Exit-Log.
+- Gespeichert werden nur Vornamen, Spielstände, Punkte sowie das Log für Hinweise, Exits und Abbrüche.
 - Der Datenschutzbeauftragte wird informiert, auch über das Log.
 
 ## Bewusst akzeptierte Risiken
@@ -16,7 +16,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
 - Offen herumliegende oder weitergegebene Karten.
 - Leere Akkus und geteilte Handys.
 - Doppelte Vornamen (Peter und Peter).
-- Crews bringen mehr Lose, und Mitläufer sind möglich (jede Person trägt sich selbst ein).
+- Eine starke Crew kann schwächeren Spielern Punkte verschaffen; jeder Spieler kann jede Station aber nur einmal beenden.
 
 ## Offene Punkte
 

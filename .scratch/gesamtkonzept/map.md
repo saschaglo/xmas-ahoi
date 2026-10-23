@@ -8,6 +8,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 ## Notes
 
+- Sprache: Grilling-Fragen, Empfehlungen und Rückfragen an den Nutzer immer auf Deutsch, in jeder Session und jedem Ticket.
 - Domäne: Fachkonzept auf Deutsch. Jede Session ruft die Skills „grilling“ und „domain-modeling“ auf und nutzt die Begriffe aus dem Glossar [`CONTEXT.md`](../../CONTEXT.md).
 - Eine Entscheidung wird beim Abschluss eines Tickets in die betroffene Konzeptseite unter `concepts/` geschrieben, und der zugehörige offene Punkt dort wird gelöscht. Das Ticket hält nur den Weg dorthin fest.
 - Location: **Restaurant Rudolph's, Poggenmühle 5** (umgebucht von der Event-Location). Der Hinterhof gehört an dem Abend teilweise der Feier und ist der Rückfall für die Raumspiele, bei Regen unter einem Schirm.
@@ -17,14 +18,16 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 ## Decisions so far
 
+- [Spieltypen, Punkte und Crew je Station](issues/01-spieltypen-schluesselregel.md): Rätsel und Punktespiel; jede beendete Station gibt Schlüssel und 0–100 Punkte, Abbruch gibt nichts und wird neu gespielt; Crew bildet sich je Station; Rangliste nach Punkten statt Ziehung, Trostpreis für alle im Lostopf.
 - [Rudolph's: Räume, Netz, Hausregeln](issues/05-rudolphs-recherche.md): Restaurant mit einem ebenerdigen Gastraum (laut Nebenquelle etwa 60 Plätze), Terrasse und Hinterhof. WLAN ist nicht genannt. Besondere Deko muss bis 13.11. abgesprochen sein.
 
 ## Not yet specified
 
 - **Spieldetails Spiel 6:** erst nach [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md). Je nach Ergebnis ein Handy- oder ein Raumspiel.
 - **Rückseite der Bordkarte:** Morsetabelle, Anleitung für Koordinaten, Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Navigator, Morse und Begriffe finden.
-- **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 4). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
+- **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 3). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
 - **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an der Antwort vom Rudolph's und an einem Test vor Ort.
+- **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.
 
 ## Out of scope
 

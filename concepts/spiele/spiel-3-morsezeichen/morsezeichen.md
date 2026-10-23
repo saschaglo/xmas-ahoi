@@ -1,16 +1,16 @@
 # Spiel 3 – Morsezeichen
 
-Quelle: Trilium „Spiel 3 – Morsezeichen“ · Stand 22.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
+Quelle: Trilium „Spiel 3 – Morsezeichen“ · Stand 23.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
-Die „Besetzung“ sind die Spieler, die einen Durchlauf der Station tatsächlich spielen (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
+Die „Crew“ sind die Spieler, die einen Durchlauf der Station gemeinsam spielen, auch eine einzelne Person (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
 
 ## Beschreibung
 
-Ein Wort oder ein Satz wird im Morsealphabet auf dem Handy ausgespielt. Falls es im Raum zu laut ist oder jemand das Handy auf lautlos hat, kann stattdessen oder zusätzlich ein blinkendes Licht im Spielbereich die Morsezeichen zeigen, so als ob jemand mit einer Taschenlampe morst. Die Besetzung entschlüsselt das Wort und gibt es ein.
+Ein Wort oder ein Satz wird im Morsealphabet auf dem Handy ausgespielt. Falls es im Raum zu laut ist oder jemand das Handy auf lautlos hat, kann stattdessen oder zusätzlich ein blinkendes Licht im Spielbereich die Morsezeichen zeigen, so als ob jemand mit einer Taschenlampe morst. Die Crew entschlüsselt das Wort und gibt es ein.
 
 ## Variationen
 
-- Bei mehr Personen in der Besetzung löst jede Person ihr eigenes Wort und gibt es ein. Die Aufgabe ist erst fertig, wenn alle gelöst haben.
+- Bei mehr Personen in der Crew löst jede Person ihr eigenes Wort und gibt es ein. Die Aufgabe ist erst fertig, wenn alle gelöst haben.
 
 ## Requisiten
 
@@ -34,6 +34,5 @@ Hinweise (Vorschlag): Hinweis 1 nennt den ersten Buchstaben, Hinweis 2 die Läng
 2. Wort oder Satz, und wie lang? Ein Satz sprengt bei langsamem Tempo die 5 Minuten schnell.
 3. Unbegrenzt wiederholbar, und fest oder einstellbar im Tempo?
 4. Variation: Bekommt jede Person ein eigenes Wort auf dem eigenen Handy? Sollen die Wörter am Ende zu einem Lösungssatz zusammengesetzt werden (Zusammenarbeit)? Das ist nur ein Vorschlag.
-5. Wer fehlt, bekommt kein Wort: Die Anzahl der Wörter richtet sich nach den Anwesenden, nicht nach der Crew. Stimmt das?
-6. Gibt es einen Zusammenhang zur Geschichte (Legende, Schiff, Hafen), oder ist das Wort frei wählbar?
-7. Beide Kanäle (Ton und Licht) anzubieten hilft Menschen mit Hör- oder Sehbeeinträchtigung; soll das fest eingeplant werden?
+5. Gibt es einen Zusammenhang zur Geschichte (Legende, Schiff, Hafen), oder ist das Wort frei wählbar?
+6. Beide Kanäle (Ton und Licht) anzubieten hilft Menschen mit Hör- oder Sehbeeinträchtigung; soll das fest eingeplant werden?

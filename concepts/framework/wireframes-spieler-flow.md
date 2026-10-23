@@ -1,6 +1,6 @@
 # Wireframes: Spieler-Flow
 
-Quelle: Trilium „Wireframes – Logbuch-Flow“ · Stand 21.10.2026 · [Übersicht](../README.md)
+Quelle: Trilium „Wireframes – Logbuch-Flow“ · Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
 
 Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablauf der mobilen Webseite. Die Screens des Admin-Panels stehen unter [Wireframes: Admin-Panel](../admin/wireframes-admin.md).
 
@@ -37,5 +37,5 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablau
 
 ## Annahmen und offene Punkte
 
-1. Dass alle aktiv mitspielen sollen, wird nur mündlich auf der Feier gesagt; es gibt dafür keinen Screen.
+1. Die Screens zeigen das alte Modell mit festen Crews. Mit der [Crew je Station](crews.md) entfallen die Screens 3 bis 6, 10 bis 12, 15, 16, 22 und 26. Neu zu zeichnen: Station mit „Allein spielen“ oder „Crew bilden“, Crewcode eingeben an der Station, „Du warst hier schon mal“, die Sperre bei Verbindungsverlust (siehe [Karte und Stationen](karte-und-stationen.md#verbindung-während-der-station)). Screen 23 ändert sich: Ein Abbruch gibt keinen Schlüssel und löst die Crew auf.
 2. Die Spielflächen der Minispiele sind Platzhalter; sie werden je Spiel nach der Beschreibung ergänzt. Varianten nach Crewgröße kommen dann ebenfalls dazu.

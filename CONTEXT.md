@@ -1,13 +1,38 @@
 # Xmas Ahoi – Schatzsuche
 
-Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen Stationen allein oder in einer Crew und sammeln Schlüssel für die Schatztruhe.
+Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen Stationen allein oder in einer Crew, sammeln Schlüssel für die Schatztruhe und Punkte für die Rangliste.
 
 ## Language
 
 **Crew**:
-Fester Zusammenschluss von 1 bis 3 Spielern über einen Crewcode, gebildet in der Lobby.
-_Avoid_: Gruppe, Team
+Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Objekte, Wörter, Knoten) richten sich nach der Crew.
+_Avoid_: Gruppe, Team, Besetzung
 
-**Besetzung**:
-Die Spieler, die einen Durchlauf einer Station tatsächlich spielen: ein Einzelspieler oder die anwesenden Mitglieder einer Crew. Alle Mengenregeln (Fragen, Objekte, Wörter, Knoten) richten sich nach der Besetzung.
-_Avoid_: Gruppe, Anwesende
+**Rätsel**:
+Spieltyp mit genau einer richtigen Lösung, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden).
+_Avoid_: Puzzle
+
+**Punktespiel**:
+Spieltyp mit begrenzter Zeit oder Aufgabenzahl, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator).
+_Avoid_: Zeitspiel, Wertungsspiel
+
+**Schlüssel**:
+Das, was eine beendete Station jedem Spieler der Crew gibt, unabhängig von den Punkten. 6 Schlüssel öffnen die Schatztruhe.
+
+**Punkte**:
+0 bis 100 je beendeter Station, gleich für alle in der Crew. Die Summe über alle Stationen bestimmt die Rangliste.
+_Avoid_: Score, Wertung
+
+**Abbruch**:
+Beenden einer Station ohne Schlüssel und ohne Punkte, gültig für die ganze Crew. Die Station bleibt offen und wird neu gespielt.
+_Avoid_: Aufgeben
+
+**Exit**:
+Ausweg aus einem Rätsel nach zwei Hinweisen und einer Mindestzeit: Schlüssel ja, Punkte 0.
+
+**Lostopf**:
+Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt mindestens einen Trostpreis.
+
+**Rangliste**:
+Reihenfolge der Spieler im Lostopf nach Punkten. Sie bestimmt die Plätze 1 bis 3 und wird erst bei der Siegerehrung gezeigt.
+_Avoid_: Ziehung, Leaderboard

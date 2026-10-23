@@ -1,6 +1,6 @@
 # Wireframes: Admin-Panel
 
-Quelle: Trilium „Wireframes – Logbuch-Flow“, Abschnitt „Admin-Panel“ · Stand 21.10.2026 · [Übersicht](../README.md)
+Quelle: Trilium „Wireframes – Logbuch-Flow“, Abschnitt „Admin-Panel“ · Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
 
 **Design-Canvas (Claude Design, privat):** [Wireframes – Logbuch-Flow](https://claude.ai/artifact/79z52NjAYibAu2gyE1iL34)
 
@@ -16,5 +16,5 @@ In der Seitenleiste aller Screens: Schalter „Schatzsuche öffnen/schließen“
 
 ## Annahmen und offene Punkte
 
-1. Die Ziehung ist zufällig und ohne Gewichtung; eine beim Neuziehen verworfene Person bleibt für die weiteren Plätze im Lostopf.
+1. Die Screens 2 bis 4 zeigen das alte Modell mit festen Crews und zufälliger Ziehung. Neu zu zeichnen: Screen 2 entfällt, Screen 3 wird die Rangliste nach Punkten (siehe [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung)), Screen 4 bekommt „Abbrüche“ statt „Übersprungen“.
 2. Der Admin-Bereich ist nur als Desktop-Ansicht gezeichnet; die Handy-Ansicht folgt bei der Umsetzung.

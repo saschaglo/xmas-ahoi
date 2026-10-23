@@ -6,7 +6,7 @@ Blocked by: 02, 03, 07
 
 ## Question
 
-Wie viele Orte und Begriffe gehören zu einem Durchlauf, wie weist die Besetzung die Lösung nach, wie lang ist das Zeitlimit und was passiert bei Ablauf, und welche Verschlüsselungsarten kommen vor (mit Anleitung wo)?
+Wie viele Orte und Begriffe gehören zu einem Durchlauf, wie weist die Crew die Lösung nach, wie lang ist das Zeitlimit und was passiert bei Ablauf, und welche Verschlüsselungsarten kommen vor (mit Anleitung wo)?
 
 ## Kontext
 

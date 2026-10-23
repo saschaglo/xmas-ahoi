@@ -24,7 +24,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Every concept file starts with `Quelle: <Trilium-Seite> · Stand <Datum> · [Übersicht](…)` below the title.
 - Open points go in a section named `Offene Punkte` or `Offene Fragen und Widersprüche`. Do not delete an open point without the user's decision; when a decision is made, write it into the body and remove the point.
 - Game pages separate the organizer's input from suggestions. `Beschreibung` and `Variationen` hold the organizer's input. `Aufbau (Empfehlung)` and `Offene Fragen` hold review suggestions that are not decided yet.
-- Domain terms live in the German glossary `CONTEXT.md` (for example "Crew" vs. "Besetzung"). Use them exactly; avoid the terms it lists under _Avoid_.
+- Domain terms live in the German glossary `CONTEXT.md` (for example "Crew", "Rätsel", "Punktespiel"). Use them exactly; avoid the terms it lists under _Avoid_.
 - Points that affect several games belong in `concepts/spiele/uebergreifend.md`, not in each game page.
 
 ## Open concept work
@@ -34,13 +34,14 @@ Open decisions are tracked as a wayfinder map in `.scratch/gesamtkonzept/map.md`
 ## Core model (spans several concept files)
 
 ```
-Bordkarte (QR + 4-char code) -> Check-in -> solo or Crew (max 3, lobby)
-  -> Schatzkarte with 6 stations -> each solved station = 1 key
-  -> 6 keys -> "Schatz bergen" -> Lostopf -> 3 random draws via admin panel
+Bordkarte (QR + 4-char code) -> Check-in -> Schatzkarte with 6 stations
+  -> per station: solo or Crew formed on the spot (max 3, dissolves after)
+  -> finished station = 1 key + 0..100 points; Abbruch = no key, replay
+  -> 6 keys -> "Schatz bergen" -> Lostopf -> ranking by points at the award ceremony
 ```
 
-- Game state belongs to the player and lives on the server. Crews only synchronize play together, and there are no crew accounts.
-- Hints, exits, and skipped keys are logged, idempotent, and visible to the admin during the draw.
+- Game state belongs to the player and lives on the server. Crews exist for one station only, and there are no crew accounts.
+- Hints, exits, and aborts are logged, idempotent, and visible to the admin in the ranking.
 - Unresolved: the global minimum times for hints and exit (1:30 / 3:00 / 4:00) do not fit timed games such as the quiz. See `concepts/spiele/uebergreifend.md`.
 
 ## Commands

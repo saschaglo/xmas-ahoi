@@ -1,6 +1,6 @@
 # Rahmen der Feier
 
-Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand 22.10.2026 · [Übersicht](../README.md)
+Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand 23.10.2026 · [Übersicht](../README.md)
 
 ## Rahmen
 
@@ -10,13 +10,12 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 - Rätsel-Minispiele, je höchstens 5 Minuten, insgesamt höchstens 30 Minuten.
 - Asynchron den ganzen Abend spielbar, Pausen möglich.
 - Webseite und QR-Codes sind erlaubt; Firmenwissen und soziale Komponenten sollen vorkommen.
-- Alle Spiele laufen ohne Betreuung; nur die Ziehung am Ende ist moderiert.
+- Alle Spiele laufen ohne Betreuung; nur die Siegerehrung am Ende ist moderiert.
 
 ## Preise
 
-- Wer die Schatztruhe birgt, kommt in den Lostopf; wer das Ende nicht erreicht, erhält nichts.
-- 3 Plätze; Preise höchstens 20 EUR (zum Beispiel lokale Essensgutscheine).
-- Alle im Lostopf erhalten etwas; die Plätze 1 bis 3 erhalten etwas Besonderes.
+- Wer die Schatztruhe birgt, kommt in den Lostopf und erhält mindestens einen Trostpreis; wer das Ende nicht erreicht, erhält nichts.
+- 3 Plätze nach Punkten, dazu die Ehrung „Teamplayer“; Preise höchstens 20 EUR (zum Beispiel lokale Essensgutscheine). Regeln unter [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung).
 
 ## Technische Vorgaben
 

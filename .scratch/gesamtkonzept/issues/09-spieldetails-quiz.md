@@ -10,4 +10,4 @@ Welche spielspezifischen offenen Fragen des Quiz bleiben nach den übergreifende
 
 ## Kontext
 
-- [Quiz, offene Fragen](../../../concepts/spiele/spiel-1-quiz/quiz.md#offene-fragen-und-widersprüche) (6, 7, 8, 9, 11 sowie Reste aus den übrigen)
+- [Quiz, offene Fragen](../../../concepts/spiele/spiel-1-quiz/quiz.md#offene-fragen-und-widersprüche) (4, 5, 6, 7, 9 sowie Reste aus den übrigen)

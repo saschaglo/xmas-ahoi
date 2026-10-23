@@ -4,24 +4,27 @@ Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 
 
 ## Stand
 
-- Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet.
+- Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet. Die Wireframes zeigen noch feste Crews und die Ziehung; was neu zu zeichnen ist, steht auf den Wireframe-Seiten.
 - Fünf von sechs Minispielen sind beschrieben; die offenen Fragen stehen auf den Spielseiten.
 - Die Spielideen der Recherchephase sind nicht die Grundlage; sie liegen im [Archiv](archiv/archiv.md).
 - Bisher gibt es keine Programmierung.
 
 ## Ablauf aus Sicht einer Person
 
-Vom Scannen der Bordkarte bis zur Ziehung:
+Vom Scannen der Bordkarte bis zur Siegerehrung. Die Crew bildet sich erst an der Station und löst sich nach ihr wieder auf:
 
 ```mermaid
 flowchart LR
   A[Bordkarte scannen] --> B[Check-in]
-  B --> C{Allein oder Crew?}
-  C -->|Allein| D[Schatzkarte]
-  C -->|Crew| L[Lobby] --> D
-  D --> E[Station spielen] --> F[Schlüssel]
+  B --> D[Schatzkarte]
+  D --> S[Station wählen]
+  S --> C{Allein oder Crew?}
+  C -->|Allein| E[Station spielen]
+  C -->|Crew| K[Crewcode teilen, alle bereit] --> E
+  E -->|Abbruch, Crew aufgelöst| D
+  E -->|beendet, Crew aufgelöst| F[Schlüssel und Punkte]
   F -->|weniger als 6| D
-  F -->|6 Schlüssel| G[Schatz bergen] --> H[Lostopf] --> I[Ziehung]
+  F -->|6 Schlüssel| G[Schatz bergen] --> H[Lostopf] --> I[Siegerehrung]
 ```
 
 ## Dokumente
@@ -32,24 +35,24 @@ flowchart LR
 
 ### Framework (Spielablauf)
 
-1. [Grundprinzip](framework/grundprinzip.md): Stationen, Schlüssel, Lostopf, Spielerkonten
+1. [Grundprinzip](framework/grundprinzip.md): Stationen, Schlüssel, Punkte, Lostopf, Spielerkonten
 2. [Eingang und Bordkarte](framework/eingang-und-bordkarte.md): QR-Code, Textcode, Check-in
-3. [Crews](framework/crews.md): gründen, beitreten, Lobby, austreten
-4. [Karte und Stationen](framework/karte-und-stationen.md): Schatzkarte, Anwesenheit, Schlüsselvergabe
+3. [Crews](framework/crews.md): Crew je Station bilden und beitreten
+4. [Karte und Stationen](framework/karte-und-stationen.md): Schatzkarte, Schlüssel und Punkte, Verbindungsverlust
 5. [Hinweise, Abbruch und Exit](framework/hinweise-abbruch-exit.md): Mindestzeiten, Zustimmung, Log
 6. [Spielstand und Wiedereinstieg](framework/spielstand-und-wiedereinstieg.md)
-7. [Finale, Ende-Seite und Ziehung](framework/finale-und-ziehung.md)
+7. [Finale, Ende-Seite und Siegerehrung](framework/finale-und-ziehung.md)
 8. [Betrieb, Datenschutz und Risiken](framework/betrieb-datenschutz-risiken.md)
 9. [Wireframes: Spieler-Flow](framework/wireframes-spieler-flow.md): 26 Screens
 
 ### Admin
 
-- [Admin-Panel](admin/admin-panel.md): Login, Schalter, Nutzer, Crews, Ziehung, Log
+- [Admin-Panel](admin/admin-panel.md): Login, Schalter, Nutzer, Rangliste, Log
 - [Wireframes: Admin-Panel](admin/wireframes-admin.md): 5 Screens
 
 ### Minispiele
 
-- [Spielübergreifende Punkte](spiele/uebergreifend.md)
+- [Spielübergreifende Punkte](spiele/uebergreifend.md): Spieltypen und Punkte
 
 | Nr. | Spiel | Ort | Stand |
 |-----|-------|-----|-------|
@@ -70,5 +73,5 @@ Jede Seite führt ihre offenen Punkte im Abschnitt „Offene Punkte“ oder „O
 
 ## Wortwahl
 
-- Fachbegriffe wie „Crew“ und „Besetzung“ stehen im [Glossar](../CONTEXT.md).
+- Fachbegriffe wie „Crew“, „Rätsel“ und „Punktespiel“ stehen im [Glossar](../CONTEXT.md).
 - Auf den Spielseiten sind „Beschreibung“ und „Variationen“ die Vorgabe des Veranstalters; „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind nicht entschieden.

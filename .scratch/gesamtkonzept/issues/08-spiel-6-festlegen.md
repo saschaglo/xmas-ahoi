@@ -12,4 +12,4 @@ Welches Spiel wird Spiel 6? Rahmen: Handy- oder Raumspiel ist offen, Firmenwisse
 
 - [Spiel 6 – noch offen](../../../concepts/spiele/spiel-6-offen/spiel-6.md) (bisherige Ideen: Seemannsgarn, Signalflaggen, Synchron rudern)
 - [Rahmen der Feier](../../../concepts/rahmen/rahmen-der-feier.md)
-- Spieltyp aus [Spieltypen und Schlüsselregel](01-spieltypen-schluesselregel.md)
+- Spieltyp (Rätsel oder Punktespiel) aus [Spieltypen, Punkte und Crew je Station](01-spieltypen-schluesselregel.md); Spiel 6 muss einen davon festlegen

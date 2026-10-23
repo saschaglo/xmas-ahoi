@@ -6,7 +6,7 @@ Blocked by: 02, 03, 07
 
 ## Question
 
-Wie genau funktioniert das Knotenspiel: Wie wird das Lösungswort sichtbar, wie wird der Knoten geprüft (Prüfbild und Ehrlichkeit?), wie viele Knoten gehören zu einem Durchlauf, wie schließt die Besetzung in der App ab, und wozu dient die Trennwand?
+Wie genau funktioniert das Knotenspiel: Wie wird das Lösungswort sichtbar, wie wird der Knoten geprüft (Prüfbild und Ehrlichkeit?), wie viele Knoten gehören zu einem Durchlauf, wie schließt die Crew in der App ab, und wozu dient die Trennwand?
 
 ## Kontext
 
