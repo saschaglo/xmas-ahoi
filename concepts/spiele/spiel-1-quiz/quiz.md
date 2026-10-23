@@ -36,5 +36,4 @@ Das Quiz ist ein Punktespiel; Schlüssel und Punkte nach [Spieltypen und Punkte]
 1. Schätzfragen: Wann ist eine Antwort richtig (Toleranz), oder zählt die Nähe?
 2. Die vierte Kategorie fehlt. Vorschläge passend zum Motto: Seefahrt und Meer, Weihnachten oder eine eigene Firmenkategorie.
 3. Variation mit Kategoriewahl: Einzelspieler wählen eine Kategorie, bei 2 Personen zwei verschiedene. Reichen 4 Kategorien?
-4. Googeln und Absprache zwischen Crews lassen sich bei Allgemeinwissen nicht verhindern. Ist das ein akzeptiertes Risiko? Firmenfragen sind davon weniger betroffen.
-5. Wer erstellt die Fragen und wie viele sollen es sein?
+4. Wer erstellt die Fragen und wie viele sollen es sein?

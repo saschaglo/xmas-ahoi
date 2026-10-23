@@ -41,8 +41,16 @@ Alle Spiele skalieren nach derselben Regel mit der Crew:
 - Varianten, die auf Verständigung zwischen Personen setzen (zum Beispiel Navigator Aufgabe A mit Fragen bei einem anderen Mitglied), spielen Einzelspieler in der Grundform auf dem eigenen Handy.
 - Hinweise bei Rätseln gelten je Crew, ihr Text je Person ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 
+## Weitergabe von Lösungen
+
+Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf, Foto). Die Schatzsuche schützt sich dagegen nur durch Zufall und nimmt den Rest als Risiko hin:
+
+- In allen Spielen, auch in Spiel 6, zieht der Server jede Teilaufgabe zufällig aus einem Pool (Fragen, Startwort, Wort, Ort). Ziel ist, dass sich zwei Crews selten überschneiden; eine Garantie gibt es nicht. Die Poolgröße legt die Seite des Spiels fest.
+- Keine technische Erkennung (zum Beispiel Tab-Wechsel oder verdächtig schnelle Lösungen) und keine Sanktionen. Bei Preisen bis 20 EUR lohnt der Aufwand nicht, und Erkennung im Browser ist unzuverlässig.
+- Beim Check-in bittet ein Satz darum, Lösungen nicht weiterzugeben ([Eingang und Bordkarte](../framework/eingang-und-bordkarte.md)).
+- Was trotzdem möglich bleibt, steht unter [Mogeln](../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken) in den akzeptierten Risiken.
+
 ## Spielübergreifende offene Punkte
 
 1. Knoten und Begriffe finden brauchen feste Orte, Material und gelegentliche Kontrolle. Das Konzept kennt Stationen bisher nur als Punkte auf der App-Karte. Es fehlt: Location, Platz, Hausrecht, Kapazität bei gleichzeitigem Spiel, Zurücksetzen der Requisiten ohne Betreuung.
 2. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Raumspielen zählt die Laufzeit mit.
-3. Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf). Zufällige Varianten je Crew (Fragen, Startwort, Ort, Wort) mindern das. Ob das Restrisiko akzeptiert wird, ist offen.

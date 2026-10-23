@@ -22,7 +22,7 @@ Auf dem Handy werden verschlüsselte Hinweise angezeigt. Die Crew muss daraus ei
 
 ## Aufbau (Empfehlung)
 
-Jede Crew bekommt vom Server zufällig einen Ort zugewiesen, nicht alle denselben. Das verteilt die Crews im Raum und erschwert, dass jemand die Lösung einfach über den Firmenchat weitergibt, weil ein anderer Ort mit anderem Begriff gebraucht wird. Diese Maßnahme empfiehlt sich für alle Spiele mit festen Lösungen (Quiz-Pool, Startwort, Wort, Ort).
+Der Server weist jeder Teilaufgabe zufällig einen der Orte zu, nicht allen denselben. Das verteilt die Crews im Raum und erschwert, dass jemand die Lösung über den Firmenchat weitergibt ([Weitergabe von Lösungen](../uebergreifend.md#weitergabe-von-lösungen)).
 
 Die Hinweise sollten in einer Art verschlüsselt sein, die Laien in kurzer Zeit knacken: Anagramm, Bilderrätsel, einfache Verschiebung (Caesar) mit mitgeliefertem Schlüssel, oder ein Rätselvers. Ein Beispiel: „Hier hängt ein Kleidungsstück für schlechtes Wetter“ führt zur Garderobe. Das Ziel ist ein Ort, den jeder kennt.
 
@@ -33,8 +33,7 @@ Hinweise (Vorschlag): Hinweis 1 nennt den Bereich (zum Beispiel „im Eingangsbe
 ## Offene Fragen und Widersprüche
 
 1. Wie viele Orte und Begriffe gehören zu einem Durchlauf: einer oder mehrere nacheinander? „Begriffe“ steht im Plural, aber „Ort + Begriff“ klingt nach einem Paar.
-2. Wie weist die Crew die Lösung nach: Begriff eintippen, oder soll etwas anderes passieren? Das bestimmt, ob ein Foto vom Begriff reicht, um zu mogeln.
+2. Wie weist die Crew die Lösung nach: Begriff eintippen, oder soll etwas anderes passieren? Ein weitergegebenes Foto vom Begriff ist ein [akzeptiertes Risiko](../../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken).
 3. In welcher Location findet die Feier statt, und darf man Schilder anbringen (Hausrecht, Restaurantbetrieb)? Davon hängt ab, wo die Orte liegen können.
 4. Welche Verschlüsselungsarten sollen vorkommen, und gibt es eine Anleitung dazu (zum Beispiel auf der Bordkarte)?
-5. Zufällige Zuweisung je Crew: Passt das, oder sollen alle denselben Ort suchen (dann Gedränge)?
-6. Andere Gäste (Service, Nichtspieler) können Schilder verdecken oder entfernen. Wer prüft das im Lauf des Abends?
+5. Andere Gäste (Service, Nichtspieler) können Schilder verdecken oder entfernen. Wer prüft das im Lauf des Abends?

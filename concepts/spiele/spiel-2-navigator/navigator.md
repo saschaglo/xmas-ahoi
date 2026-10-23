@@ -41,7 +41,7 @@ Ideen für Aufgabe C (nur Vorschläge): Seezeichen zuordnen (rote und grüne Ton
 ## Offene Fragen und Widersprüche
 
 1. Besteht eine Navigator-Station aus mehreren Aufgaben nacheinander (A, B, C) oder wird bei jedem Durchlauf eine Aufgabe ausgewählt? Das entscheidet über die Zeit von höchstens 5 Minuten. Welches Zeitlimit gilt dann je Aufgabe?
-2. Aufgabe A: Wie lange wird das Bild gezeigt? Ein Screenshot lässt sich im Browser nicht verhindern. Ist das ein akzeptiertes Risiko?
+2. Aufgabe A: Wie lange wird das Bild gezeigt?
 3. Aufgabe B: Wie genau muss der Tipp sein (Radius)? Zeigt die Karte Ortsnamen und Länder? Das verrät viel.
 4. Aufgabe B, Street View: Auf offener See gibt es keine Street-View-Aufnahmen. Zoomen und Bewegen lassen sich nur mit der Google-Programmierschnittstelle einschränken; das müsste vor einer Zusage geprüft werden, ebenso Kosten und Nutzungsbedingungen. Ist die Variation das wert?
 5. Koordinaten-Variation: Das Blatt an der Station widerspricht dem rein digitalen Konzept, in dem Stationen nur Punkte auf der App-Karte sind. Wo läge das Blatt, und wäre die Bordkarte-Rückseite eine Alternative?

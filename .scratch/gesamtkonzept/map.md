@@ -22,6 +22,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Hinweise, Exit und Mindestzeiten je Spiel](issues/02-hinweise-exit-mindestzeiten.md): Hinweise und Exit nur bei Rätseln; Rätsel haben kein Zeitlimit (Begriffe finden verliert seins); Punktespiele haben immer ein Zeitlimit. Mindestzeiten (1:30 / 3:00 / 4:00) später ersetzt durch den Hinweis-Takt aus [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md).
 - [Rudolph's: Räume, Netz, Hausregeln](issues/05-rudolphs-recherche.md): Restaurant mit einem ebenerdigen Gastraum (laut Nebenquelle etwa 60 Plätze), Terrasse und Hinterhof. WLAN ist nicht genannt. Besondere Deko muss bis 13.11. abgesprochen sein.
 - [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md): Jede Person löst auf dem eigenen Handy eine eigene Teilaufgabe; Einzelspieler spielen Verständigungs-Varianten in der Grundform. Neuer Hinweis-Takt: 2 Hinweise je Crew, ab 0:30, 60 s Sperre, Text nur für den Klickenden; Exit ab 60 s nach Hinweis 2.
+- [Weitergabe von Lösungen: Restrisiko](issues/04-weitergabe-von-loesungen.md): Schutz nur durch zufällige Teilaufgaben aus Pools in allen Spielen, keine Erkennung, ein Fairness-Satz beim Check-in; Mogeln (Chat, Googeln, Screenshot, Knoten überspringen) ist akzeptiertes Risiko.
 
 ## Not yet specified
 

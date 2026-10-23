@@ -31,7 +31,7 @@ Kartenkette als Ring: Mit 4 bis 6 Knoten, bei denen jede Karte zur nächsten fü
 
 Die beiden Bereiche sollten so nah beieinander liegen (wenige Schritte), dass die Laufzeit nicht den Großteil der 5 Minuten braucht. Nur einfache Knoten, die Laien in etwa einer Minute schaffen, zum Beispiel Kreuzknoten, Achtknoten, Webeleinenstek, Schotstek und Mastwurf. Der Palstek ist ohne Übung in der Zeit schwer.
 
-Prüfung: Ob ein Knoten wirklich gebunden wurde, kann ohne Betreuung niemand prüfen. Das wird nicht erzwungen; die Karte ist so gebaut, dass das Lösungswort erst nach dem Knoten hinten auf der Karte steht und ein „Prüfbild“ den richtigen Knoten zeigt, mit dem man vergleicht. Wer überspringt, tut das auf eigene Verantwortung, wie bei den anderen akzeptierten Risiken (Mitläufer).
+Prüfung: Ob ein Knoten wirklich gebunden wurde, kann ohne Betreuung niemand prüfen. Das wird nicht erzwungen; die Karte ist so gebaut, dass das Lösungswort erst nach dem Knoten hinten auf der Karte steht und ein „Prüfbild“ den richtigen Knoten zeigt, mit dem man vergleicht. Wer überspringt, tut das auf eigene Verantwortung; das ist ein [akzeptiertes Risiko](../../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken).
 
 Zum Zurücksetzen ein Schild an jedem Platz („Seil wieder lösen“). Weil die Seile sonst im Laufe des Abends verknotet oder verschwunden sind, sollte jemand ab und zu nach den Plätzen sehen.
 
@@ -40,7 +40,7 @@ Hinweise (Vorschlag): Hinweis 1 nennt den Bereich oder Tisch, Hinweis 2 den Name
 ## Offene Fragen und Widersprüche
 
 1. „Der fertige Knoten (auf einer Karte) zeigt ein Lösungswort“: Wie genau? Wird das Seil auf die Karte gebunden, und wie wird dabei ein Wort sichtbar? Lesart aus der Durchsicht: Das Wort steht auf der Karte, der Knoten selbst ist reine Aufgabe.
-2. Wie wird geprüft, dass der Knoten gebunden wurde? Ohne Betreuung nicht möglich; reicht ein Prüfbild und Ehrlichkeit?
+2. Ohne Betreuung prüft niemand, ob der Knoten gebunden wurde; Überspringen ist ein akzeptiertes Risiko. Braucht die Karte trotzdem ein Prüfbild zum Vergleichen?
 3. Wie viele Knoten gehören zu einem Durchlauf, und wie schließt die Crew ab: ein Wort in die App eingeben?
 4. Wo in der Location liegen die beiden Bereiche, und wie weit sind sie auseinander? Das bestimmt die Laufzeit in den 5 Minuten.
 5. Kapazität: Wie viele Crews spielen gleichzeitig? Wer setzt Seile und Karten zurück und ersetzt verlorene? Das widerspricht „komplett ohne Menschen“, wenn jemand nachsehen muss. Wäre das akzeptabel?
