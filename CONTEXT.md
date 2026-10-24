@@ -40,3 +40,7 @@ Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt minde
 **Rangliste**:
 Reihenfolge der Spieler im Lostopf nach Punkten. Sie bestimmt die Plätze 1 bis 3 und wird erst bei der Siegerehrung gezeigt.
 _Avoid_: Ziehung, Leaderboard
+
+**Orgateam**:
+Die Leute, die die Schatzsuche vorbereiten und am Abend ansprechbar sind. Sie betreuen keine Station, sehen aber gelegentlich nach dem Material und helfen bei Fragen.
+_Avoid_: Betreuer, Spielleitung

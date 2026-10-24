@@ -52,7 +52,7 @@ flowchart LR
 
 ### Minispiele
 
-- [Spielübergreifende Punkte](spiele/uebergreifend.md): Spieltypen und Punkte
+- [Spielübergreifende Punkte](spiele/uebergreifend.md): Spieltypen und Punkte, Spiele mit Material im Raum
 
 | Nr. | Spiel | Ort | Stand |
 |-----|-------|-----|-------|

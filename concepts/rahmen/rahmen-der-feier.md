@@ -10,7 +10,7 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 - Minispiele, je etwa 5 Minuten geplant, insgesamt höchstens 30 Minuten. Die 5 Minuten sind ein Planungswert, kein Zeitlimit; ein Rätsel bleibt durch den Exit (frühestens bei 2:30) darin ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 - Asynchron den ganzen Abend spielbar, Pausen möglich.
 - Webseite und QR-Codes sind erlaubt; Firmenwissen und soziale Komponenten sollen vorkommen.
-- Alle Spiele laufen ohne Betreuung; nur die Siegerehrung am Ende ist moderiert.
+- Alle Spiele laufen ohne Betreuung. Moderiert sind nur eine kurze Einleitung zu Beginn und die Siegerehrung am Ende. Die Einleitung erklärt den Ablauf, zeigt die Orte der Spiele mit Material im Raum und stellt das [Orgateam](../../CONTEXT.md) vor.
 
 ## Preise
 

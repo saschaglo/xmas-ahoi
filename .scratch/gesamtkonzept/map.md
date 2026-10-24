@@ -11,8 +11,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - Sprache: Grilling-Fragen, Empfehlungen und Rückfragen an den Nutzer immer auf Deutsch, in jeder Session und jedem Ticket.
 - Domäne: Fachkonzept auf Deutsch. Jede Session ruft die Skills „grilling“ und „domain-modeling“ auf und nutzt die Begriffe aus dem Glossar [`CONTEXT.md`](../../CONTEXT.md).
 - Eine Entscheidung wird beim Abschluss eines Tickets in die betroffene Konzeptseite unter `concepts/` geschrieben, und der zugehörige offene Punkt dort wird gelöscht. Das Ticket hält nur den Weg dorthin fest.
-- Location: **Restaurant Rudolph's, Poggenmühle 5** (umgebucht von der Event-Location). Der Hinterhof gehört an dem Abend teilweise der Feier und ist der Rückfall für die Raumspiele, bei Regen unter einem Schirm.
-- Raumspiele: Das Konzept nimmt an, dass das Hausrecht sie erlaubt. Die Anfrage läuft parallel ([Hausrecht beim Rudolph's anfragen](issues/06-hausrecht-anfragen.md)).
+- Location: **Restaurant Rudolph's, Poggenmühle 5** (umgebucht von der Event-Location). Keine Standortkonzepte: Plätze, Hausrecht und Rückfälle löst das Orgateam vor Ort.
 - Inhalte (Fragen, Wörter, Bilder, Hinweistexte) werden nicht produziert. Das Konzept legt nur fest, was gebraucht wird und wie viel.
 - Commits: siehe `CLAUDE.md`, Abschnitt Git.
 
@@ -23,13 +22,14 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Rudolph's: Räume, Netz, Hausregeln](issues/05-rudolphs-recherche.md): Restaurant mit einem ebenerdigen Gastraum (laut Nebenquelle etwa 60 Plätze), Terrasse und Hinterhof. WLAN ist nicht genannt. Besondere Deko muss bis 13.11. abgesprochen sein.
 - [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md): Jede Person löst auf dem eigenen Handy eine eigene Teilaufgabe; Einzelspieler spielen Verständigungs-Varianten in der Grundform. Neuer Hinweis-Takt: 2 Hinweise je Crew, ab 0:30, 60 s Sperre, Text nur für den Klickenden; Exit ab 60 s nach Hinweis 2.
 - [Weitergabe von Lösungen: Restrisiko](issues/04-weitergabe-von-loesungen.md): Schutz nur durch zufällige Teilaufgaben aus Pools in allen Spielen, keine Erkennung, ein Fairness-Satz beim Check-in; Mogeln (Chat, Googeln, Screenshot, Knoten überspringen) ist akzeptiertes Risiko.
+- [Raumspiele im Restaurant: Orte, Kapazität, Zurücksetzen](issues/07-raumspiele-restaurant.md): Nur Regeln, keine Plätze; Knotentisch im Gastraum, Ortsabfrage vor der Crew-Bildung bei Knoten und Spiel 6; Begriffe-Orte ohne Ausschlüsse; Orgateam sieht nach; moderierte Einleitung in den Abend.
 
 ## Not yet specified
 
-- **Spieldetails Spiel 6:** erst nach [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md). Je nach Ergebnis ein Handy- oder ein Raumspiel.
+- **Spieldetails Spiel 6:** erst nach [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md). Spiel an einem festen Ort mit Material.
 - **Rückseite der Bordkarte:** Morsetabelle, Anleitung für Koordinaten, Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Navigator, Morse und Begriffe finden.
 - **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
-- **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an der Antwort vom Rudolph's und an einem Test vor Ort.
+- **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an einem Test vor Ort.
 - **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.
 
 ## Out of scope
@@ -38,3 +38,4 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - Technische Spezifikation (Datenmodell, Seiten, API) und die Handy-Ansicht des Admin-Panels: kommen mit der Umsetzung.
 - Trilium nachpflegen: `concepts/` ist die Quelle.
 - Gestaltung und Druck der Bordkarten.
+- [Hausrecht beim Rudolph's anfragen](issues/06-hausrecht-anfragen.md): Orga-Aufgabe, das Konzept hängt nicht an der Antwort.

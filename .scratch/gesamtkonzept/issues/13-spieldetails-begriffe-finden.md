@@ -10,4 +10,5 @@ Wie viele Orte und Begriffe gehören zu einem Durchlauf, wie weist die Crew die 
 
 ## Kontext
 
-- [Begriffe finden, offene Fragen](../../../concepts/spiele/spiel-5-begriffe-finden/begriffe-finden.md#offene-fragen-und-widersprüche) (1, 2, 4 sowie Reste nach Ticket 07)
+- [Begriffe finden, offene Fragen](../../../concepts/spiele/spiel-5-begriffe-finden/begriffe-finden.md#offene-fragen-und-widersprüche) (1 bis 3)
+- [Spiele mit Material im Raum](../../../concepts/spiele/uebergreifend.md#spiele-mit-material-im-raum): Orte ohne Ausschlüsse, Nachsehen

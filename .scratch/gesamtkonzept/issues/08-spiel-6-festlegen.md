@@ -6,7 +6,7 @@ Blocked by: 01
 
 ## Question
 
-Welches Spiel wird Spiel 6? Rahmen: Handy- oder Raumspiel ist offen, Firmenwissen und Soziales sollen im Gesamtpaket vorkommen (bisher nur im Quiz), höchstens 5 Minuten, unbetreut. Ergebnis ist eine Beschreibung und Variationen auf dem Niveau der anderen Spielseiten. Die Details werden ein eigenes Ticket.
+Welches Spiel wird Spiel 6? Rahmen: Spiel an einem festen Ort mit Material und Ortsabfrage (aus [Raumspiele im Restaurant](07-raumspiele-restaurant.md)), Firmenwissen und Soziales sollen im Gesamtpaket vorkommen (bisher nur im Quiz), höchstens 5 Minuten, unbetreut. Ergebnis ist eine Beschreibung und Variationen auf dem Niveau der anderen Spielseiten. Die Details werden ein eigenes Ticket.
 
 ## Kontext
 

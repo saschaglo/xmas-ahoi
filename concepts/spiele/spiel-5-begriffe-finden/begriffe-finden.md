@@ -15,7 +15,7 @@ Auf dem Handy werden verschlüsselte Hinweise angezeigt. Die Crew muss daraus ei
 ## Requisiten
 
 - Schilder oder Karten mit je einem Begriff (laminiert, fest angebracht, nicht entfernbar), ein Schild je Ort.
-- Mehrere Orte (als Schätzung: 8 bis 10), über die Location verteilt.
+- Mehrere Orte (als Schätzung: 8 bis 10), über die ganze Location verteilt, ohne Ausschlüsse ([Spiele mit Material im Raum](../uebergreifend.md#spiele-mit-material-im-raum)).
 - Pro Ort wenn möglich ein zweites Schild oder eine breite Stelle, damit nicht mehrere Crews im Weg stehen.
 - Befestigungsmaterial (Klebeband, Kabelbinder, Klett) und Ersatzschilder.
 - Digital: Texte der verschlüsselten Hinweise und die Zuordnung Hinweis, Ort, Begriff.
@@ -34,6 +34,4 @@ Hinweise (Vorschlag): Hinweis 1 nennt den Bereich (zum Beispiel „im Eingangsbe
 
 1. Wie viele Orte und Begriffe gehören zu einem Durchlauf: einer oder mehrere nacheinander? „Begriffe“ steht im Plural, aber „Ort + Begriff“ klingt nach einem Paar.
 2. Wie weist die Crew die Lösung nach: Begriff eintippen, oder soll etwas anderes passieren? Ein weitergegebenes Foto vom Begriff ist ein [akzeptiertes Risiko](../../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken).
-3. In welcher Location findet die Feier statt, und darf man Schilder anbringen (Hausrecht, Restaurantbetrieb)? Davon hängt ab, wo die Orte liegen können.
-4. Welche Verschlüsselungsarten sollen vorkommen, und gibt es eine Anleitung dazu (zum Beispiel auf der Bordkarte)?
-5. Andere Gäste (Service, Nichtspieler) können Schilder verdecken oder entfernen. Wer prüft das im Lauf des Abends?
+3. Welche Verschlüsselungsarten sollen vorkommen, und gibt es eine Anleitung dazu (zum Beispiel auf der Bordkarte)?

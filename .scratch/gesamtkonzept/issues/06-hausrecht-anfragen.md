@@ -1,7 +1,7 @@
 # 06 Hausrecht beim Rudolph's anfragen
 
 Type: task (HITL)
-Status: open
+Status: out of scope
 Blocked by: –
 
 ## Question
@@ -29,3 +29,7 @@ wir feiern am 20.11. unsere Weihnachtsfeier bei Ihnen in der Poggenmühle. Für 
 Vielen Dank und viele Grüße
 Sascha Glover
 ```
+
+## Out of scope
+
+Geschlossen in [Raumspiele im Restaurant](07-raumspiele-restaurant.md): Standortfragen im Rudolph's löst das Orgateam vor Ort, das Konzept hängt nicht an der Antwort. Die Anfrage bleibt eine Orga-Aufgabe. Ob es bei schlechtem Netz einen Rückfall braucht, bleibt als Fog „Netz im Gastraum“ auf der Karte.

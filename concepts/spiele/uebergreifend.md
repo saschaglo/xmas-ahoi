@@ -50,7 +50,18 @@ Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf, Foto). Die Schatzsu
 - Beim Check-in bittet ein Satz darum, Lösungen nicht weiterzugeben ([Eingang und Bordkarte](../framework/eingang-und-bordkarte.md)).
 - Was trotzdem möglich bleibt, steht unter [Mogeln](../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken) in den akzeptierten Risiken.
 
+## Spiele mit Material im Raum
+
+Knoten und Spiel 6 laufen an einem festen Ort mit Material, zum Beispiel einem Tisch. Begriffe finden nutzt Schilder an Orten in der ganzen Location.
+
+- Das Konzept legt nur Regeln fest. Die konkreten Plätze wählt das [Orgateam](../../CONTEXT.md) vor Ort (bei Umsetzung klären).
+- Feste Orte: Die Station fragt vor der Crew-Bildung jede Person einzeln: „Bist du am Knotentisch?“ Bei Ja geht es weiter zu „Allein spielen“ oder „Crew bilden“. Bei Nein erscheint „Den Knotentisch findest du …, sonst frag jemanden aus dem Orgateam“, und es geht zurück zur Schatzkarte. Ein Nein ist kein Abbruch und wird nicht geloggt ([Karte und Stationen](../framework/karte-und-stationen.md)).
+- Der Ortsname ist fester Text in der App, etwa „am Knotentisch“. Wo das ist, erklärt die Einleitung in den Abend ([Rahmen der Feier](../rahmen/rahmen-der-feier.md)).
+- Begriffe finden zeigt keinen Wegweiser; den Ort zu finden ist die Aufgabe. Für die Orte gibt es vorab keine Ausschlüsse, auch Toiletten sind möglich.
+- Die Laufwege zählen zu den 5 Minuten je Spiel. Deshalb liegen die Bereiche eines Spiels an festem Ort nur wenige Schritte auseinander.
+- Kapazität ist kein Problem: Es spielen nur wenige Crews gleichzeitig, und wer warten müsste, spielt erst eine andere Station.
+- Zurücksetzen: Die Stationen bleiben unbetreut. Das Orgateam sieht 2 bis 3 Mal am Abend nach dem Material und hat Ersatzseile und Ersatzschilder dabei. Die App hat keine Meldefunktion; Spieler sprechen das Orgateam direkt an.
+
 ## Spielübergreifende offene Punkte
 
-1. Knoten und Begriffe finden brauchen feste Orte, Material und gelegentliche Kontrolle. Das Konzept kennt Stationen bisher nur als Punkte auf der App-Karte. Es fehlt: Location, Platz, Hausrecht, Kapazität bei gleichzeitigem Spiel, Zurücksetzen der Requisiten ohne Betreuung.
-2. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Raumspielen zählt die Laufzeit mit.
+1. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Spielen mit Material im Raum zählt die Laufzeit mit.
