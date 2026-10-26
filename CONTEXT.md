@@ -5,7 +5,7 @@ Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen St
 ## Language
 
 **Crew**:
-Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Objekte, Wörter, Knoten) richten sich nach der Crew.
+Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Fotos, Wörter, Knoten) richten sich nach der Crew.
 _Avoid_: Gruppe, Team, Besetzung
 
 **Teilaufgabe**:
@@ -17,7 +17,7 @@ Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Ex
 _Avoid_: Puzzle
 
 **Punktespiel**:
-Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator, Kurs setzen).
+Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis der Anteil an den möglichen Punkten ist (Quiz, Peilung, Kurs setzen).
 _Avoid_: Zeitspiel, Wertungsspiel
 
 **Schlüssel**:

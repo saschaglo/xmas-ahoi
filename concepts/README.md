@@ -57,7 +57,7 @@ flowchart LR
 | Nr. | Spiel | Ort | Stand |
 |-----|-------|-----|-------|
 | 1 | [Quiz](spiele/spiel-1-quiz/quiz.md) | nur Handy | beschrieben |
-| 2 | [Navigator](spiele/spiel-2-navigator/navigator.md) | Handy, optional ein Blatt | beschrieben, Aufgabe C offen |
+| 2 | [Peilung](spiele/spiel-2-peilung/peilung.md) | nur Handy | beschrieben |
 | 3 | [Morsezeichen](spiele/spiel-3-morsezeichen/morsezeichen.md) | nur Handy | beschrieben |
 | 4 | [Knoten machen](spiele/spiel-4-knoten/knoten.md) | Raum (Seile, Karten) | beschrieben |
 | 5 | [Begriffe finden](spiele/spiel-5-begriffe-finden/begriffe-finden.md) | Raum (Schilder) | beschrieben |

@@ -20,7 +20,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
 - Mogeln. Zufällige Teilaufgaben machen es nur seltener ([Weitergabe von Lösungen](../spiele/uebergreifend.md#weitergabe-von-lösungen)). Möglich bleiben zum Beispiel:
   - Lösungen per Firmenchat, Zuruf oder Foto an eine andere Crew weitergeben (Wort, Begriff, Ort, Quizantwort).
   - Googeln bei Allgemeinwissen im Quiz.
-  - Ein Screenshot vom Wimmelbild beim Navigator, Aufgabe A.
+  - Eine Bildersuche (zum Beispiel Google Lens) nach dem Foto bei Peilung.
   - Einen Knoten überspringen statt ihn zu binden.
 
 ## Offene Punkte
