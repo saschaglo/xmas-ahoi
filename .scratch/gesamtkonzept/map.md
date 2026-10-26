@@ -24,6 +24,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Weitergabe von Lösungen: Restrisiko](issues/04-weitergabe-von-loesungen.md): Schutz nur durch zufällige Teilaufgaben aus Pools in allen Spielen, keine Erkennung, ein Fairness-Satz beim Check-in; Mogeln (Chat, Googeln, Screenshot, Knoten überspringen) ist akzeptiertes Risiko.
 - [Raumspiele im Restaurant: Orte, Kapazität, Zurücksetzen](issues/07-raumspiele-restaurant.md): Nur Regeln, keine Plätze; Knotentisch im Gastraum, Ortsabfrage vor der Crew-Bildung bei Knoten und Spiel 6; Begriffe-Orte ohne Ausschlüsse; Orgateam sieht nach; moderierte Einleitung in den Abend.
 - [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md): Kurs setzen, ein Punktespiel am Kartentisch: Code aus Logbuchkarten führt auf einer Seekarte (8×8) zu einem Feld; Ziffern farbig über die Handys der Crew verteilt; Firmenwissen in Wenn-dann-Zeilen; Zeitlimit 2/3/4 Minuten je Crewgröße, 2 Codes je Person. Details in [Spieldetails Kurs setzen](issues/15-spieldetails-kurs-setzen.md).
+- [Spieldetails Quiz](issues/09-spieldetails-quiz.md): 4 Kategorien (Schätzfragen, Allgemeinwissen, Sport, Firma), alle Fragen Multiple Choice mit 4 Antworten, Schätzfragen als Zahlenbereiche; 5 Fragen je Person (eine je Kategorie plus eine zufällige), 2 Minuten gesamt, keine Kategoriewahl; Pool 80 Fragen.
 
 ## Not yet specified
 
