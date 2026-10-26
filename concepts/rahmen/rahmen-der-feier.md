@@ -25,5 +25,5 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 ## Vorgehen
 
 1. Grobes Konzept und Wireframes abstimmen (erledigt; offene Punkte stehen bei den Wireframes).
-2. Jedes Minispiel einzeln beschreiben (fünf von sechs liegen vor), offene Fragen klären, dann in den Ablauf einbauen und skizzieren.
+2. Jedes Minispiel einzeln beschreiben (alle sechs liegen vor), offene Fragen klären, dann in den Ablauf einbauen und skizzieren.
 3. Danach Umsetzung als Nuxt-Projekt; bisher gibt es keine Programmierung.

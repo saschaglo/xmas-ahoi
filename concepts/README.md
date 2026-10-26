@@ -5,7 +5,7 @@ Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 
 ## Stand
 
 - Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet. Die Wireframes zeigen noch feste Crews und die Ziehung; was neu zu zeichnen ist, steht auf den Wireframe-Seiten.
-- Fünf von sechs Minispielen sind beschrieben; die offenen Fragen stehen auf den Spielseiten.
+- Alle sechs Minispiele sind beschrieben; die offenen Fragen stehen auf den Spielseiten.
 - Die Spielideen der Recherchephase sind nicht die Grundlage; sie liegen im [Archiv](archiv/archiv.md).
 - Bisher gibt es keine Programmierung.
 
@@ -61,7 +61,7 @@ flowchart LR
 | 3 | [Morsezeichen](spiele/spiel-3-morsezeichen/morsezeichen.md) | nur Handy | beschrieben |
 | 4 | [Knoten machen](spiele/spiel-4-knoten/knoten.md) | Raum (Seile, Karten) | beschrieben |
 | 5 | [Begriffe finden](spiele/spiel-5-begriffe-finden/begriffe-finden.md) | Raum (Schilder) | beschrieben |
-| 6 | [noch offen](spiele/spiel-6-offen/spiel-6.md) | offen | nur Ideen |
+| 6 | [Kurs setzen](spiele/spiel-6-kurs-setzen/kurs-setzen.md) | Raum (Seekarte, Logbuchkarten) | beschrieben, Zeiten im Testlauf |
 
 ### Archiv
 

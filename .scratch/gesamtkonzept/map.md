@@ -23,10 +23,10 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md): Jede Person löst auf dem eigenen Handy eine eigene Teilaufgabe; Einzelspieler spielen Verständigungs-Varianten in der Grundform. Neuer Hinweis-Takt: 2 Hinweise je Crew, ab 0:30, 60 s Sperre, Text nur für den Klickenden; Exit ab 60 s nach Hinweis 2.
 - [Weitergabe von Lösungen: Restrisiko](issues/04-weitergabe-von-loesungen.md): Schutz nur durch zufällige Teilaufgaben aus Pools in allen Spielen, keine Erkennung, ein Fairness-Satz beim Check-in; Mogeln (Chat, Googeln, Screenshot, Knoten überspringen) ist akzeptiertes Risiko.
 - [Raumspiele im Restaurant: Orte, Kapazität, Zurücksetzen](issues/07-raumspiele-restaurant.md): Nur Regeln, keine Plätze; Knotentisch im Gastraum, Ortsabfrage vor der Crew-Bildung bei Knoten und Spiel 6; Begriffe-Orte ohne Ausschlüsse; Orgateam sieht nach; moderierte Einleitung in den Abend.
+- [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md): Kurs setzen, ein Punktespiel am Kartentisch: Code aus Logbuchkarten führt auf einer Seekarte (8×8) zu einem Feld; Ziffern farbig über die Handys der Crew verteilt; Firmenwissen in Wenn-dann-Zeilen; Zeitlimit 2/3/4 Minuten je Crewgröße, 2 Codes je Person. Details in [Spieldetails Kurs setzen](issues/15-spieldetails-kurs-setzen.md).
 
 ## Not yet specified
 
-- **Spieldetails Spiel 6:** erst nach [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md). Spiel an einem festen Ort mit Material.
 - **Rückseite der Bordkarte:** Morsetabelle, Anleitung für Koordinaten, Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Navigator, Morse und Begriffe finden.
 - **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
 - **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an einem Test vor Ort.

@@ -17,7 +17,7 @@ Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Ex
 _Avoid_: Puzzle
 
 **Punktespiel**:
-Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator).
+Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis eine Trefferquote ist (Quiz, Navigator, Kurs setzen).
 _Avoid_: Zeitspiel, Wertungsspiel
 
 **Schlüssel**:
