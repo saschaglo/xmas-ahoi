@@ -9,16 +9,20 @@ Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bi
 _Avoid_: Gruppe, Team, Besetzung
 
 **Teilaufgabe**:
-Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigenes Wort, eigener Knoten). Eine Crew aus n Personen hat n Teilaufgaben.
+Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigener Knoten, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Morsezeichen hat keine Teilaufgaben, dort löst die Crew einen gemeinsamen Funkspruch.
 _Avoid_: Unteraufgabe, Einzelaufgabe
 
 **Rätsel**:
-Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden).
+Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
 _Avoid_: Puzzle
 
 **Punktespiel**:
 Spieltyp mit Zeitlimit, ohne Hinweise und Exit, dessen Ergebnis der Anteil an den möglichen Punkten ist (Quiz, Peilung, Kurs setzen).
 _Avoid_: Zeitspiel, Wertungsspiel
+
+**Funkspruch**:
+Der Satz, den eine Crew bei Morsezeichen gemeinsam entschlüsselt: Jedes Wort wird einzeln gemorst, danach bringt die Crew die Wörter in die richtige Reihenfolge.
+_Avoid_: Nachricht, Lösungssatz
 
 **Schlüssel**:
 Das, was eine beendete Station jedem Spieler der Crew gibt, unabhängig von den Punkten. 6 Schlüssel öffnen die Schatztruhe.

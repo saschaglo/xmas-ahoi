@@ -58,7 +58,7 @@ flowchart LR
 |-----|-------|-----|-------|
 | 1 | [Quiz](spiele/spiel-1-quiz/quiz.md) | nur Handy | beschrieben |
 | 2 | [Peilung](spiele/spiel-2-peilung/peilung.md) | nur Handy | beschrieben |
-| 3 | [Morsezeichen](spiele/spiel-3-morsezeichen/morsezeichen.md) | nur Handy | beschrieben |
+| 3 | [Morsezeichen](spiele/spiel-3-morsezeichen/morsezeichen.md) | Raum (Funkstation, Tischkarten) | beschrieben, Satzlänge im Testlauf |
 | 4 | [Knoten machen](spiele/spiel-4-knoten/knoten.md) | Raum (Seile, Karten) | beschrieben |
 | 5 | [Begriffe finden](spiele/spiel-5-begriffe-finden/begriffe-finden.md) | Raum (Schilder) | beschrieben |
 | 6 | [Kurs setzen](spiele/spiel-6-kurs-setzen/kurs-setzen.md) | Raum (Seekarte, Logbuchkarten) | beschrieben, Zeiten im Testlauf |

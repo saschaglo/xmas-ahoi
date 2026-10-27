@@ -8,7 +8,7 @@ Sechs Minispiele sind vorgesehen und beschrieben. Jede Spielseite enthält Besch
 
 1. [Spiel 1 – Quiz](spiel-1-quiz/quiz.md): Fragen aus einem Pool, nach Crewgröße skaliert, nur am Handy.
 2. [Spiel 2 – Peilung](spiel-2-peilung/peilung.md): Pin auf der Weltkarte für Küstenfotos, Punkte nach Entfernung; nur am Handy.
-3. [Spiel 3 – Morsezeichen](spiel-3-morsezeichen/morsezeichen.md): Wort per Licht oder Ton entschlüsseln; nur am Handy.
+3. [Spiel 3 – Morsezeichen](spiel-3-morsezeichen/morsezeichen.md): Wörter eines Funkspruchs per Licht oder Ton entschlüsseln und zum Satz sortieren; an der Funkstation.
 4. [Spiel 4 – Knoten machen](spiel-4-knoten/knoten.md): Seile, Karten und Anleitungen im Raum plus Startwort aus der App.
 5. [Spiel 5 – Begriffe finden](spiel-5-begriffe-finden/begriffe-finden.md): Verschlüsselte Hinweise führen zu festen Orten und Begriffen im Raum.
 6. [Spiel 6 – Kurs setzen](spiel-6-kurs-setzen/kurs-setzen.md): Codes aus Logbuchkarten führen auf einer Seekarte am Kartentisch zu einem Feld.
@@ -26,19 +26,19 @@ Jedes Spiel hat einen festen Spieltyp:
 - Ein Abbruch gibt weder Schlüssel noch Punkte, auch wenn bis dahin Treffer erzielt wurden. Die Station wird neu gespielt ([Abbruch](../framework/hinweise-abbruch-exit.md)).
 - Alle in der Crew bekommen dieselben Punkte. Weil die Mengen mit der Crewgröße wachsen, zählt die Quote, nicht die absolute Trefferzahl; so sind Einzelspieler und Crews vergleichbar.
 - Kein Zeitbonus: Wer ein Rätsel ohne Hinweis löst, bekommt 100 Punkte, egal wie schnell.
-- Rätsel haben kein Zeitlimit, dafür Hinweise und Exit. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
-- Jedes Spiel braucht genug Varianten (Fragen, Wörter, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt.
+- Rätsel haben kein Zeitlimit, dafür Hinweise und Exit. Ausnahme ist Morsezeichen mit einer Höchstzeit von 5 Minuten, danach folgt ein automatischer Exit. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+- Jedes Spiel braucht genug Varianten (Fragen, Sätze, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt. Ausnahme ist Morsezeichen: Dort darf sich ein Satz wiederholen.
 
 ## Crewgröße und Teilaufgaben
 
 Alle Spiele skalieren nach derselben Regel mit der Crew:
 
-- Jede Person spielt auf dem eigenen Handy eine eigene [Teilaufgabe](../../CONTEXT.md) (eigene Fragen, eigenes Wort, eigener Knoten). Eine Crew aus n Personen hat n Teilaufgaben. Wie groß eine Teilaufgabe ist, legt die Seite des Spiels fest.
-- Der Server zieht die Teilaufgaben ohne Wiederholung innerhalb der Crew. Nach einem Abbruch bekommt ein Spieler an dieser Station nichts, was er dort schon hatte. Die nötige Poolgröße legt die Seite des Spiels fest.
+- Jede Person spielt auf dem eigenen Handy eine eigene [Teilaufgabe](../../CONTEXT.md) (eigene Fragen, eigener Knoten, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Wie groß eine Teilaufgabe ist, legt die Seite des Spiels fest. Ausnahme ist Morsezeichen: Dort entschlüsselt die Crew einen gemeinsamen Funkspruch, und jedes Handy zieht seine Wörter aus einem gemeinsamen Stapel.
+- Der Server zieht die Teilaufgaben ohne Wiederholung innerhalb der Crew. Nach einem Abbruch bekommt ein Spieler an dieser Station nichts, was er dort schon hatte, außer bei Morsezeichen. Die nötige Poolgröße legt die Seite des Spiels fest.
 - Rätsel: Die Station ist beendet, wenn alle Teilaufgaben gelöst sind. Wer fertig ist, sieht „Warte auf deine Crew“ und darf den anderen helfen. Verlassen lässt sich die Station nur über Exit oder Abbruch.
 - Punktespiel: Die Crew hat ein gemeinsames Zeitlimit ab dem gemeinsamen Start, gleich lang wie für Einzelspieler. Ausnahme ist Kurs setzen: Dort wächst das Zeitlimit mit der Crew, weil die Codes über die Handys verteilt sind. Die Station ist beendet, wenn alle ihre Teilaufgaben beantwortet haben oder die Zeit abgelaufen ist.
 - Varianten, die auf Verständigung zwischen Personen setzen (zum Beispiel bei der Reserve-Idee [Objekte merken](reserve/objekte-merken.md) die Fragen bei einem anderen Mitglied), spielen Einzelspieler in der Grundform auf dem eigenen Handy.
-- Hinweise bei Rätseln gelten je Crew, ihr Text je Person ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+- Hinweise bei Rätseln gelten je Crew, ihr Text je Person; bei Morsezeichen sehen alle in der Crew den Hinweis ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 
 ## Weitergabe von Lösungen
 
@@ -51,7 +51,7 @@ Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf, Foto). Die Schatzsu
 
 ## Spiele mit Material im Raum
 
-Knoten und Kurs setzen laufen an einem festen Ort mit Material, dem Knotentisch und dem Kartentisch. Begriffe finden nutzt Schilder an Orten in der ganzen Location.
+Morsezeichen, Knoten und Kurs setzen laufen an einem festen Ort mit Material: der Funkstation, dem Knotentisch und dem Kartentisch. Begriffe finden nutzt Schilder an Orten in der ganzen Location.
 
 - Das Konzept legt nur Regeln fest. Die konkreten Plätze wählt das [Orgateam](../../CONTEXT.md) vor Ort (bei Umsetzung klären).
 - Feste Orte: Die Station fragt vor der Crew-Bildung jede Person einzeln: „Bist du am Knotentisch?“ Bei Ja geht es weiter zu „Allein spielen“ oder „Crew bilden“. Bei Nein erscheint „Den Knotentisch findest du …, sonst frag jemanden aus dem Orgateam“, und es geht zurück zur Schatzkarte. Ein Nein ist kein Abbruch und wird nicht geloggt ([Karte und Stationen](../framework/karte-und-stationen.md)).
@@ -59,7 +59,7 @@ Knoten und Kurs setzen laufen an einem festen Ort mit Material, dem Knotentisch 
 - Begriffe finden zeigt keinen Wegweiser; den Ort zu finden ist die Aufgabe. Für die Orte gibt es vorab keine Ausschlüsse, auch Toiletten sind möglich.
 - Die Laufwege zählen zu den 5 Minuten je Spiel. Deshalb liegen die Bereiche eines Spiels an festem Ort nur wenige Schritte auseinander.
 - Kapazität ist kein Problem: Es spielen nur wenige Crews gleichzeitig, und wer warten müsste, spielt erst eine andere Station.
-- Zurücksetzen: Die Stationen bleiben unbetreut. Das Orgateam sieht 2 bis 3 Mal am Abend nach dem Material und hat Ersatzseile und Ersatzschilder dabei. Die App hat keine Meldefunktion; Spieler sprechen das Orgateam direkt an.
+- Zurücksetzen: Die Stationen bleiben unbetreut. Das Orgateam sieht 2 bis 3 Mal am Abend nach dem Material und hat Ersatzseile, Ersatzschilder sowie Notizblock und Stift dabei. Die App hat keine Meldefunktion; Spieler sprechen das Orgateam direkt an.
 
 ## Reserve-Ideen
 

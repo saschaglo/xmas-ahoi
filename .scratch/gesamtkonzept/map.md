@@ -26,10 +26,11 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Spiel 6 festlegen](issues/08-spiel-6-festlegen.md): Kurs setzen, ein Punktespiel am Kartentisch: Code aus Logbuchkarten führt auf einer Seekarte (8×8) zu einem Feld; Ziffern farbig über die Handys der Crew verteilt; Firmenwissen in Wenn-dann-Zeilen; Zeitlimit 2/3/4 Minuten je Crewgröße, 2 Codes je Person. Details in [Spieldetails Kurs setzen](issues/15-spieldetails-kurs-setzen.md).
 - [Spieldetails Quiz](issues/09-spieldetails-quiz.md): 4 Kategorien (Schätzfragen, Allgemeinwissen, Sport, Firma), alle Fragen Multiple Choice mit 4 Antworten, Schätzfragen als Zahlenbereiche; 5 Fragen je Person (eine je Kategorie plus eine zufällige), 2 Minuten gesamt, keine Kategoriewahl; Pool 80 Fragen.
 - [Spieldetails Navigator](issues/10-spieldetails-navigator.md): Spiel heißt jetzt **Peilung**, nur noch Pin auf OpenStreetMap zu Küstenfotos; Punkte fallen mit der Entfernung (voll bis 400 km); 3 Fotos je Person in 2 Minuten, Pool 40; Aufgabe A wird Reserve-Idee „Objekte merken“, Aufgabe C entfällt; Punktespiel heißt jetzt „Anteil an den möglichen Punkten“.
+- [Spieldetails Morsezeichen](issues/11-spieldetails-morsezeichen.md): Rätsel mit Höchstzeit 5 Minuten (danach automatischer Exit); Crew entschlüsselt einen gemeinsamen **Funkspruch** aus einem Wortstapel mit Positionsnummern und sortiert ihn per Drag & Drop; Hinweise für alle in der Wortliste; Morsetabelle nur an der Funkstation; Satzlänge im Testlauf.
 
 ## Not yet specified
 
-- **Rückseite der Bordkarte:** Morsetabelle, Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Morse und Begriffe finden.
+- **Rückseite der Bordkarte:** Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Begriffe finden. Eine Morsetabelle kommt nicht darauf.
 - **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
 - **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an einem Test vor Ort.
 - **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.
