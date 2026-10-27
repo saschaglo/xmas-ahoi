@@ -21,7 +21,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
   - Lösungen per Firmenchat, Zuruf oder Foto an eine andere Crew weitergeben (Wort, Begriff, Ort, Quizantwort).
   - Googeln bei Allgemeinwissen im Quiz.
   - Eine Bildersuche (zum Beispiel Google Lens) nach dem Foto bei Peilung.
-  - Einen Knoten überspringen statt ihn zu binden.
+  - Beim Fischfang mit der Hand in den Teich greifen oder Codes von Fischen fotografieren und weitergeben.
 
 ## Offene Punkte
 

@@ -27,6 +27,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Spieldetails Quiz](issues/09-spieldetails-quiz.md): 4 Kategorien (Schätzfragen, Allgemeinwissen, Sport, Firma), alle Fragen Multiple Choice mit 4 Antworten, Schätzfragen als Zahlenbereiche; 5 Fragen je Person (eine je Kategorie plus eine zufällige), 2 Minuten gesamt, keine Kategoriewahl; Pool 80 Fragen.
 - [Spieldetails Navigator](issues/10-spieldetails-navigator.md): Spiel heißt jetzt **Peilung**, nur noch Pin auf OpenStreetMap zu Küstenfotos; Punkte fallen mit der Entfernung (voll bis 400 km); 3 Fotos je Person in 2 Minuten, Pool 40; Aufgabe A wird Reserve-Idee „Objekte merken“, Aufgabe C entfällt; Punktespiel heißt jetzt „Anteil an den möglichen Punkten“.
 - [Spieldetails Morsezeichen](issues/11-spieldetails-morsezeichen.md): Rätsel mit Höchstzeit 5 Minuten (danach automatischer Exit); Crew entschlüsselt einen gemeinsamen **Funkspruch** aus einem Wortstapel mit Positionsnummern und sortiert ihn per Drag & Drop; Hinweise für alle in der Wortliste; Morsetabelle nur an der Funkstation; Satzlänge im Testlauf.
+- [Spieldetails Knoten](issues/12-spieldetails-knoten.md): Knoten gestrichen (kein Nachweis ohne Betreuung); Spiel 4 ist jetzt **Fischfang**, ein Rätsel am Fischteich: Fischreihe mit Steuerrad und Farbe auf dem Handy fortsetzen, den fehlenden von 24 schwimmenden Fischen angeln, Code eingeben; 3 Fänge je Person.
 
 ## Not yet specified
 
@@ -37,7 +38,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 ## Out of scope
 
-- Inhalte produzieren (Fragenpool, Wortlisten, Bilder, Hinweistexte, Knotenkarten): eigenes Arbeitspaket nach dem Konzept.
+- Inhalte produzieren (Fragenpool, Wortlisten, Bilder, Hinweistexte, Fische): eigenes Arbeitspaket nach dem Konzept.
 - Technische Spezifikation (Datenmodell, Seiten, API) und die Handy-Ansicht des Admin-Panels: kommen mit der Umsetzung.
 - Trilium nachpflegen: `concepts/` ist die Quelle.
 - Gestaltung und Druck der Bordkarten.

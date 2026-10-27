@@ -5,15 +5,15 @@ Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen St
 ## Language
 
 **Crew**:
-Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Fotos, Wörter, Knoten) richten sich nach der Crew.
+Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Fotos, Wörter, Fänge) richten sich nach der Crew.
 _Avoid_: Gruppe, Team, Besetzung
 
 **Teilaufgabe**:
-Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigener Knoten, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Morsezeichen hat keine Teilaufgaben, dort löst die Crew einen gemeinsamen Funkspruch.
+Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigene Fänge, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Morsezeichen hat keine Teilaufgaben, dort löst die Crew einen gemeinsamen Funkspruch.
 _Avoid_: Unteraufgabe, Einzelaufgabe
 
 **Rätsel**:
-Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Knoten, Begriffe finden). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
+Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Fischfang, Begriffe finden). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
 _Avoid_: Puzzle
 
 **Punktespiel**:
