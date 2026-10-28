@@ -12,7 +12,7 @@ Quelle: Trilium „Wireframes – Logbuch-Flow“, Abschnitt „Admin-Panel“ �
 4. Hinweis- und Exit-Log (mit Spalte „Übersprungen“)
 5. Login (Nuxt-Standard)
 
-In der Seitenleiste aller Screens: Schalter „Schatzsuche öffnen/schließen“.
+In der Seitenleiste aller Screens: Schalter „Schatzsuche öffnen/schließen“. Noch nicht gezeichnet: die drei Zustände und der Button „Zurücksetzen“ mit doppelter Bestätigung ([Admin-Panel](admin-panel.md)).
 
 ## Annahmen und offene Punkte
 

@@ -13,6 +13,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt �
 
 - Ist die Schatzsuche geschlossen, sehen alle eine Ende-Seite („Die Schatzsuche ist beendet“, mit Status: im Lostopf oder Ende nicht erreicht).
 - Wer die Seite vor der Eröffnung aufruft, sieht denselben Screen mit neutralem Text.
+- Wer beim Schließen mitten in einem Durchlauf ist, landet ebenfalls auf der Ende-Seite; der Durchlauf verfällt ([Admin-Panel](../admin/admin-panel.md)).
 
 ## Siegerehrung
 

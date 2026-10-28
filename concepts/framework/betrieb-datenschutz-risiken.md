@@ -9,7 +9,17 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
 ## Datenschutz
 
 - Gespeichert werden nur Vornamen, Spielstände, Punkte sowie das Log für Hinweise, Exits und Abbrüche.
-- Der Datenschutzbeauftragte wird informiert, auch über das Log.
+- Das Hosting speichert zusätzlich Server-Logs mit IP-Adressen und Zeitstempeln. Wie lange, wird bei der Umsetzung geklärt; spätestens mit dem Abbau sind sie gelöscht.
+- Der Datenschutzbeauftragte wird informiert, auch über das Log und die Server-Logs.
+
+## Löschkonzept
+
+1. Die Daten bleiben 14 Tage nach der Feier erhalten, also bis 4.12.2026, für Rückfragen zur Rangliste.
+2. Vor dem Löschen exportiert das Orgateam anonyme Zahlen ohne Vornamen und ohne Spieler-ID, zum Beispiel Durchläufe je Spiel, Hinweise je Rätsel und mittlere Spielzeit. Sie dienen dazu, Zeitlimits für eine nächste Feier anzupassen.
+3. Danach werden Seite, Server und Datenbank komplett abgebaut, mit allen Backups und Server-Logs. Die Bordkarten führen dann ins Leere.
+4. Das Orgateam bestätigt dem Datenschutzbeauftragten per Mail das Datum und den Umfang der Löschung.
+
+Testdaten aus dem Testlauf werden schon vor der Feier gelöscht ([Admin-Panel](../admin/admin-panel.md#testlauf)).
 
 ## Bewusst akzeptierte Risiken
 
@@ -22,7 +32,3 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
   - Googeln bei Allgemeinwissen im Quiz.
   - Eine Bildersuche (zum Beispiel Google Lens) nach dem Foto bei Peilung.
   - Beim Fischfang mit der Hand in den Teich greifen oder Codes von Fischen fotografieren und weitergeben.
-
-## Offene Punkte
-
-1. Ein Löschkonzept ist bisher nicht vorgesehen.
