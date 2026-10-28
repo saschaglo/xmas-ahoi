@@ -8,7 +8,7 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) für alle
 
 ## Aufbau des Canvas
 
-- 24 Screens in 5 Zeilen, nur als Desktop-Ansicht. Jede Zeile ist ein Bereich, der Hauptweg läuft von links nach rechts.
+- 31 Screens in 5 Zeilen, nur als Desktop-Ansicht. Jede Zeile ist ein Bereich, der Hauptweg läuft von links nach rechts.
 - Jeder Screen hat eine Nummer (Zeile.Screen). Der Zettel unter dem Screen nennt das Ziel und die Bedingung. Die Pfeile zwischen den Screens werden im Canvas von Hand gezogen.
 - Alle Screens außer dem Login haben dieselbe Seitenleiste: Navigation (Schatzsuche, Nutzer, Siegerehrung, Log) und darunter Zustand und Schalter der Schatzsuche.
 
@@ -51,12 +51,19 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) für alle
 
 ### 5. Log
 
-- 5.1 Log (Hinweise, Exits, Zeitabläufe, Abbrüche). Weiter: Endpunkt.
+- 5.1 Log, alle Durchläufe (Start, Spiel, Crew, Status, Dauer, Hinweise; Dropdown „Person“). Weiter: Startzeit anklicken → Details (5.4 bis 5.8). Dropdown → 5.2.
+- 5.2 Log, Person wählen (Dropdown geöffnet, gleiche Namen mit interner ID). Weiter: Person wählen → 5.3.
+- 5.3 Log, nach Person gefiltert (jeder Durchlauf, an dem die Person allein oder in einer Crew teilgenommen hat). Weiter: Startzeit anklicken → Details. „Alle Personen“ → 5.1.
+- 5.4 Details eines Rätsels mit Exit (Zeitleiste: Start, Hinweise, Exit-Vorschlag, Zustimmungen, Ende). Weiter: zurück zum Log.
+- 5.5 Details eines Abbruchs. Weiter: zurück zum Log.
+- 5.6 Details eines Zeitablaufs. Weiter: zurück zum Log.
+- 5.7 Details eines normal beendeten Durchlaufs. Weiter: zurück zum Log.
+- 5.8 Details eines verfallenen Durchlaufs (mit Verbindungsverlust und Verfall beim Schließen, Status „verfallen“). Weiter: zurück zum Log.
 
 ## Festlegungen
 
 - Der Schalter „Schatzsuche öffnen/schließen“ fragt bei jedem Wechsel nach (2.9 bis 2.11).
-- Die Ziehung läuft in der Reihenfolge Platz 3, 2, 1. Die Rangliste hat eine Spalte „Im Lostopf“. Das Log hat die Spalten Zeit, Spieler, Station und Ereignis. Der Text der Löschen-Rückfrage und die Meldung bei falschem Login stehen so im Wireframe.
+- Die Ziehung läuft in der Reihenfolge Platz 3, 2, 1. Die Rangliste hat eine Spalte „Im Lostopf“. Das Log ist eine Tabelle der Durchläufe mit Details je Durchlauf und einem Filter nach Person ([Admin-Panel](admin-panel.md)). Ein beim Schließen verfallener Durchlauf bleibt mit dem Status „verfallen“ im Log; ein Verbindungsverlust (Sperre) steht mit Zeit und Person in den Details. Der Umfang der Ereignisse in den Details je Spiel ist ein Vorschlag. Der Text der Löschen-Rückfrage und die Meldung bei falschem Login stehen so im Wireframe.
 - Es gibt kein Dashboard mit Zahlen, weil das Konzept keins vorsieht.
 
 ## Offene Punkte

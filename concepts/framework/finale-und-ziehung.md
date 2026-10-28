@@ -35,4 +35,4 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 - Bei Gleichstand in einer Ehrung werden alle genannt, und der Preis wird unter ihnen gelost.
 - Eine Person kann mehrere Ehrungen bekommen und erhält für jede den Preis.
 - Alle im Lostopf erhalten einen Trostpreis.
-- Neben jedem Namen stehen Hinweise, Exits, Zeitabläufe und Abbrüche. Ob Abbrüche Punkte kosten, entscheidet der Veranstalter bei der Siegerehrung von Hand.
+- Neben jedem Namen stehen Hinweise, Exits, Zeitabläufe und Abbrüche (Summen aus dem Log). Ob Abbrüche Punkte kosten, entscheidet der Veranstalter bei der Siegerehrung von Hand.

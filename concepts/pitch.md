@@ -213,7 +213,7 @@ stateDiagram-v2
 ```
 
 - Nutzer anlegen, mit oder ohne Namen; das System vergibt den 4-stelligen Code für die Bordkarte.
-- Rangliste mit Hinweisen, Exits, Zeitabläufen und Abbrüchen je Person, dazu das Log.
+- Rangliste mit Hinweisen, Exits, Zeitabläufen und Abbrüchen je Person, dazu das Log je Durchlauf, filterbar nach Person.
 - Ziehung der Plätze 1 bis 3 (mit „Neu ziehen“) und Auswertung der Ehrungen auf Knopfdruck.
 
 ## Fairness, Datenschutz und Risiken

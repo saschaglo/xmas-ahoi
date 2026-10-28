@@ -43,6 +43,9 @@ _Avoid_: Score, Wertung
 Beenden einer Station ohne Schlüssel und ohne Punkte, gültig für die ganze Crew. Die Station bleibt offen und wird neu gespielt.
 _Avoid_: Aufgeben
 
+**Log**:
+Die Aufzeichnung jedes Durchlaufs einer Station mit Start, Crew und allen Ereignissen samt Zeit (Hinweis, Exit, Verbindungsverlust, Zeitablauf, Abbruch, Verfall, Ende). Nur im Admin-Panel sichtbar, filterbar nach Person.
+
 **Höchstzeit**:
 Die Zeit, die ein Rätsel ab dem gemeinsamen Start höchstens dauert: 10 Minuten, bei Morsezeichen 5 Minuten. Danach endet es automatisch (Zeitablauf): Schlüssel für alle in der Crew, 0 Punkte, auch wenn einzelne Teilaufgaben schon gelöst sind. Punktespiele haben stattdessen ein Zeitlimit.
 _Avoid_: Zeitlimit (für Rätsel)

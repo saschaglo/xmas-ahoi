@@ -20,4 +20,5 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 - Der Server prüft während einer Station laufend, ob jedes Crew-Mitglied die Spielseite noch offen hat.
 - Fällt ein Mitglied aus (Seite geschlossen, Handy gesperrt, kein Netz), sehen alle in der Crew eine Sperre, zum Beispiel „Peter ist gerade nicht an Bord. Wir warten auf ihn …“. Kommt die Person zurück, geht es weiter.
 - Während der Sperre kann jede Person „Abbruch“ wählen; das gilt für die ganze Crew.
+- Der Verbindungsverlust steht mit Zeit und betroffener Person im [Log](../admin/admin-panel.md) des Durchlaufs.
 - Bei der Umsetzung klären: ab wann ein Mitglied als ausgefallen gilt und ob das Zeitlimit eines Punktespiels und die Höchstzeit eines Rätsels während der Sperre stehen bleiben.
