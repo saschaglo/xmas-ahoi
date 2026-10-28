@@ -1,6 +1,6 @@
 # Konzept – Übersicht
 
-Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 20. November 2026. Die technische Umsetzung liegt unter [project/](../project/README.md).
+Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 20. November 2026. Die technische Umsetzung liegt unter [project/](../project/README.md). Eine Kurzfassung für die Vorstellung steht im [Pitch](pitch.md).
 
 ## Stand
 
