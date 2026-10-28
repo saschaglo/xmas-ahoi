@@ -42,12 +42,12 @@ flowchart LR
 6. [Spielstand und Wiedereinstieg](framework/spielstand-und-wiedereinstieg.md)
 7. [Finale, Ende-Seite und Siegerehrung](framework/finale-und-ziehung.md)
 8. [Betrieb, Datenschutz und Risiken](framework/betrieb-datenschutz-risiken.md)
-9. [Wireframes: Spieler-Flow](framework/wireframes-spieler-flow.md): 26 Screens
+9. [Wireframes: Spieler-Flow](framework/wireframes-spieler-flow.md): 78 Screens
 
 ### Admin
 
 - [Admin-Panel](admin/admin-panel.md): Login, Schalter, Nutzer, Rangliste, Log
-- [Wireframes: Admin-Panel](admin/wireframes-admin.md): 5 Screens
+- [Wireframes: Admin-Panel](admin/wireframes-admin.md): 24 Screens
 
 ### Minispiele
 

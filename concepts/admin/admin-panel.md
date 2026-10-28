@@ -3,7 +3,7 @@
 Stand 28.10.2026 · [Übersicht](../README.md)
 
 - Zugriff über einen Login (Nuxt-Standard), nur für Veranstalter. Bedienbar am Handy und am Desktop; die Erstpflege erfolgt am Rechner.
-- Schalter „Schatzsuche öffnen/schließen“ mit drei Zuständen: _nicht eröffnet_ → _offen_ → _beendet_. Von _beendet_ darf der Admin wieder öffnen (etwa nach einem Fehlklick); die Spielstände bleiben dabei erhalten.
+- Schalter „Schatzsuche öffnen/schließen“ mit drei Zuständen: _nicht eröffnet_ → _offen_ → _beendet_. Von _beendet_ darf der Admin wieder öffnen (etwa nach einem Fehlklick); die Spielstände bleiben dabei erhalten. Jeder Wechsel des Schalters (öffnen, schließen, wieder öffnen) fragt vorher nach; die Rückfrage beim Schließen nennt den harten Schnitt.
 - Ist die Schatzsuche nicht offen, sind Check-in, Spielen und „Schatz bergen“ gesperrt, und alle sehen die [Ende-Seite](../framework/finale-und-ziehung.md#ende-seite).
 - Schließen ist ein harter Schnitt: Laufende Durchläufe verfallen ohne Schlüssel, ohne Punkte und ohne Eintrag im Log. Das Orgateam kündigt das Ende vorher an, im Gastraum moderiert und auf Terrasse und Hinterhof persönlich (etwa „noch 5 Minuten“). Im Spiel erscheint dazu kein Hinweis.
 - „Zurücksetzen“ löscht Check-ins, Spielstände, Schlüssel, Punkte und das Log und stellt den Zustand auf _nicht eröffnet_. Nutzer, Vornamen und Codes bleiben, damit die gedruckten Bordkarten gültig bleiben. Der Button ist nur in _nicht eröffnet_ und _beendet_ aktiv und braucht zwei Bestätigungen; bei einer davon tippt der Admin das heutige Datum ein (YYYY-MM-DD).
