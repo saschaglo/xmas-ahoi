@@ -18,7 +18,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 ## Decisions so far
 
-- [Spieltypen, Punkte und Crew je Station](issues/01-spieltypen-schluesselregel.md): Rätsel und Punktespiel; jede beendete Station gibt Schlüssel und 0–100 Punkte, Abbruch gibt nichts und wird neu gespielt; Crew bildet sich je Station; Rangliste nach Punkten statt Ziehung, Trostpreis für alle im Lostopf.
+- [Spieltypen, Punkte und Crew je Station](issues/01-spieltypen-schluesselregel.md): Rätsel und Punktespiel; jede beendete Station gibt Schlüssel und 0–100 Punkte, Abbruch gibt nichts und wird neu gespielt; Crew bildet sich je Station; Rangliste nach Punkten statt Ziehung, Trostpreis für alle im Lostopf. Die Ziehung kommt zurück mit [Weitere Ehrungen bei der Siegerehrung](issues/17-weitere-ehrungen.md).
 - [Hinweise, Exit und Mindestzeiten je Spiel](issues/02-hinweise-exit-mindestzeiten.md): Hinweise und Exit nur bei Rätseln; Rätsel haben kein Zeitlimit (Begriffe finden verliert seins); Punktespiele haben immer ein Zeitlimit. Mindestzeiten (1:30 / 3:00 / 4:00) später ersetzt durch den Hinweis-Takt aus [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md).
 - [Rudolph's: Räume, Netz, Hausregeln](issues/05-rudolphs-recherche.md): Restaurant mit einem ebenerdigen Gastraum (laut Nebenquelle etwa 60 Plätze), Terrasse und Hinterhof. WLAN ist nicht genannt. Besondere Deko muss bis 13.11. abgesprochen sein.
 - [Mengen und Varianten nach Crewgröße](issues/03-mengen-nach-besetzung.md): Jede Person löst auf dem eigenen Handy eine eigene Teilaufgabe; Einzelspieler spielen Verständigungs-Varianten in der Grundform. Neuer Hinweis-Takt: 2 Hinweise je Crew, ab 0:30, 60 s Sperre, Text nur für den Klickenden; Exit ab 60 s nach Hinweis 2.
@@ -32,6 +32,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Spieldetails Begriffe finden](issues/13-spieldetails-begriffe-finden.md): Begriffe finden ersetzt durch **Seemannsgarn**, ein Rätsel: Geschichte über einen Seefahrer (nur Nummer, kein Name) am Erzähltisch lesen, an 4 Faktentafeln die passenden Karten finden, 4 Buchstaben eingeben; Hinweis 1 nennt den Namen. Die Bordkarte braucht keine Rückseite mit Schlüssel.
 - [Admin und Betrieb: Schalter und Löschkonzept](issues/14-admin-und-betrieb.md): Drei Zustände (nicht eröffnet, offen, beendet), Wiederöffnen erlaubt; Schließen verfällt laufende Durchläufe nach Ansage; neues „Zurücksetzen“ mit Datumseingabe behält Nutzer und Codes; Daten 14 Tage nach der Feier löschen durch kompletten Abbau, anonyme Zahlen bleiben.
 - [Spieldetails Kurs setzen](issues/15-spieldetails-kurs-setzen.md): Seekarte mit 5 Symbolarten als Bezugspunkte (Firmennamen nur Deko); feste Zeilenrollen auf den Logbuchkarten (Zeile 3 Seekarte, Zeile 4 Firmenwissen, nur Nachbarfelder); ein Materialsatz, A3 plus A6, festgeklebt; Testlauf-Kriterium mit Reihenfolge Zeitlimit vor Ziffern.
+- [Weitere Ehrungen bei der Siegerehrung](issues/17-weitere-ehrungen.md): Plätze 1–3 wieder per Ziehung aus dem Lostopf (ersetzt die Rangliste-Regel aus Ticket 01); dazu 6 Ehrungen bis 10 EUR, darunter Bester Seefahrer (meiste Punkte) und Teamplayer nach Mitspielern je Station; Gleichstand nennt alle und lost den Preis.
 
 ## Not yet specified
 

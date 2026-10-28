@@ -15,7 +15,8 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 ## Preise
 
 - Wer die Schatztruhe birgt, kommt in den Lostopf und erhält mindestens einen Trostpreis; wer das Ende nicht erreicht, erhält nichts.
-- 3 Plätze nach Punkten, dazu die Ehrung „Teamplayer“; Preise höchstens 20 EUR (zum Beispiel lokale Essensgutscheine). Regeln unter [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung).
+- 3 Plätze, gezogen aus dem Lostopf; Preise höchstens 20 EUR (zum Beispiel lokale Essensgutscheine).
+- 6 Ehrungen mit kleinen Preisen bis 10 EUR je Ehrung. Regeln unter [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung).
 
 ## Technische Vorgaben
 

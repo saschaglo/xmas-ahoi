@@ -16,5 +16,5 @@ In der Seitenleiste aller Screens: Schalter „Schatzsuche öffnen/schließen“
 
 ## Annahmen und offene Punkte
 
-1. Die Screens 2 bis 4 zeigen das alte Modell mit festen Crews und zufälliger Ziehung. Neu zu zeichnen: Screen 2 entfällt, Screen 3 wird die Rangliste nach Punkten (siehe [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung)), Screen 4 bekommt „Abbrüche“ statt „Übersprungen“.
+1. Die Screens 2 und 4 zeigen das alte Modell mit festen Crews. Neu zu zeichnen: Screen 2 entfällt, Screen 3 behält die Ziehung und bekommt die Ehrungen und die Rangliste dazu (siehe [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung)), Screen 4 bekommt „Abbrüche“ statt „Übersprungen“.
 2. Der Admin-Bereich ist nur als Desktop-Ansicht gezeichnet; die Handy-Ansicht folgt bei der Umsetzung.

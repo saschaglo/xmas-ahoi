@@ -4,7 +4,7 @@ Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 
 
 ## Stand
 
-- Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet. Die Wireframes zeigen noch feste Crews und die Ziehung; was neu zu zeichnen ist, steht auf den Wireframe-Seiten.
+- Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet. Die Wireframes zeigen noch feste Crews; was neu zu zeichnen ist, steht auf den Wireframe-Seiten.
 - Alle sechs Minispiele sind beschrieben; die offenen Fragen stehen auf den Spielseiten.
 - Die Spielideen der Recherchephase sind nicht die Grundlage; sie liegen im [Archiv](archiv/archiv.md).
 - Bisher gibt es keine Programmierung.

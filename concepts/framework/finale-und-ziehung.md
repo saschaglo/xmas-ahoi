@@ -1,6 +1,6 @@
 # Finale, Ende-Seite und Siegerehrung
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Finale, Ende-Seite und Ziehung“, überarbeitet auf Rangliste nach Punkten · Stand 23.10.2026 · [Übersicht](../README.md)
+Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Finale, Ende-Seite und Ziehung“, überarbeitet auf Ziehung und Ehrungen · Stand 28.10.2026 · [Übersicht](../README.md)
 
 ## Finale
 
@@ -18,7 +18,19 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt �
 ## Siegerehrung
 
 - Die Siegerehrung findet am Ende des Abends vor Ort statt; der Veranstalter moderiert und zeigt die Rangliste zentral über das [Admin-Panel](../admin/admin-panel.md).
-- Plätze 1 bis 3: die drei Spieler im Lostopf mit den meisten Punkten. Bei Gleichstand entscheidet das Los.
-- Ehrung „Teamplayer“: wer mit den meisten verschiedenen Personen in einer Crew gespielt hat. Bei Gleichstand entscheidet das Los.
-- Alle anderen im Lostopf erhalten einen Trostpreis.
+- Plätze 1 bis 3 werden aus dem Lostopf gezogen, unabhängig von den Punkten.
+- Dazu kommen 6 Ehrungen. In Frage kommen nur Spieler im Lostopf:
+
+| Ehrung | Wer sie bekommt |
+|---|---|
+| Bester Seefahrer | die meisten Punkte |
+| Teamplayer | die meisten Mitspieler, summiert über die beendeten Stationen: allein 0, Crew aus 2 zählt 1, Crew aus 3 zählt 2 (höchstens 12) |
+| Schnellste Schatztruhe | die kürzeste Zeit vom Start der ersten Station bis „Schatz bergen“, Pausen eingerechnet |
+| Schnellster Rätselknacker | die kürzeste Summe der Spielzeiten der beendeten Durchläufe von Morsezeichen, Fischfang und Seemannsgarn; nur wer alle drei ohne Exit gelöst hat |
+| Pechvogel | die meisten Abbrüche; hat niemand im Lostopf einen Abbruch, entfällt die Ehrung |
+| Langer Atem | die zuletzt geborgene Schatztruhe vor dem Schließen |
+
+- Bei Gleichstand in einer Ehrung werden alle genannt, und der Preis wird unter ihnen gelost.
+- Eine Person kann mehrere Ehrungen bekommen und erhält für jede den Preis.
+- Alle im Lostopf erhalten einen Trostpreis.
 - Neben jedem Namen stehen Hinweise, Exits und Abbrüche. Ob Abbrüche Punkte kosten, entscheidet der Veranstalter bei der Siegerehrung von Hand.

@@ -47,11 +47,19 @@ _Avoid_: Aufgeben
 Ausweg aus einem Rätsel, frühestens 60 Sekunden nach dem zweiten Hinweis: Schlüssel ja, Punkte 0.
 
 **Lostopf**:
-Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt mindestens einen Trostpreis.
+Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt mindestens einen Trostpreis und kann gezogen werden oder eine Ehrung bekommen.
+
+**Ziehung**:
+Das Los, das bei der Siegerehrung die Plätze 1 bis 3 aus dem Lostopf bestimmt, unabhängig von den Punkten.
+_Avoid_: Verlosung, Gewinnspiel
+
+**Ehrung**:
+Nennung bei der Siegerehrung nach einem Wert aus den Spielständen (etwa „Teamplayer“ oder „Bester Seefahrer“), mit kleinem Preis. Bei Gleichstand werden alle genannt, der Preis wird unter ihnen gelost.
+_Avoid_: Auszeichnung, Award
 
 **Rangliste**:
-Reihenfolge der Spieler im Lostopf nach Punkten. Sie bestimmt die Plätze 1 bis 3 und wird erst bei der Siegerehrung gezeigt.
-_Avoid_: Ziehung, Leaderboard
+Reihenfolge der Spieler im Lostopf nach Punkten. Ihre Spitze bekommt die Ehrung „Bester Seefahrer“; gezeigt wird sie erst bei der Siegerehrung.
+_Avoid_: Leaderboard
 
 **Orgateam**:
 Die Leute, die die Schatzsuche vorbereiten und am Abend ansprechbar sind. Sie betreuen keine Station, sehen aber gelegentlich nach dem Material und helfen bei Fragen.
