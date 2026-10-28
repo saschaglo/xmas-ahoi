@@ -10,7 +10,7 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 - Nutzer hinzufügen, mit oder ohne Namen; das System vergibt den 4-stelligen Code. Der QR-Code soll dynamisch erzeugbar sein (später). Eine interne ID unterscheidet gleiche Namen (zum Beispiel zwei Peter).
 - Nutzer löschen (selten, nur in Abstimmung).
 - Siegerehrung: Das Panel zieht die Plätze 1 bis 3 aus dem Lostopf (jeder Platz lässt sich mit „Neu ziehen“ wiederholen) und zeigt die Ehrungen mit allen Genannten; bei Gleichstand in einer Ehrung lost es, wer den Preis bekommt. Dazu die Rangliste mit Spalten für Hinweise, Exits und Abbrüche. Regeln unter [Siegerehrung](../framework/finale-und-ziehung.md#siegerehrung).
-- Log für Hinweise, Exits und Abbrüche ansehen.
+- Log für Hinweise, Exits, Zeitabläufe und Abbrüche ansehen.
 
 ## Testlauf
 

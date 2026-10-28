@@ -27,7 +27,7 @@ Die Crew fängt einen [Funkspruch](../../../CONTEXT.md) ab: einen Satz, dessen W
 - Hinweis 1 zeigt in jedem Wort den ersten Buchstaben (`K****`).
 - Hinweis 2 zeigt zusätzlich jeden zweiten Buchstaben (`K*R*E`).
 
-**Höchstzeit:** Wie jedes Rätsel hat Morsezeichen die Höchstzeit von 10 Minuten ([Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md)). Bei 10:00 endet die Station automatisch: Schlüssel, 0 Punkte, ohne Zustimmung der Crew. Vorher gilt der Exit wie bei jedem Rätsel.
+**Höchstzeit:** Anders als die übrigen Rätsel (10 Minuten) hat Morsezeichen eine Höchstzeit von 5 Minuten ([Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md)). Bei 5:00 endet die Station automatisch: Schlüssel, 0 Punkte, ohne Zustimmung der Crew. Vorher gilt der Exit wie bei jedem Rätsel.
 
 **Punkte:** 100 minus 25 je genommenem Hinweis, wie bei jedem Rätsel. Es gibt keinen Zeitbonus; die Geschwindigkeit zählt nur über die Höchstzeit.
 
@@ -53,5 +53,4 @@ Grobe Schätzung: Ein Wort dauert bei Tempo „Normal“ etwa 30 bis 40 Sekunden
 
 ## Offene Fragen und Widersprüche
 
-1. Testlauf: Wie viele Wörter je Person passen in die geplanten 5 Minuten (Höchstzeit 10), und welche Werte haben die 3 Tempostufen? Das klärt der Testlauf; bis dahin gelten die Startwerte.
-2. Morsezeichen hatte als einziges Rätsel eine Höchstzeit von 5 Minuten; jetzt gilt für alle Rätsel 10 Minuten. Soll Morsezeichen kürzer bleiben?
+1. Testlauf: Wie viele Wörter je Person passen in die Höchstzeit von 5 Minuten, auch wenn die Crew Hinweise nimmt, und welche Werte haben die 3 Tempostufen? Die Schätzung unten liegt schon knapp an 5 Minuten; reicht es nicht, wird die Wörterzahl gesenkt oder die Höchstzeit erhöht. Das klärt der Testlauf; bis dahin gelten die Startwerte.

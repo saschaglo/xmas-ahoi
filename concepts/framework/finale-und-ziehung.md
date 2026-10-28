@@ -19,7 +19,8 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 
 - Die Siegerehrung findet am Ende des Abends vor Ort statt; der Veranstalter moderiert und zeigt die Rangliste zentral über das [Admin-Panel](../admin/admin-panel.md).
 - Plätze 1 bis 3 werden aus dem Lostopf gezogen, unabhängig von den Punkten.
-- Neu ziehen: Der Admin kann jeden Platz mit „Neu ziehen“ wiederholen, wenn er das Ergebnis nicht gelten lassen will, zum Beispiel wegen der Werte neben dem Namen (Hinweise, Exits, Abbrüche). Die Ziehung bleibt zufällig und ohne Gewichtung. Eine verworfene Person bleibt für die weiteren Plätze im Lostopf.
+- Neu ziehen: Der Admin kann jeden Platz mit „Neu ziehen“ wiederholen, wenn er das Ergebnis nicht gelten lassen will, zum Beispiel wegen der Werte neben dem Namen (Hinweise, Exits, Zeitabläufe, Abbrüche). Die Ziehung bleibt zufällig und ohne Gewichtung. Eine verworfene Person bleibt für die weiteren Plätze im Lostopf.
+- Ohne Zurücklegen: Wer einen Platz gewonnen hat, wird für die weiteren Plätze nicht noch einmal gezogen.
 - Dazu kommen 6 Ehrungen. In Frage kommen nur Spieler im Lostopf:
 
 | Ehrung | Wer sie bekommt |
@@ -34,8 +35,4 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 - Bei Gleichstand in einer Ehrung werden alle genannt, und der Preis wird unter ihnen gelost.
 - Eine Person kann mehrere Ehrungen bekommen und erhält für jede den Preis.
 - Alle im Lostopf erhalten einen Trostpreis.
-- Neben jedem Namen stehen Hinweise, Exits und Abbrüche. Ob Abbrüche Punkte kosten, entscheidet der Veranstalter bei der Siegerehrung von Hand.
-
-## Offene Punkte
-
-1. Ohne Zurücklegen: Wer einen Platz gewonnen hat, wird für die weiteren Plätze nicht noch einmal gezogen (Annahme, zu bestätigen).
+- Neben jedem Namen stehen Hinweise, Exits, Zeitabläufe und Abbrüche. Ob Abbrüche Punkte kosten, entscheidet der Veranstalter bei der Siegerehrung von Hand.

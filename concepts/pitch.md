@@ -37,14 +37,14 @@ Was eine Station bringt:
 |---------|-----------|--------|
 | beendet | ja | 0 bis 100 |
 | Exit (nur Rätsel) | ja | 0 |
-| Zeitablauf nach 10 Minuten (nur Rätsel) | ja | 0 |
+| Zeitablauf nach der Höchstzeit (nur Rätsel) | ja | 0 |
 | Abbruch | nein | keine, die Station wird neu gespielt |
 
 Jedes Spiel hat einen von zwei Spieltypen:
 
 | Spieltyp | Spiele | Zeit | Hilfe | Punkte |
 |----------|--------|------|-------|--------|
-| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | Höchstzeit 10 Min., ohne Druck | 2 Hinweise und Exit | 100 minus 25 je Hinweis; Zeitablauf 0 |
+| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | Höchstzeit 10 Min. (Morsezeichen 5), ohne Druck | 2 Hinweise und Exit | 100 minus 25 je Hinweis; Zeitablauf 0 |
 | Punktespiel | Quiz, Peilung, Kurs setzen | festes Zeitlimit | keine | Anteil der Treffer |
 
 Alle in einer Crew bekommen dieselben Punkte. Weil die Aufgaben mit der Crew wachsen, zählt die Quote; Einzelspieler und Crews sind so vergleichbar. Details: [Grundprinzip](framework/grundprinzip.md), [Spielübergreifend](spiele/uebergreifend.md).
@@ -158,7 +158,8 @@ Der Takt ist für alle Rätsel gleich ([Hinweise, Abbruch und Exit](framework/hi
 0:30  Hinweis 1 möglich            kostet die Crew 25 Punkte
 1:30  Hinweis 2 frühestens         kostet die Crew 25 Punkte
 2:30  Exit frühestens              Schlüssel, 0 Punkte, alle stimmen zu
-10:00 alle Rätsel                  Zeitablauf: Schlüssel, 0 Punkte
+5:00  Morsezeichen                 Zeitablauf: Schlüssel, 0 Punkte
+10:00 Fischfang, Seemannsgarn      Zeitablauf: Schlüssel, 0 Punkte
 ```
 
 Den Hinweistext sieht nur, wer ihn nimmt; bei Morsezeichen sieht ihn die ganze Crew.
@@ -212,7 +213,7 @@ stateDiagram-v2
 ```
 
 - Nutzer anlegen, mit oder ohne Namen; das System vergibt den 4-stelligen Code für die Bordkarte.
-- Rangliste mit Hinweisen, Exits und Abbrüchen je Person, dazu das Log.
+- Rangliste mit Hinweisen, Exits, Zeitabläufen und Abbrüchen je Person, dazu das Log.
 - Ziehung der Plätze 1 bis 3 (mit „Neu ziehen“) und Auswertung der Ehrungen auf Knopfdruck.
 
 ## Fairness, Datenschutz und Risiken

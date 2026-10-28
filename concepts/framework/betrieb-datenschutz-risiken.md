@@ -1,6 +1,6 @@
 # Betrieb, Datenschutz und akzeptierte Risiken
 
-Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 28.10.2026 · [Übersicht](../README.md)
 
 ## Betrieb
 
@@ -8,7 +8,7 @@ Stand 23.10.2026 · [Übersicht](../README.md)
 
 ## Datenschutz
 
-- Gespeichert werden nur Vornamen, Spielstände, Punkte sowie das Log für Hinweise, Exits und Abbrüche.
+- Gespeichert werden nur Vornamen, Spielstände, Punkte sowie das Log für Hinweise, Exits, Zeitabläufe und Abbrüche.
 - Das Hosting speichert zusätzlich Server-Logs mit IP-Adressen und Zeitstempeln. Wie lange, wird bei der Umsetzung geklärt; spätestens mit dem Abbau sind sie gelöscht.
 - Der Datenschutzbeauftragte wird informiert, auch über das Log und die Server-Logs.
 

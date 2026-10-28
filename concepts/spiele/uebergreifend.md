@@ -26,7 +26,7 @@ Jedes Spiel hat einen festen Spieltyp:
 - Ein Abbruch gibt weder Schlüssel noch Punkte, auch wenn bis dahin Treffer erzielt wurden. Die Station wird neu gespielt ([Abbruch](../framework/hinweise-abbruch-exit.md)).
 - Alle in der Crew bekommen dieselben Punkte. Weil die Mengen mit der Crewgröße wachsen, zählt die Quote, nicht die absolute Trefferzahl; so sind Einzelspieler und Crews vergleichbar.
 - Kein Zeitbonus: Wer ein Rätsel ohne Hinweis löst, bekommt 100 Punkte, egal wie schnell.
-- Rätsel haben keinen Zeitdruck, aber eine Höchstzeit von 10 Minuten ab dem gemeinsamen Start, dazu Hinweise und Exit. Bei Zeitablauf endet das Rätsel automatisch: Schlüssel für alle, 0 Punkte. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+- Rätsel haben keinen Zeitdruck, aber eine Höchstzeit ab dem gemeinsamen Start (10 Minuten, bei Morsezeichen 5 Minuten), dazu Hinweise und Exit. Bei Zeitablauf endet das Rätsel automatisch: Schlüssel für alle, 0 Punkte. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 - Jedes Spiel braucht genug Varianten (Fragen, Sätze, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt. Ausnahme ist Morsezeichen: Dort darf sich ein Satz wiederholen.
 
 ## Crewgröße und Teilaufgaben

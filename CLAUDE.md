@@ -40,7 +40,7 @@ Bordkarte (QR + 4-char code) -> Check-in -> Schatzkarte with 6 stations
 
 - Game state belongs to the player and lives on the server. Crews exist for one station only, and there are no crew accounts.
 - Hints, exits, and aborts are logged, idempotent, and visible to the admin in the ranking.
-- Rätsel have no time pressure but a 10-minute maximum (then the run ends automatically: key, 0 points) and 2 hints per Crew plus an exit. The first hint unlocks 0:30 after the run starts, each hint locks the next for 60 s, and the exit opens 60 s after hint 2 (earliest 2:30). A hint's text shows only to the player who took it (Morsezeichen: to the whole Crew). Punktespiele have a time limit and neither hints nor exit. See `concepts/framework/hinweise-abbruch-exit.md`.
+- Rätsel have no time pressure but a maximum run time (10 minutes, Morsezeichen 5; then the run ends automatically: key, 0 points) and 2 hints per Crew plus an exit. The first hint unlocks 0:30 after the run starts, each hint locks the next for 60 s, and the exit opens 60 s after hint 2 (earliest 2:30). A hint's text shows only to the player who took it (Morsezeichen: to the whole Crew). Punktespiele have a time limit and neither hints nor exit. See `concepts/framework/hinweise-abbruch-exit.md`.
 
 ## Commands
 
