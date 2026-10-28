@@ -50,7 +50,7 @@ Ausweg aus einem Rätsel, frühestens 60 Sekunden nach dem zweiten Hinweis: Schl
 Alle Spieler, die die Schatztruhe geborgen haben. Jeder im Lostopf bekommt mindestens einen Trostpreis und kann gezogen werden oder eine Ehrung bekommen.
 
 **Ziehung**:
-Das Los, das bei der Siegerehrung die Plätze 1 bis 3 aus dem Lostopf bestimmt, unabhängig von den Punkten.
+Das Los, das bei der Siegerehrung die Plätze 1 bis 3 aus dem Lostopf bestimmt, unabhängig von den Punkten. Der Admin kann einen Platz neu ziehen.
 _Avoid_: Verlosung, Gewinnspiel
 
 **Ehrung**:

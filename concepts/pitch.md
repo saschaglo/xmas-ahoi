@@ -183,7 +183,7 @@ flowchart LR
 ## Preise und Siegerehrung
 
 - Nur wer die Schatztruhe geborgen hat, ist im Lostopf. Alle im Lostopf bekommen mindestens einen Trostpreis; wer das Ende nicht erreicht, bekommt nichts.
-- **Plätze 1 bis 3** werden aus dem Lostopf gezogen, unabhängig von den Punkten. Preise bis 20 EUR.
+- **Plätze 1 bis 3** werden aus dem Lostopf gezogen, unabhängig von den Punkten. Preise bis 20 EUR. Der Admin kann jeden Platz neu ziehen.
 - **6 Ehrungen** mit Preisen bis 10 EUR:
 
 | Ehrung | Wer sie bekommt |
@@ -212,7 +212,7 @@ stateDiagram-v2
 
 - Nutzer anlegen, mit oder ohne Namen; das System vergibt den 4-stelligen Code für die Bordkarte.
 - Rangliste mit Hinweisen, Exits und Abbrüchen je Person, dazu das Log.
-- Ziehung der Plätze 1 bis 3 und Auswertung der Ehrungen auf Knopfdruck.
+- Ziehung der Plätze 1 bis 3 (mit „Neu ziehen“) und Auswertung der Ehrungen auf Knopfdruck.
 
 ## Fairness, Datenschutz und Risiken
 
