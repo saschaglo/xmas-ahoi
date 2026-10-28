@@ -1,6 +1,6 @@
 # Spiel 3 – Morsezeichen
 
-Stand 27.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
+Stand 28.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
 Die „Crew“ sind die Spieler, die einen Durchlauf der Station gemeinsam spielen, auch eine einzelne Person (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
 
@@ -27,7 +27,7 @@ Die Crew fängt einen [Funkspruch](../../../CONTEXT.md) ab: einen Satz, dessen W
 - Hinweis 1 zeigt in jedem Wort den ersten Buchstaben (`K****`).
 - Hinweis 2 zeigt zusätzlich jeden zweiten Buchstaben (`K*R*E`).
 
-**Höchstzeit:** Als einziges Rätsel hat Morsezeichen eine Höchstzeit von 5 Minuten mit sichtbarem Countdown. Bei 5:00 endet die Station mit einem automatischen Exit: Schlüssel, 0 Punkte, ohne Zustimmung der Crew. Vorher gilt der Exit wie bei jedem Rätsel.
+**Höchstzeit:** Wie jedes Rätsel hat Morsezeichen die Höchstzeit von 10 Minuten ([Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md)). Bei 10:00 endet die Station automatisch: Schlüssel, 0 Punkte, ohne Zustimmung der Crew. Vorher gilt der Exit wie bei jedem Rätsel.
 
 **Punkte:** 100 minus 25 je genommenem Hinweis, wie bei jedem Rätsel. Es gibt keinen Zeitbonus; die Geschwindigkeit zählt nur über die Höchstzeit.
 
@@ -53,4 +53,5 @@ Grobe Schätzung: Ein Wort dauert bei Tempo „Normal“ etwa 30 bis 40 Sekunden
 
 ## Offene Fragen und Widersprüche
 
-1. Testlauf: Wie viele Wörter je Person passen in 5 Minuten, und welche Werte haben die 3 Tempostufen? Das klärt der Testlauf; bis dahin gelten die Startwerte.
+1. Testlauf: Wie viele Wörter je Person passen in die geplanten 5 Minuten (Höchstzeit 10), und welche Werte haben die 3 Tempostufen? Das klärt der Testlauf; bis dahin gelten die Startwerte.
+2. Morsezeichen hatte als einziges Rätsel eine Höchstzeit von 5 Minuten; jetzt gilt für alle Rätsel 10 Minuten. Soll Morsezeichen kürzer bleiben?

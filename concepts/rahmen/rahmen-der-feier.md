@@ -1,13 +1,13 @@
 # Rahmen der Feier
 
-Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 28.10.2026 · [Übersicht](../README.md)
 
 ## Rahmen
 
 - Weihnachtsfeier am 20. November 2026; Motto „Xmas Ahoi!“, Schiff „MS Web Care“, Hafen „Beyond The Fog“.
 - Digitale Schnitzeljagd/Schatzsuche im begrenzten Raum, allein oder in Crews (bis 3 Personen).
 - Erwartet werden etwa 80 Personen, davon rund 75 % Mitspielende (rund 60).
-- Minispiele, je etwa 5 Minuten geplant, insgesamt höchstens 30 Minuten. Die 5 Minuten sind ein Planungswert, kein Zeitlimit; ein Rätsel bleibt durch den Exit (frühestens bei 2:30) darin ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+- Minispiele, je etwa 5 Minuten geplant, insgesamt höchstens 30 Minuten. Die 5 Minuten sind ein Planungswert; ein Rätsel hat eine Höchstzeit von 10 Minuten, ein Punktespiel ein eigenes Zeitlimit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)). Wie sich das mit den 30 Minuten verträgt, steht unter [Spielübergreifende offene Punkte](../spiele/uebergreifend.md#spielübergreifende-offene-punkte).
 - Asynchron den ganzen Abend spielbar, Pausen möglich.
 - Webseite und QR-Codes sind erlaubt; Firmenwissen und soziale Komponenten sollen vorkommen.
 - Alle Spiele laufen ohne Betreuung. Moderiert sind nur eine kurze Einleitung zu Beginn und die Siegerehrung am Ende. Die Einleitung erklärt den Ablauf, zeigt die Orte der Spiele mit Material im Raum und stellt das [Orgateam](../../CONTEXT.md) vor.

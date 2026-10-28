@@ -1,6 +1,6 @@
 # Spiel 4 – Fischfang
 
-Stand 27.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
+Stand 28.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
 Die „Crew“ sind die Spieler, die einen Durchlauf der Station gemeinsam spielen, auch eine einzelne Person (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
 
@@ -44,7 +44,7 @@ Jede Person fängt 3 Fische nacheinander. Gefangene Fische bleiben neben dem Tei
 
 **Fisch fehlt:** Unter jeder Reihe steht der Knopf „Fisch nicht im Teich“. Er zeigt „Sag bitte jemandem aus dem Orgateam Bescheid“ und stellt danach eine neue Reihe für diesen Fang. Der Knopf meldet nichts, er wird nicht geloggt und erscheint nicht im [Admin-Panel](../../admin/admin-panel.md).
 
-**Hinweise und Punkte:** Fischfang ist ein Rätsel ohne Zeitlimit. Hinweise und Exit folgen dem gemeinsamen Takt aus [Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md) und gelten für die laufende Reihe der Person, die den Hinweis nimmt. Hinweis 1 nennt eine der beiden Regeln („Das Rad dreht sich um 2 Speichen“). Hinweis 2 zeigt den gesuchten Fisch. Die Punkte richten sich nach den genommenen Hinweisen wie bei jedem Rätsel ([Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte)). Nach einem Abbruch bekommt die Crew neue Reihen.
+**Hinweise und Punkte:** Fischfang ist ein Rätsel mit der Höchstzeit von 10 Minuten, aber ohne Zeitdruck. Hinweise und Exit folgen dem gemeinsamen Takt aus [Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md) und gelten für die laufende Reihe der Person, die den Hinweis nimmt. Hinweis 1 nennt eine der beiden Regeln („Das Rad dreht sich um 2 Speichen“). Hinweis 2 zeigt den gesuchten Fisch. Die Punkte richten sich nach den genommenen Hinweisen wie bei jedem Rätsel ([Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte)). Nach einem Abbruch bekommt die Crew neue Reihen.
 
 ## Variationen
 

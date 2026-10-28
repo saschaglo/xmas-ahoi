@@ -27,7 +27,7 @@ Stand 28.10.2026 · [Übersicht](../README.md)
 | Bester Seefahrer | die meisten Punkte |
 | Teamplayer | die meisten Mitspieler, summiert über die beendeten Stationen: allein 0, Crew aus 2 zählt 1, Crew aus 3 zählt 2 (höchstens 12) |
 | Schnellste Schatztruhe | die kürzeste Zeit vom Start der ersten Station bis „Schatz bergen“, Pausen eingerechnet |
-| Schnellster Rätselknacker | die kürzeste Summe der Spielzeiten der beendeten Durchläufe von Morsezeichen, Fischfang und Seemannsgarn; nur wer alle drei ohne Exit gelöst hat |
+| Schnellster Rätselknacker | die kürzeste Summe der Spielzeiten der beendeten Durchläufe von Morsezeichen, Fischfang und Seemannsgarn; nur wer alle drei ohne Exit und ohne Zeitablauf gelöst hat |
 | Pechvogel | die meisten Abbrüche; hat niemand im Lostopf einen Abbruch, entfällt die Ehrung |
 | Langer Atem | die zuletzt geborgene Schatztruhe vor dem Schließen |
 

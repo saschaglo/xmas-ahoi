@@ -37,13 +37,14 @@ Was eine Station bringt:
 |---------|-----------|--------|
 | beendet | ja | 0 bis 100 |
 | Exit (nur Rätsel) | ja | 0 |
+| Zeitablauf nach 10 Minuten (nur Rätsel) | ja | 0 |
 | Abbruch | nein | keine, die Station wird neu gespielt |
 
 Jedes Spiel hat einen von zwei Spieltypen:
 
 | Spieltyp | Spiele | Zeit | Hilfe | Punkte |
 |----------|--------|------|-------|--------|
-| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | kein Limit (Morsezeichen: 5 Min.) | 2 Hinweise und Exit | 100 minus 25 je Hinweis |
+| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | Höchstzeit 10 Min., ohne Druck | 2 Hinweise und Exit | 100 minus 25 je Hinweis; Zeitablauf 0 |
 | Punktespiel | Quiz, Peilung, Kurs setzen | festes Zeitlimit | keine | Anteil der Treffer |
 
 Alle in einer Crew bekommen dieselben Punkte. Weil die Aufgaben mit der Crew wachsen, zählt die Quote; Einzelspieler und Crews sind so vergleichbar. Details: [Grundprinzip](framework/grundprinzip.md), [Spielübergreifend](spiele/uebergreifend.md).
@@ -79,7 +80,7 @@ Jede Person sieht 3 Fotos von Küsten und Meer und setzt je einen Pin auf eine W
 
 ### 3 · Morsezeichen
 
-Die Crew fängt einen Funkspruch ab. Jedes Handy morst ein Wort als Leuchtfeld, optional mit Ton; die Morsetabelle liegt als Tischkarte an der Funkstation. Gelöste Wörter erscheinen bei allen, danach sortiert die Crew den Satz. Nach 5 Minuten endet die Station mit einem automatischen Exit.
+Die Crew fängt einen Funkspruch ab. Jedes Handy morst ein Wort als Leuchtfeld, optional mit Ton; die Morsetabelle liegt als Tischkarte an der Funkstation. Gelöste Wörter erscheinen bei allen, danach sortiert die Crew den Satz.
 
 **Vorbereitung:**
 
@@ -157,7 +158,7 @@ Der Takt ist für alle Rätsel gleich ([Hinweise, Abbruch und Exit](framework/hi
 0:30  Hinweis 1 möglich            kostet die Crew 25 Punkte
 1:30  Hinweis 2 frühestens         kostet die Crew 25 Punkte
 2:30  Exit frühestens              Schlüssel, 0 Punkte, alle stimmen zu
-5:00  nur Morsezeichen             automatischer Exit
+10:00 alle Rätsel                  Zeitablauf: Schlüssel, 0 Punkte
 ```
 
 Den Hinweistext sieht nur, wer ihn nimmt; bei Morsezeichen sieht ihn die ganze Crew.
@@ -191,7 +192,7 @@ flowchart LR
 | Bester Seefahrer | die meisten Punkte |
 | Teamplayer | die meisten Mitspieler über alle Stationen |
 | Schnellste Schatztruhe | die kürzeste Zeit von der ersten Station bis „Schatz bergen“ |
-| Schnellster Rätselknacker | die kürzeste Spielzeit über die drei Rätsel, ohne Exit |
+| Schnellster Rätselknacker | die kürzeste Spielzeit über die drei Rätsel, ohne Exit und Zeitablauf |
 | Pechvogel | die meisten Abbrüche |
 | Langer Atem | die zuletzt geborgene Schatztruhe |
 

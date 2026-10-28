@@ -1,6 +1,6 @@
 # Minispiele: spielübergreifende Punkte
 
-Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 28.10.2026 · [Übersicht](../README.md)
 
 Sechs Minispiele sind vorgesehen und beschrieben. Jede Spielseite enthält Beschreibung, Variationen, Requisiten, eine Aufbau-Empfehlung sowie offene Fragen und Widersprüche. Hier stehen nur die spielübergreifenden Punkte. Begriffe wie „Crew“, „Rätsel“ und „Punktespiel“ stehen im [Glossar](../../CONTEXT.md).
 
@@ -19,14 +19,14 @@ Jedes Spiel hat einen festen Spieltyp:
 
 | Spieltyp | Spiele | Ergebnis | Punkte (0 bis 100) |
 |----------|--------|----------|--------------------|
-| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | gelöst oder Exit | gelöst: 100 minus 25 je genommenem Hinweis; Exit: 0 |
+| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | gelöst, Exit oder Zeitablauf | gelöst: 100 minus 25 je genommenem Hinweis; Exit oder Zeitablauf: 0 |
 | Punktespiel | Quiz, Peilung, Kurs setzen | Anteil an den möglichen Punkten | Quiz und Kurs setzen: Anteil der Treffer, mal 100; Peilung: Durchschnitt der Punkte je Foto |
 
 - Jede beendete Station gibt den Schlüssel, auch mit 0 Punkten. Ein Punktespiel ist beendet, wenn alle Aufgaben beantwortet sind oder die Zeit abgelaufen ist.
 - Ein Abbruch gibt weder Schlüssel noch Punkte, auch wenn bis dahin Treffer erzielt wurden. Die Station wird neu gespielt ([Abbruch](../framework/hinweise-abbruch-exit.md)).
 - Alle in der Crew bekommen dieselben Punkte. Weil die Mengen mit der Crewgröße wachsen, zählt die Quote, nicht die absolute Trefferzahl; so sind Einzelspieler und Crews vergleichbar.
 - Kein Zeitbonus: Wer ein Rätsel ohne Hinweis löst, bekommt 100 Punkte, egal wie schnell.
-- Rätsel haben kein Zeitlimit, dafür Hinweise und Exit. Ausnahme ist Morsezeichen mit einer Höchstzeit von 5 Minuten, danach folgt ein automatischer Exit. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
+- Rätsel haben keinen Zeitdruck, aber eine Höchstzeit von 10 Minuten ab dem gemeinsamen Start, dazu Hinweise und Exit. Bei Zeitablauf endet das Rätsel automatisch: Schlüssel für alle, 0 Punkte. Punktespiele haben ein Zeitlimit, aber weder Hinweise noch Exit ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
 - Jedes Spiel braucht genug Varianten (Fragen, Sätze, Bilder, Orte), damit eine Crew nach einem Abbruch neue Aufgaben bekommt. Ausnahme ist Morsezeichen: Dort darf sich ein Satz wiederholen.
 
 ## Crewgröße und Teilaufgaben
@@ -35,7 +35,7 @@ Alle Spiele skalieren nach derselben Regel mit der Crew:
 
 - Jede Person spielt auf dem eigenen Handy eine eigene [Teilaufgabe](../../CONTEXT.md) (eigene Fragen, eigene Fänge, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Wie groß eine Teilaufgabe ist, legt die Seite des Spiels fest. Ausnahme ist Morsezeichen: Dort entschlüsselt die Crew einen gemeinsamen Funkspruch, und jedes Handy zieht seine Wörter aus einem gemeinsamen Stapel.
 - Der Server zieht die Teilaufgaben ohne Wiederholung innerhalb der Crew. Nach einem Abbruch bekommt ein Spieler an dieser Station nichts, was er dort schon hatte, außer bei Morsezeichen. Die nötige Poolgröße legt die Seite des Spiels fest.
-- Rätsel: Die Station ist beendet, wenn alle Teilaufgaben gelöst sind. Wer fertig ist, sieht „Warte auf deine Crew“ und darf den anderen helfen. Verlassen lässt sich die Station nur über Exit oder Abbruch.
+- Rätsel: Die Station ist beendet, wenn alle Teilaufgaben gelöst sind. Wer fertig ist, sieht „Warte auf deine Crew“ und darf den anderen helfen. Verlassen lässt sich die Station nur über Exit, Abbruch oder Zeitablauf.
 - Punktespiel: Die Crew hat ein gemeinsames Zeitlimit ab dem gemeinsamen Start, gleich lang wie für Einzelspieler. Ausnahme ist Kurs setzen: Dort wächst das Zeitlimit mit der Crew, weil die Codes über die Handys verteilt sind. Die Station ist beendet, wenn alle ihre Teilaufgaben beantwortet haben oder die Zeit abgelaufen ist.
 - Varianten, die auf Verständigung zwischen Personen setzen (zum Beispiel bei der Reserve-Idee [Objekte merken](reserve/objekte-merken.md) die Fragen bei einem anderen Mitglied), spielen Einzelspieler in der Grundform auf dem eigenen Handy.
 - Hinweise bei Rätseln gelten je Crew, ihr Text je Person; bei Morsezeichen sehen alle in der Crew den Hinweis ([Hinweise, Abbruch und Exit](../framework/hinweise-abbruch-exit.md)).
@@ -68,4 +68,4 @@ Nicht eingeplant, aufbewahrt als Ersatz, falls ein Spiel ausfällt:
 
 ## Spielübergreifende offene Punkte
 
-1. Zeitbudget: höchstens 5 Minuten je Spiel, höchstens 30 Minuten insgesamt. Bei den Spielen mit Material im Raum zählt die Laufzeit mit.
+1. Zeitbudget: Geplant sind etwa 5 Minuten je Spiel und höchstens 30 Minuten insgesamt. Ein Rätsel darf bis zu 10 Minuten dauern, die Summe kann also im ungünstigen Fall darüber liegen. Bei den Spielen mit Material im Raum zählt die Laufzeit mit. Der Testlauf prüft, ob der Plan hält.

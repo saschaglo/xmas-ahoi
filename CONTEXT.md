@@ -13,7 +13,7 @@ Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst 
 _Avoid_: Unteraufgabe, Einzelaufgabe
 
 **Rätsel**:
-Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Fischfang, Seemannsgarn). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
+Spieltyp mit genau einer richtigen Lösung, ohne Zeitdruck, aber mit einer Höchstzeit von 10 Minuten, mit Hinweisen und Exit (Morsezeichen, Fischfang, Seemannsgarn).
 _Avoid_: Puzzle
 
 **Punktespiel**:
@@ -42,6 +42,10 @@ _Avoid_: Score, Wertung
 **Abbruch**:
 Beenden einer Station ohne Schlüssel und ohne Punkte, gültig für die ganze Crew. Die Station bleibt offen und wird neu gespielt.
 _Avoid_: Aufgeben
+
+**Höchstzeit**:
+Die 10 Minuten, die ein Rätsel ab dem gemeinsamen Start höchstens dauert. Danach endet es automatisch (Zeitablauf): Schlüssel für alle in der Crew, 0 Punkte, auch wenn einzelne Teilaufgaben schon gelöst sind. Punktespiele haben stattdessen ein Zeitlimit.
+_Avoid_: Zeitlimit (für Rätsel)
 
 **Exit**:
 Ausweg aus einem Rätsel, frühestens 60 Sekunden nach dem zweiten Hinweis: Schlüssel ja, Punkte 0.

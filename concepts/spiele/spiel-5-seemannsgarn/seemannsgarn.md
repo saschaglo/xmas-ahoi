@@ -21,7 +21,7 @@ Jede Person der Crew liest am Erzähltisch eine Geschichte über einen bekannten
 
 Groß- und Kleinschreibung spielen bei der Eingabe keine Rolle.
 
-**Hinweise und Punkte:** Seemannsgarn ist ein Rätsel ohne Zeitlimit. Hinweise und Exit folgen dem gemeinsamen Takt aus [Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md) und gelten für die Geschichte der Person, die den Hinweis nimmt. Hinweis 1 nennt den Namen des Seefahrers; wer ihn kennt oder nachschlägt, kommt damit weiter. Hinweis 2 zeigt 2 der 4 Buchstaben. Die Punkte richten sich nach den genommenen Hinweisen wie bei jedem Rätsel ([Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte)). Nach einem Abbruch bekommt jede Person eine Geschichte, die sie an dieser Station noch nicht hatte.
+**Hinweise und Punkte:** Seemannsgarn ist ein Rätsel mit der Höchstzeit von 10 Minuten, aber ohne Zeitdruck. Hinweise und Exit folgen dem gemeinsamen Takt aus [Hinweise, Abbruch und Exit](../../framework/hinweise-abbruch-exit.md) und gelten für die Geschichte der Person, die den Hinweis nimmt. Hinweis 1 nennt den Namen des Seefahrers; wer ihn kennt oder nachschlägt, kommt damit weiter. Hinweis 2 zeigt 2 der 4 Buchstaben. Die Punkte richten sich nach den genommenen Hinweisen wie bei jedem Rätsel ([Spieltypen und Punkte](../uebergreifend.md#spieltypen-und-punkte)). Nach einem Abbruch bekommt jede Person eine Geschichte, die sie an dieser Station noch nicht hatte.
 
 ## Variationen
 
