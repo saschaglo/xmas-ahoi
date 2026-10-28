@@ -30,6 +30,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Spieldetails Knoten](issues/12-spieldetails-knoten.md): Knoten gestrichen (kein Nachweis ohne Betreuung); Spiel 4 ist jetzt **Fischfang**, ein Rätsel am Fischteich: Fischreihe mit Steuerrad und Farbe auf dem Handy fortsetzen, den fehlenden von 24 schwimmenden Fischen angeln, Code eingeben; 3 Fänge je Person.
 - [Spieldetails Begriffe finden](issues/13-spieldetails-begriffe-finden.md): Begriffe finden ersetzt durch **Seemannsgarn**, ein Rätsel: Geschichte über einen Seefahrer (nur Nummer, kein Name) am Erzähltisch lesen, an 4 Faktentafeln die passenden Karten finden, 4 Buchstaben eingeben; Hinweis 1 nennt den Namen. Die Bordkarte braucht keine Rückseite mit Schlüssel.
 - [Admin und Betrieb: Schalter und Löschkonzept](issues/14-admin-und-betrieb.md): Drei Zustände (nicht eröffnet, offen, beendet), Wiederöffnen erlaubt; Schließen verfällt laufende Durchläufe nach Ansage; neues „Zurücksetzen“ mit Datumseingabe behält Nutzer und Codes; Daten 14 Tage nach der Feier löschen durch kompletten Abbau, anonyme Zahlen bleiben.
+- [Spieldetails Kurs setzen](issues/15-spieldetails-kurs-setzen.md): Seekarte mit 5 Symbolarten als Bezugspunkte (Firmennamen nur Deko); feste Zeilenrollen auf den Logbuchkarten (Zeile 3 Seekarte, Zeile 4 Firmenwissen, nur Nachbarfelder); ein Materialsatz, A3 plus A6, festgeklebt; Testlauf-Kriterium mit Reihenfolge Zeitlimit vor Ziffern.
 
 ## Not yet specified
 
