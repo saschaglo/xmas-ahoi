@@ -13,7 +13,7 @@ Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst 
 _Avoid_: Unteraufgabe, Einzelaufgabe
 
 **Rätsel**:
-Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Fischfang, Begriffe finden). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
+Spieltyp mit genau einer richtigen Lösung, ohne Zeitlimit, mit Hinweisen und Exit (Morsezeichen, Fischfang, Seemannsgarn). Morsezeichen hat als Ausnahme eine Höchstzeit von 5 Minuten.
 _Avoid_: Puzzle
 
 **Punktespiel**:
@@ -23,6 +23,14 @@ _Avoid_: Zeitspiel, Wertungsspiel
 **Funkspruch**:
 Der Satz, den eine Crew bei Morsezeichen gemeinsam entschlüsselt: Jedes Wort wird einzeln gemorst, danach bringt die Crew die Wörter in die richtige Reihenfolge.
 _Avoid_: Nachricht, Lösungssatz
+
+**Geschichte**:
+Der Text über einen bekannten Seefahrer, den eine Person bei Seemannsgarn am Erzähltisch liest. Er nennt den Namen nicht, sondern trägt eine Nummer.
+_Avoid_: Steckbrief, Story
+
+**Faktentafel**:
+Eine der 4 nummerierten Tafeln im Restaurant, an denen bei Seemannsgarn je eine Karte zu jedem Seefahrer hängt. Eine Faktentafel ist keine Station.
+_Avoid_: Station, Posten
 
 **Schlüssel**:
 Das, was eine beendete Station jedem Spieler der Crew gibt, unabhängig von den Punkten. 6 Schlüssel öffnen die Schatztruhe.

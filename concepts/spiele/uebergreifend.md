@@ -10,7 +10,7 @@ Sechs Minispiele sind vorgesehen und beschrieben. Jede Spielseite enthält Besch
 2. [Spiel 2 – Peilung](spiel-2-peilung/peilung.md): Pin auf der Weltkarte für Küstenfotos, Punkte nach Entfernung; nur am Handy.
 3. [Spiel 3 – Morsezeichen](spiel-3-morsezeichen/morsezeichen.md): Wörter eines Funkspruchs per Licht oder Ton entschlüsseln und zum Satz sortieren; an der Funkstation.
 4. [Spiel 4 – Fischfang](spiel-4-fischfang/fischfang.md): Eine Reihe aus Fischen auf dem Handy fortsetzen und den fehlenden Fisch aus dem Fischteich angeln.
-5. [Spiel 5 – Begriffe finden](spiel-5-begriffe-finden/begriffe-finden.md): Verschlüsselte Hinweise führen zu festen Orten und Begriffen im Raum.
+5. [Spiel 5 – Seemannsgarn](spiel-5-seemannsgarn/seemannsgarn.md): Eine Geschichte über einen Seefahrer lesen und an 4 Faktentafeln die passenden Fakten finden.
 6. [Spiel 6 – Kurs setzen](spiel-6-kurs-setzen/kurs-setzen.md): Codes aus Logbuchkarten führen auf einer Seekarte am Kartentisch zu einem Feld.
 
 ## Spieltypen und Punkte
@@ -19,7 +19,7 @@ Jedes Spiel hat einen festen Spieltyp:
 
 | Spieltyp | Spiele | Ergebnis | Punkte (0 bis 100) |
 |----------|--------|----------|--------------------|
-| Rätsel | Morsezeichen, Fischfang, Begriffe finden | gelöst oder Exit | gelöst: 100 minus 25 je genommenem Hinweis; Exit: 0 |
+| Rätsel | Morsezeichen, Fischfang, Seemannsgarn | gelöst oder Exit | gelöst: 100 minus 25 je genommenem Hinweis; Exit: 0 |
 | Punktespiel | Quiz, Peilung, Kurs setzen | Anteil an den möglichen Punkten | Quiz und Kurs setzen: Anteil der Treffer, mal 100; Peilung: Durchschnitt der Punkte je Foto |
 
 - Jede beendete Station gibt den Schlüssel, auch mit 0 Punkten. Ein Punktespiel ist beendet, wenn alle Aufgaben beantwortet sind oder die Zeit abgelaufen ist.
@@ -44,22 +44,21 @@ Alle Spiele skalieren nach derselben Regel mit der Crew:
 
 Lösungen lassen sich in der Firma weitergeben (Chat, Zuruf, Foto). Die Schatzsuche schützt sich dagegen nur durch Zufall und nimmt den Rest als Risiko hin:
 
-- In allen Spielen zieht der Server jede Teilaufgabe zufällig aus einem Pool (Fragen, Fotos, Wort, Ort); Fischfang erzeugt seine Reihen und Kurs setzen seine Codes jedes Mal neu. Ziel ist, dass sich zwei Crews selten überschneiden; eine Garantie gibt es nicht. Die Poolgröße legt die Seite des Spiels fest.
+- In allen Spielen zieht der Server jede Teilaufgabe zufällig aus einem Pool (Fragen, Fotos, Wort, Geschichte); Fischfang erzeugt seine Reihen und Kurs setzen seine Codes jedes Mal neu. Ziel ist, dass sich zwei Crews selten überschneiden; eine Garantie gibt es nicht. Die Poolgröße legt die Seite des Spiels fest.
 - Keine technische Erkennung (zum Beispiel Tab-Wechsel oder verdächtig schnelle Lösungen) und keine Sanktionen. Bei Preisen bis 20 EUR lohnt der Aufwand nicht, und Erkennung im Browser ist unzuverlässig.
 - Beim Check-in bittet ein Satz darum, Lösungen nicht weiterzugeben ([Eingang und Bordkarte](../framework/eingang-und-bordkarte.md)).
 - Was trotzdem möglich bleibt, steht unter [Mogeln](../framework/betrieb-datenschutz-risiken.md#bewusst-akzeptierte-risiken) in den akzeptierten Risiken.
 
 ## Spiele mit Material im Raum
 
-Morsezeichen, Fischfang und Kurs setzen laufen an einem festen Ort mit Material: der Funkstation, dem Fischteich und dem Kartentisch. Begriffe finden nutzt Schilder an Orten in der ganzen Location.
+Morsezeichen, Fischfang, Seemannsgarn und Kurs setzen laufen an einem festen Ort mit Material: der Funkstation, dem Fischteich, dem Erzähltisch und dem Kartentisch. Seemannsgarn nutzt dazu 4 Faktentafeln im Restaurant.
 
 - Das Konzept legt nur Regeln fest. Die konkreten Plätze wählt das [Orgateam](../../CONTEXT.md) vor Ort (bei Umsetzung klären).
 - Feste Orte: Die Station fragt vor der Crew-Bildung jede Person einzeln: „Bist du am Fischteich?“ Bei Ja geht es weiter zu „Allein spielen“ oder „Crew bilden“. Bei Nein erscheint „Den Fischteich findest du …, sonst frag jemanden aus dem Orgateam“, und es geht zurück zur Schatzkarte. Ein Nein ist kein Abbruch und wird nicht geloggt ([Karte und Stationen](../framework/karte-und-stationen.md)).
 - Der Ortsname ist fester Text in der App, etwa „am Fischteich“. Wo das ist, erklärt die Einleitung in den Abend ([Rahmen der Feier](../rahmen/rahmen-der-feier.md)).
-- Begriffe finden zeigt keinen Wegweiser; den Ort zu finden ist die Aufgabe. Für die Orte gibt es vorab keine Ausschlüsse, auch Toiletten sind möglich.
-- Die Laufwege zählen zu den 5 Minuten je Spiel. Deshalb liegen die Bereiche eines Spiels an festem Ort nur wenige Schritte auseinander.
+- Die Laufwege zählen zu den 5 Minuten je Spiel. Deshalb liegen die Bereiche eines Spiels an festem Ort nur wenige Schritte auseinander. Ausnahme sind die Faktentafeln von Seemannsgarn, die im Gastraum verteilt stehen.
 - Kapazität ist kein Problem: Es spielen nur wenige Crews gleichzeitig, und wer warten müsste, spielt erst eine andere Station.
-- Zurücksetzen: Die Stationen bleiben unbetreut. Das Orgateam sieht 2 bis 3 Mal am Abend nach dem Material und hat Ersatzfische, Ersatzschilder sowie Notizblock und Stift dabei. Am Fischteich zählt es die Fische und ersetzt fehlende. Die App hat keine Meldefunktion; Spieler sprechen das Orgateam direkt an.
+- Zurücksetzen: Die Stationen bleiben unbetreut. Das Orgateam sieht 2 bis 3 Mal am Abend nach dem Material und hat Ersatzfische, Ersatzkarten sowie Notizblock und Stift dabei. Am Fischteich zählt es die Fische und ersetzt fehlende. Die App hat keine Meldefunktion; Spieler sprechen das Orgateam direkt an.
 
 ## Reserve-Ideen
 

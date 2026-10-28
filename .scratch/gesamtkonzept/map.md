@@ -28,10 +28,10 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - [Spieldetails Navigator](issues/10-spieldetails-navigator.md): Spiel heißt jetzt **Peilung**, nur noch Pin auf OpenStreetMap zu Küstenfotos; Punkte fallen mit der Entfernung (voll bis 400 km); 3 Fotos je Person in 2 Minuten, Pool 40; Aufgabe A wird Reserve-Idee „Objekte merken“, Aufgabe C entfällt; Punktespiel heißt jetzt „Anteil an den möglichen Punkten“.
 - [Spieldetails Morsezeichen](issues/11-spieldetails-morsezeichen.md): Rätsel mit Höchstzeit 5 Minuten (danach automatischer Exit); Crew entschlüsselt einen gemeinsamen **Funkspruch** aus einem Wortstapel mit Positionsnummern und sortiert ihn per Drag & Drop; Hinweise für alle in der Wortliste; Morsetabelle nur an der Funkstation; Satzlänge im Testlauf.
 - [Spieldetails Knoten](issues/12-spieldetails-knoten.md): Knoten gestrichen (kein Nachweis ohne Betreuung); Spiel 4 ist jetzt **Fischfang**, ein Rätsel am Fischteich: Fischreihe mit Steuerrad und Farbe auf dem Handy fortsetzen, den fehlenden von 24 schwimmenden Fischen angeln, Code eingeben; 3 Fänge je Person.
+- [Spieldetails Begriffe finden](issues/13-spieldetails-begriffe-finden.md): Begriffe finden ersetzt durch **Seemannsgarn**, ein Rätsel: Geschichte über einen Seefahrer (nur Nummer, kein Name) am Erzähltisch lesen, an 4 Faktentafeln die passenden Karten finden, 4 Buchstaben eingeben; Hinweis 1 nennt den Namen. Die Bordkarte braucht keine Rückseite mit Schlüssel.
 
 ## Not yet specified
 
-- **Rückseite der Bordkarte:** Schlüssel für die Verschlüsselung? Das hängt an den Spieldetails von Begriffe finden. Eine Morsetabelle kommt nicht darauf.
 - **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
 - **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an einem Test vor Ort.
 - **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.

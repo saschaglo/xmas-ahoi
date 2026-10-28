@@ -18,7 +18,7 @@ Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte �
 - Doppelte Vornamen (Peter und Peter).
 - Eine starke Crew kann schwächeren Spielern Punkte verschaffen; jeder Spieler kann jede Station aber nur einmal beenden.
 - Mogeln. Zufällige Teilaufgaben machen es nur seltener ([Weitergabe von Lösungen](../spiele/uebergreifend.md#weitergabe-von-lösungen)). Möglich bleiben zum Beispiel:
-  - Lösungen per Firmenchat, Zuruf oder Foto an eine andere Crew weitergeben (Wort, Begriff, Ort, Quizantwort).
+  - Lösungen per Firmenchat, Zuruf oder Foto an eine andere Crew weitergeben (Wort, Code, Quizantwort).
   - Googeln bei Allgemeinwissen im Quiz.
   - Eine Bildersuche (zum Beispiel Google Lens) nach dem Foto bei Peilung.
   - Beim Fischfang mit der Hand in den Teich greifen oder Codes von Fischen fotografieren und weitergeben.
