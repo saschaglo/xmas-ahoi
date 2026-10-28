@@ -1,6 +1,6 @@
 # Minispiele: spielübergreifende Punkte
 
-Quelle: Trilium „Minispiele – Übersicht“ · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 Sechs Minispiele sind vorgesehen und beschrieben. Jede Spielseite enthält Beschreibung, Variationen, Requisiten, eine Aufbau-Empfehlung sowie offene Fragen und Widersprüche. Hier stehen nur die spielübergreifenden Punkte. Begriffe wie „Crew“, „Rätsel“ und „Punktespiel“ stehen im [Glossar](../../CONTEXT.md).
 

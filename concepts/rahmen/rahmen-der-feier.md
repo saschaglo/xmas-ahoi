@@ -1,6 +1,6 @@
 # Rahmen der Feier
 
-Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 ## Rahmen
 
@@ -21,7 +21,7 @@ Quelle: Trilium „Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“ · Stand
 ## Technische Vorgaben
 
 - Mobile Webseite (keine App) auf Basis von Nuxt, im Internet gehostet; der Laptop des Veranstalters dient nur der Administration.
-- Optik der Einladung (siehe Design-Entwurf im [Archiv](../archiv/archiv.md)); die Wireframes sind bewusst grau.
+- Optik der Einladung; die Wireframes sind bewusst grau.
 
 ## Vorgehen
 

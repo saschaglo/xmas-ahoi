@@ -1,6 +1,6 @@
 # Wireframes: Spieler-Flow
 
-Quelle: Trilium „Wireframes – Logbuch-Flow“ · Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
+Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
 
 Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) zum Ablauf der mobilen Webseite. Die Screens des Admin-Panels stehen unter [Wireframes: Admin-Panel](../admin/wireframes-admin.md).
 

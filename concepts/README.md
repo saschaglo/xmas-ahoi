@@ -1,12 +1,11 @@
 # Konzept – Übersicht
 
-Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 20. November 2026. Bestandsaufnahme aus Trilium („Projekt Xmas Ahoi – Schatzsuche Weihnachtsfeier“), Stand 22.10.2026. Die technische Umsetzung liegt unter [project/](../project/README.md).
+Fachliches Konzept der Schatzsuche „Xmas Ahoi!“ für die Weihnachtsfeier am 20. November 2026. Die technische Umsetzung liegt unter [project/](../project/README.md).
 
 ## Stand
 
 - Der grobe Ablauf der mobilen Webseite ist abgestimmt und als Wireframes gezeichnet. Die Wireframes zeigen noch feste Crews; was neu zu zeichnen ist, steht auf den Wireframe-Seiten.
 - Alle sechs Minispiele sind beschrieben; die offenen Fragen stehen auf den Spielseiten.
-- Die Spielideen der Recherchephase sind nicht die Grundlage; sie liegen im [Archiv](archiv/archiv.md).
 - Bisher gibt es keine Programmierung.
 
 ## Ablauf aus Sicht einer Person
@@ -62,10 +61,6 @@ flowchart LR
 | 4 | [Fischfang](spiele/spiel-4-fischfang/fischfang.md) | Raum (Fischteich, Angeln) | beschrieben, Fänge im Testlauf |
 | 5 | [Seemannsgarn](spiele/spiel-5-seemannsgarn/seemannsgarn.md) | Raum (Erzähltisch, Faktentafeln) | beschrieben, Laufzeit im Testlauf |
 | 6 | [Kurs setzen](spiele/spiel-6-kurs-setzen/kurs-setzen.md) | Raum (Seekarte, Logbuchkarten) | beschrieben, Zeiten im Testlauf |
-
-### Archiv
-
-- [Archiv](archiv/archiv.md): Verzeichnis der alten Trilium-Seiten, nur Referenz
 
 ## Offene Punkte
 

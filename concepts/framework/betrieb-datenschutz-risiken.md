@@ -1,6 +1,6 @@
 # Betrieb, Datenschutz und akzeptierte Risiken
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte „Technik, Datenschutz und akzeptierte Risiken“ und „Offen und später“ · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 ## Betrieb
 

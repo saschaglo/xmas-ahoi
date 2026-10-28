@@ -1,6 +1,6 @@
 # Spiel 6 – Kurs setzen
 
-Quelle: Abstimmung mit dem Veranstalter · Stand 28.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
+Stand 28.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
 Die „Crew“ sind die Spieler, die einen Durchlauf der Station gemeinsam spielen, auch eine einzelne Person (siehe [Glossar](../../../CONTEXT.md)). „Beschreibung“ und „Variationen“ sind die Vorgabe des Veranstalters. „Aufbau (Empfehlung)“ und „Offene Fragen“ stammen aus der Durchsicht und sind noch nicht entschieden.
 

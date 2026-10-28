@@ -1,6 +1,6 @@
 # Finale, Ende-Seite und Siegerehrung
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Finale, Ende-Seite und Ziehung“, überarbeitet auf Ziehung und Ehrungen · Stand 28.10.2026 · [Übersicht](../README.md)
+Stand 28.10.2026 · [Übersicht](../README.md)
 
 ## Finale
 

@@ -42,6 +42,5 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 - Inhalte produzieren (Fragenpool, Wortlisten, Bilder, Hinweistexte, Fische): eigenes Arbeitspaket nach dem Konzept.
 - Technische Spezifikation (Datenmodell, Seiten, API) und die Handy-Ansicht des Admin-Panels: kommen mit der Umsetzung.
-- Trilium nachpflegen: `concepts/` ist die Quelle.
 - Gestaltung und Druck der Bordkarten.
 - [Hausrecht beim Rudolph's anfragen](issues/06-hausrecht-anfragen.md): Orga-Aufgabe, das Konzept hängt nicht an der Antwort.

@@ -1,6 +1,6 @@
 # Eingang und Bordkarte
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Eingang und Bordkarte“ · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 - Jede Person erhält eine individuell gefertigte Bordkarte mit QR-Code. Er führt auf die Webseite und enthält den Zugangscode, damit die Begrüßung direkt lautet: „Willkommen an Bord, Peter!“ Die Karten werden separat erstellt.
 - Auf der Karte steht zusätzlich ein 4-stelliger Textcode, der keine verwechselbaren Zeichen enthält (zum Beispiel O/0, I/1/L, S/5, B/8, Z/2, G/6, U/V; der genaue Zeichensatz wird bei der Umsetzung festgelegt). Das System erzeugt den Code. Alle Codes (Nutzer und Crews) sind global eindeutig.

@@ -1,6 +1,6 @@
 # Wireframes: Admin-Panel
 
-Quelle: Trilium „Wireframes – Logbuch-Flow“, Abschnitt „Admin-Panel“ · Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
+Stand 21.10.2026, Anmerkungen 23.10.2026 · [Übersicht](../README.md)
 
 **Design-Canvas (Claude Design, privat):** [Wireframes – Logbuch-Flow](https://claude.ai/artifact/79z52NjAYibAu2gyE1iL34)
 

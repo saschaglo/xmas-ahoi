@@ -1,6 +1,6 @@
 # Grundprinzip
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Grundprinzip“ · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 Fachbegriffe wie „Crew“, „Punkte“ und „Rangliste“ stehen im [Glossar](../../CONTEXT.md).
 

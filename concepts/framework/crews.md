@@ -1,6 +1,6 @@
 # Crews
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Crews“, überarbeitet auf Crew je Station · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 Eine Crew besteht nur für einen Durchlauf einer Station. Es gibt keine dauerhaften Crews, keine Lobby nach dem Check-in und kein Austreten. Begriffe im [Glossar](../../CONTEXT.md).
 

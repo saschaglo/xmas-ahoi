@@ -1,6 +1,6 @@
 # Reserve – Objekte merken
 
-Quelle: Trilium „Spiel 2 – Navigator“, dort Aufgabe A · Stand 26.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
+Stand 26.10.2026 · [Übersicht](../../README.md) · [Spielübergreifend](../uebergreifend.md)
 
 Diese Idee ist nicht eingeplant. Sie stammt aus dem früheren Spiel „Navigator“, das jetzt [Peilung](../spiel-2-peilung/peilung.md) heißt, und bleibt als Ersatz, falls ein Spiel ausfällt. Wird sie eingeplant, gilt die Regel [Crewgröße und Teilaufgaben](../uebergreifend.md#crewgröße-und-teilaufgaben), und die Details werden dann festgelegt.
 

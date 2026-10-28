@@ -1,6 +1,6 @@
 # Im Spiel: Hinweise, Abbruch und Exit
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Im Spiel: Hinweise, Abbruch und Exit“, überarbeitet auf Crew je Station · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 - Hinweise und Exit gibt es nur bei Rätseln. Ein Rätsel hat kein Zeitlimit; wer festhängt, nimmt Hinweise und zuletzt den Exit. Ausnahme ist [Morsezeichen](../spiele/spiel-3-morsezeichen/morsezeichen.md) mit einer Höchstzeit von 5 Minuten.
 - Je Rätsel hat die Crew höchstens 2 Hinweise, egal ob sie aus 1, 2 oder 3 Personen besteht. Jeder genommene Hinweis kostet die ganze Crew 25 Punkte (siehe [Spielübergreifend](../spiele/uebergreifend.md#spieltypen-und-punkte)).

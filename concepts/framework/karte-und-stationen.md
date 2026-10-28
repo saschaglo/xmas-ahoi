@@ -1,6 +1,6 @@
 # Karte und Stationen
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitt „Karte und Stationen“, überarbeitet auf Crew je Station · Stand 23.10.2026 · [Übersicht](../README.md)
+Stand 23.10.2026 · [Übersicht](../README.md)
 
 - Nach dem Check-in erscheint eine stilisierte Schatzkarte mit 6 anklickbaren Stationen. Offene Stationen sehen unfertig aus; beendete zeigen einen Schlüssel.
 - Man kommt jederzeit zur Karte zurück und sieht den Fortschritt.

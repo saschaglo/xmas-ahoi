@@ -1,6 +1,6 @@
 # Admin-Panel
 
-Quelle: Trilium „Spielkonzept – Ablauf der mobilen Webseite“, Abschnitte „Admin-Panel“ und „Offen und später“ · Stand 28.10.2026 · [Übersicht](../README.md)
+Stand 28.10.2026 · [Übersicht](../README.md)
 
 - Zugriff über einen Login (Nuxt-Standard), nur für Veranstalter. Bedienbar am Handy und am Desktop; die Erstpflege erfolgt am Rechner.
 - Schalter „Schatzsuche öffnen/schließen“ mit drei Zuständen: _nicht eröffnet_ → _offen_ → _beendet_. Von _beendet_ darf der Admin wieder öffnen (etwa nach einem Fehlklick); die Spielstände bleiben dabei erhalten.
