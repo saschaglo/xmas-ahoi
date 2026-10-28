@@ -14,6 +14,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 - Location: **Restaurant Rudolph's, Poggenmühle 5** (umgebucht von der Event-Location). Keine Standortkonzepte: Plätze, Hausrecht und Rückfälle löst das Orgateam vor Ort.
 - Inhalte (Fragen, Wörter, Bilder, Hinweistexte) werden nicht produziert. Das Konzept legt nur fest, was gebraucht wird und wie viel.
 - Commits: siehe `CLAUDE.md`, Abschnitt Git.
+- Zeitbudget gesamt: 6 Spiele zu höchstens 5 Minuten ergeben die 30 Minuten; geprüft wird über den Testlauf je Spiel, nicht in einem eigenen Ticket.
 
 ## Decisions so far
 
@@ -34,9 +35,7 @@ Umsetzungsreifes Gesamtkonzept in `concepts/` bis **Fr, 31.10.2026**: Keine Konz
 
 ## Not yet specified
 
-- **Zeitbudget gesamt:** Die Summe aller Spiele inklusive Laufwege muss in 30 Minuten passen (übergreifend 2). Das lässt sich erst prüfen, wenn alle Spiele festgelegt sind.
-- **Netz im Gastraum:** Ob es einen Rückfall bei schlechtem Empfang braucht, hängt an einem Test vor Ort.
-- **Weitere Ehrungen:** Neben Plätzen 1 bis 3 und „Teamplayer“ sind weitere Werte denkbar, zum Beispiel „Gespielte Spiele als Crew“. Viele Spieler werden dabei gleichauf liegen, also braucht jede Ehrung ein Los bei Gleichstand.
+- Derzeit nichts.
 
 ## Out of scope
 
