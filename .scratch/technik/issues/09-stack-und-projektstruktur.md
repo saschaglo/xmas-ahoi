@@ -3,7 +3,7 @@
 Type: grilling
 Status: open
 Assignee: –
-Blocked by: [Echtzeit in Nuxt](02-echtzeit-in-nuxt.md), [MySQL in Nuxt](03-mysql-in-nuxt.md), [Spielmodul-Schnittstelle](06-spielmodul-schnittstelle.md)
+Blocked by: [Echtzeit in Nuxt](02-echtzeit-in-nuxt.md), [MySQL in Nuxt](03-mysql-in-nuxt.md), [Spielmodul-Schnittstelle](06-spielmodul-schnittstelle.md), [Gerätefragen der Spiele](14-geraetefragen-der-spiele.md)
 
 ## Question
 

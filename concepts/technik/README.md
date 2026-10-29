@@ -15,3 +15,4 @@ Technisches Konzept für die Umsetzung in [project/](../../project/README.md). E
 ## Seiten
 
 - [Durchlauf und Uhren](durchlauf-und-uhren.md): Zustände eines Durchlaufs, Log, Fristen auf dem Server
+- [Spielmodul-Schnittstelle](spielmodul-schnittstelle.md): Vertrag zwischen Basis und Spielmodul mit Typen

@@ -26,11 +26,11 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - [Infrastruktur-Vorgaben erheben](issues/01-infrastruktur-vorgaben.md): SysEleven-Cluster mit Envoy Gateway (Gateway API), Deployment per ArgoCD und Crossplane durch Sascha selbst; Percona 8.4.7 im Modus `ENFORCING` mit vollen Rechten aufs eigene Schema.
 - [MySQL in Nuxt: ORM, Migrationen, Sperren](issues/03-mysql-in-nuxt.md): Prisma fällt praktisch aus (Prisma 8 ohne MySQL); Drizzle und Kysely tragen Sperren und Idempotenz; Percona-Cluster würde Primärschlüssel erzwingen und `GET_LOCK()` sperren; Sessions per versiegeltem Cookie, Rate-Limit in einer MySQL-Tabelle.
 - [Durchlauf-Modell und Uhren](issues/05-durchlauf-modell-und-uhren.md): Durchlauf ab gemeinsamem Start mit fünf Enden, Crew-Bildung davor ohne Log; Zustand in Tabellen, Log als Protokoll; Fristen als Zeitpunkte mit Taktgeber im Pod; erster Wechsel gewinnt, Abbruch schlägt Exit-Abstimmung.
+- [Spielmodul-Schnittstelle](issues/06-spielmodul-schnittstelle.md): Module als reine Funktionen über einem JSON-Zustand je Durchlauf mit Ansicht je Spieler; Basis macht Takt, Sperre (auf die Station), Idempotenz und Log; Punkte immer im Modul; Austausch per Deploy. Neu: [Gerätefragen der Spiele](issues/14-geraetefragen-der-spiele.md).
 
 ## Not yet specified
 
 - Design-System (Farben, Schrift, Komponenten, Ton der Texte): wird ein Ticket, sobald [Einladung als Gestaltungsvorlage liefern](issues/04-einladung-liefern.md) erledigt ist.
-- Gerätefragen je Spiel, nur soweit sie Stack oder Schnittstelle berühren: Ton und Licht bei Morsezeichen (Autoplay-Sperre auf iOS), Drag & Drop am Handy, Karte und Kacheln bei Peilung (Nutzungsregeln von OpenStreetMap), Steuerrad bei Fischfang. Wird schärfer nach der [Spielmodul-Schnittstelle](issues/06-spielmodul-schnittstelle.md).
 
 ## Out of scope
 
