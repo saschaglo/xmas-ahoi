@@ -40,14 +40,16 @@ sequenceDiagram
 
 ## Typen
 
+Die Namen im Code folgen der Tabelle [Fachbegriffe im Code](architektur.md#fachbegriffe-im-code).
+
 ```ts
 type PlayerId = string
 type CrewSize = 1 | 2 | 3
-type RunEnd = 'beendet' | 'exit' | 'zeitablauf' | 'abbruch' | 'verfallen'
+type RunEnd = 'finished' | 'exit' | 'timeout' | 'abort' | 'expired'
 
 interface GameMeta {
   id: string                              // 'fischfang'
-  type: 'raetsel' | 'punktespiel'
+  type: 'puzzle' | 'scoreGame'
   location?: string                       // 'am Fischteich'
   duration(crew: CrewSize): number        // ms: Höchstzeit oder Zeitlimit
   rules: string                           // Regelkarte
@@ -63,7 +65,7 @@ interface Ctx {
 
 interface RunInfo {
   crew: readonly PlayerId[]
-  status: 'laeuft' | RunEnd
+  status: 'running' | RunEnd
   hintsTaken: number
 }
 

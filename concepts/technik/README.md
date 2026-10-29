@@ -14,6 +14,7 @@ Technisches Konzept für die Umsetzung in [project/](../../project/README.md). E
 
 ## Seiten
 
+- [Architektur](architektur.md): Stack, Projektstruktur, Tests, Etappen mit Demo-Spielen, Fachbegriffe im Code
 - [Durchlauf und Uhren](durchlauf-und-uhren.md): Zustände eines Durchlaufs, Log, Fristen auf dem Server
 - [Spielmodul-Schnittstelle](spielmodul-schnittstelle.md): Vertrag zwischen Basis und Spielmodul mit Typen
 - [Zugang und Session](zugang-und-session.md): Check-in per Zugangscode, Session, Codes, Rate-Limit, Admin-Login

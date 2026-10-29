@@ -29,6 +29,7 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - [Spielmodul-Schnittstelle](issues/06-spielmodul-schnittstelle.md): Module als reine Funktionen über einem JSON-Zustand je Durchlauf mit Ansicht je Spieler; Basis macht Takt, Sperre (auf die Station), Idempotenz und Log; Punkte immer im Modul; Austausch per Deploy. Neu: [Gerätefragen der Spiele](issues/14-geraetefragen-der-spiele.md).
 - [Gerätefragen der Spiele](issues/14-geraetefragen-der-spiele.md): iPhone-Stummschalter dämpft Web Audio, nur `audioSession.type = 'playback'` hilft; Wortliste per SortableJS statt nativem DnD; OSM-Kacheln erlaubt mit Referer und Namensnennung (Achtung `nuxt-security`), Leaflet 42 KB gegen MapLibre 294 KB; Steuerrad als SVG ohne Bibliothek.
 - [Identität, Session und Zugang](issues/07-identitaet-session-zugang.md): QR-URL mit Zugangscode, Einchecken per POST, versiegeltes Cookie mit Spieler-ID (14 Tage), mehrere Geräte gleichzeitig; Zugangscode 4 Buchstaben, Crewcode 4 Ziffern; Rate-Limit je Gerät plus global im Speicher; Admin mit gemeinsamem Passwort.
+- [Stack und Projektstruktur](issues/09-stack-und-projektstruktur.md): Nuxt 4.6 mit SSR, Drizzle 0.45.4, Nuxt UI 4 nur für Bedienelemente, Zod, kein Pinia; ein Ordner je Spiel unter `games/`; Vitest plus Playwright mit stellbarer Server-Uhr; Code englisch; MVP mit dauerhaften Demo-Spielen, Stationstabellen `demo`/`live`.
 
 ## Not yet specified
 
@@ -40,3 +41,4 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - Volles Datenmodell (Tabellen) und API-Endpunkte: entstehen beim Bauen mit Tests.
 - Inhalte erstellen (Fragen, Fotos, Wortlisten, Hinweistexte).
 - Gestaltung und Druck der Bordkarten.
+- Bibliotheken einzelner Spiele (Karte, Drag & Drop): gewählt in der Etappe des jeweiligen Spiels, nicht vorab ([Stack und Projektstruktur](issues/09-stack-und-projektstruktur.md)).
