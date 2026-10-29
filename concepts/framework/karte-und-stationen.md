@@ -1,13 +1,13 @@
 # Karte und Stationen
 
-Stand 28.10.2026 · [Übersicht](../README.md)
+Stand 29.10.2026 · [Übersicht](../README.md)
 
 - Nach dem Check-in erscheint eine stilisierte Schatzkarte mit 6 anklickbaren Stationen. Offene Stationen sehen unfertig aus; beendete zeigen einen Schlüssel.
 - Man kommt jederzeit zur Karte zurück und sieht den Fortschritt.
 - Station antippen, dann „Allein spielen“ oder „Crew bilden“ bzw. Crewcode eingeben; Ablauf unter [Crews](crews.md). Allein geht es nach „Bin bereit“ sofort los.
 - Bei Stationen an einem festen Ort (Morsezeichen, Fischfang, Seemannsgarn, Kurs setzen) fragt die App davor jede Person, ob sie dort ist ([Spiele mit Material im Raum](../spiele/uebergreifend.md#spiele-mit-material-im-raum)).
 - Jeder Spieler hat immer nur eine aktive Station.
-- Gleichzeitige Aktionen: Beim gleichzeitigen Abbruch und Exit hat der Abbruch Vorrang.
+- Gleichzeitige Aktionen: Ein Abbruch während einer laufenden Exit-Abstimmung beendet den Durchlauf als Abbruch. Sonst gilt, was zuerst beim Server ankommt; das gilt auch für eine Lösung in der letzten Sekunde vor dem Zeitablauf.
 
 ## Schlüssel und Punkte
 

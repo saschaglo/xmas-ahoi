@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | Folder | Content | Language |
 |--------|---------|----------|
-| `concepts/` | Business concept: rules, flows, admin, minigames | German |
+| `concepts/` | Business concept: rules, flows, admin, minigames; technical concept in `concepts/technik/` | German |
 | `project/` | Technical implementation (Nuxt) | English is fine |
 
 `concepts/README.md` is the entry page. Every concept file must be reachable from it through relative links.

@@ -49,6 +49,10 @@ flowchart LR
 - [Admin-Panel](admin/admin-panel.md): Login, Schalter, Nutzer, Rangliste, Log je Durchlauf
 - [Wireframes: Admin-Panel](admin/wireframes-admin.md): 31 Screens
 
+### Technik
+
+- [Technik – Übersicht](technik/README.md): Plattform und technisches Konzept für die Umsetzung in `project/`
+
 ### Minispiele
 
 - [Spielübergreifende Punkte](spiele/uebergreifend.md): Spieltypen und Punkte, Spiele mit Material im Raum

@@ -43,6 +43,10 @@ _Avoid_: Score, Wertung
 Beenden einer Station ohne Schlüssel und ohne Punkte, gültig für die ganze Crew. Die Station bleibt offen und wird neu gespielt.
 _Avoid_: Aufgeben
 
+**Durchlauf**:
+Ein Versuch einer Crew an einer Station, vom gemeinsamen Start bis zum Ende (beendet, Exit, Zeitablauf, Abbruch oder Verfall). Wer allein spielt, startet mit „Bin bereit“. Die Crew-Bildung davor gehört nicht dazu.
+_Avoid_: Runde, Spielrunde, Versuch
+
 **Log**:
 Die Aufzeichnung jedes Durchlaufs einer Station mit Start, Crew und allen Ereignissen samt Zeit (Hinweis, Exit, Verbindungsverlust, Zeitablauf, Abbruch, Verfall, Ende). Nur im Admin-Panel sichtbar, filterbar nach Person.
 

@@ -13,4 +13,5 @@ Blocked by: [Infrastruktur-Vorgaben erheben](01-infrastruktur-vorgaben.md), [Ech
 
 - [Karte und Stationen, Verbindung während der Station](../../../concepts/framework/karte-und-stationen.md#verbindung-während-der-station): beide Fragen sind dort „bei der Umsetzung klären“.
 - [Netz im Gastraum testen](../../gesamtkonzept/issues/16-netz-im-gastraum.md) liegt auf der Karte Gesamtkonzept.
+- Aus [Durchlauf-Modell und Uhren](05-durchlauf-modell-und-uhren.md): Bleiben die Uhren während der Sperre stehen, braucht es ein Ende, wenn alle in der Crew ausgefallen sind; sonst hängt der Durchlauf.
 - Falls der Ingress unklar bleibt: kleiner Probe-Pod als Prototyp.

@@ -25,6 +25,7 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - [Echtzeit in Nuxt: WebSocket, SSE oder Polling](issues/02-echtzeit-in-nuxt.md): WebSocket in Nitro nur experimentell, SSE ohne Flag; Envoy schneidet SSE ohne Routen-Timeout nach 15 s ab, Loadbalancer nach 50 s Leerlauf; Anwesenheit braucht bei jedem Weg einen Herzschlag. Ungetestet, daher neu: [Echtzeit-Probe im Cluster](issues/13-echtzeit-probe-im-cluster.md).
 - [Infrastruktur-Vorgaben erheben](issues/01-infrastruktur-vorgaben.md): SysEleven-Cluster mit Envoy Gateway (Gateway API), Deployment per ArgoCD und Crossplane durch Sascha selbst; Percona 8.4.7 im Modus `ENFORCING` mit vollen Rechten aufs eigene Schema.
 - [MySQL in Nuxt: ORM, Migrationen, Sperren](issues/03-mysql-in-nuxt.md): Prisma fällt praktisch aus (Prisma 8 ohne MySQL); Drizzle und Kysely tragen Sperren und Idempotenz; Percona-Cluster würde Primärschlüssel erzwingen und `GET_LOCK()` sperren; Sessions per versiegeltem Cookie, Rate-Limit in einer MySQL-Tabelle.
+- [Durchlauf-Modell und Uhren](issues/05-durchlauf-modell-und-uhren.md): Durchlauf ab gemeinsamem Start mit fünf Enden, Crew-Bildung davor ohne Log; Zustand in Tabellen, Log als Protokoll; Fristen als Zeitpunkte mit Taktgeber im Pod; erster Wechsel gewinnt, Abbruch schlägt Exit-Abstimmung.
 
 ## Not yet specified
 
