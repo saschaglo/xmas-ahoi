@@ -47,7 +47,7 @@ Bordkarte (QR + 4-char code) -> Check-in -> Schatzkarte with 6 stations
 There is no build yet. Check the relative Markdown links:
 
 ```sh
-for f in $(find . -name '*.md' -not -path './.claude/*'); do d=$(dirname "$f"); grep -o '](\([^)#]*\.md\)' "$f" | sed 's/](//' | while read -r l; do [ -f "$d/$l" ] || echo "BROKEN $f -> $l"; done; done
+for f in $(find . -name '*.md' -not -path './.claude/*'); do d=$(dirname "$f"); grep -o '](\([^)#]*\.md\)' "$f" | sed 's/](//' | grep -v '^http' | while read -r l; do [ -f "$d/$l" ] || echo "BROKEN $f -> $l"; done; done
 ```
 
 ## Git
