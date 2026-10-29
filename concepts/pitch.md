@@ -1,6 +1,6 @@
 # Pitch: Xmas Ahoi!
 
-Stand 28.10.2026 · [Übersicht](README.md)
+Stand 29.10.2026 · [Übersicht](README.md)
 
 Kurzfassung des Konzepts für die Vorstellung. Verbindlich sind die verlinkten Konzeptseiten; Fachbegriffe stehen im [Glossar](../CONTEXT.md).
 
@@ -226,6 +226,6 @@ stateDiagram-v2
 
 - Konzept, Spielregeln und Wireframes stehen; programmiert ist noch nichts.
 - Inhalte und Material je Spiel vorbereiten, siehe „Vorbereitung“ unter [Die sechs Spiele](#die-sechs-spiele).
-- Bordkarten mit persönlichem QR-Code und Textcode für alle Gäste drucken.
+- Bordkarten mit persönlichem QR-Code und Zugangscode für alle Gäste drucken.
 - Umsetzung als Nuxt-Webseite mit Admin-Panel.
 - Testlauf: Er legt Zeitlimits, Satzlängen und Fänge je Person endgültig fest.

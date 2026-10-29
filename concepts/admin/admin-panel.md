@@ -1,8 +1,8 @@
 # Admin-Panel
 
-Stand 28.10.2026 · [Übersicht](../README.md)
+Stand 29.10.2026 · [Übersicht](../README.md)
 
-- Zugriff über einen Login (Nuxt-Standard), nur für Veranstalter. Bedienbar am Handy und am Desktop; die Erstpflege erfolgt am Rechner.
+- Zugriff über einen Login mit einem gemeinsamen Passwort, nur für Veranstalter ([Zugang und Session](../technik/zugang-und-session.md#admin-login)). Bedienbar am Handy und am Desktop; die Erstpflege erfolgt am Rechner.
 - Schalter „Schatzsuche öffnen/schließen“ mit drei Zuständen: _nicht eröffnet_ → _offen_ → _beendet_. Von _beendet_ darf der Admin wieder öffnen (etwa nach einem Fehlklick); die Spielstände bleiben dabei erhalten. Jeder Wechsel des Schalters (öffnen, schließen, wieder öffnen) fragt vorher nach; die Rückfrage beim Schließen nennt den harten Schnitt.
 - Ist die Schatzsuche nicht offen, sind Check-in, Spielen und „Schatz bergen“ gesperrt, und alle sehen die [Ende-Seite](../framework/finale-und-ziehung.md#ende-seite).
 - Schließen ist ein harter Schnitt: Laufende Durchläufe verfallen ohne Schlüssel und ohne Punkte; ihr Eintrag im Log bleibt mit dem Status „verfallen“ stehen. Das Orgateam kündigt das Ende vorher an, im Gastraum moderiert und auf Terrasse und Hinterhof persönlich (etwa „noch 5 Minuten“). Im Spiel erscheint dazu kein Hinweis.

@@ -35,7 +35,7 @@ flowchart LR
 ### Framework (Spielablauf)
 
 1. [Grundprinzip](framework/grundprinzip.md): Stationen, Schlüssel, Punkte, Lostopf, Spielerkonten
-2. [Eingang und Bordkarte](framework/eingang-und-bordkarte.md): QR-Code, Textcode, Check-in
+2. [Eingang und Bordkarte](framework/eingang-und-bordkarte.md): QR-Code, Zugangscode, Check-in
 3. [Crews](framework/crews.md): Crew je Station bilden und beitreten
 4. [Karte und Stationen](framework/karte-und-stationen.md): Schatzkarte, Schlüssel und Punkte, Verbindungsverlust
 5. [Hinweise, Abbruch und Exit](framework/hinweise-abbruch-exit.md): Hinweis-Takt, Zustimmung, Log je Durchlauf

@@ -8,6 +8,13 @@ Unbetreute Schatzsuche auf dem Handy für die Weihnachtsfeier: Spieler lösen St
 Die 1 bis 3 Spieler, die gemeinsam einen Durchlauf einer Station spielen. Sie bildet sich vor der Station über einen Code und löst sich danach auf. Wer allein spielt, ist eine Crew aus einer Person. Alle Mengenregeln (Fragen, Fotos, Wörter, Fänge) richten sich nach der Crew.
 _Avoid_: Gruppe, Team, Besetzung
 
+**Zugangscode**:
+Die 4 Buchstaben auf der Bordkarte, auch im QR-Code enthalten. Sie gehören genau einem Spieler und führen zum Check-in.
+_Avoid_: Textcode, Nutzercode, Einladungscode
+
+**Crewcode**:
+Die 4 Ziffern, über die andere einer Crew beitreten. Sie gelten nur für diese eine Crew-Bildung an einer Station.
+
 **Teilaufgabe**:
 Der Teil eines Durchlaufs, den eine Person der Crew auf dem eigenen Handy löst (eigene Fragen, eigene Fänge, eigener Code). Eine Crew aus n Personen hat n Teilaufgaben. Morsezeichen hat keine Teilaufgaben, dort löst die Crew einen gemeinsamen Funkspruch.
 _Avoid_: Unteraufgabe, Einzelaufgabe

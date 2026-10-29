@@ -27,6 +27,8 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - [MySQL in Nuxt: ORM, Migrationen, Sperren](issues/03-mysql-in-nuxt.md): Prisma fällt praktisch aus (Prisma 8 ohne MySQL); Drizzle und Kysely tragen Sperren und Idempotenz; Percona-Cluster würde Primärschlüssel erzwingen und `GET_LOCK()` sperren; Sessions per versiegeltem Cookie, Rate-Limit in einer MySQL-Tabelle.
 - [Durchlauf-Modell und Uhren](issues/05-durchlauf-modell-und-uhren.md): Durchlauf ab gemeinsamem Start mit fünf Enden, Crew-Bildung davor ohne Log; Zustand in Tabellen, Log als Protokoll; Fristen als Zeitpunkte mit Taktgeber im Pod; erster Wechsel gewinnt, Abbruch schlägt Exit-Abstimmung.
 - [Spielmodul-Schnittstelle](issues/06-spielmodul-schnittstelle.md): Module als reine Funktionen über einem JSON-Zustand je Durchlauf mit Ansicht je Spieler; Basis macht Takt, Sperre (auf die Station), Idempotenz und Log; Punkte immer im Modul; Austausch per Deploy. Neu: [Gerätefragen der Spiele](issues/14-geraetefragen-der-spiele.md).
+- [Gerätefragen der Spiele](issues/14-geraetefragen-der-spiele.md): iPhone-Stummschalter dämpft Web Audio, nur `audioSession.type = 'playback'` hilft; Wortliste per SortableJS statt nativem DnD; OSM-Kacheln erlaubt mit Referer und Namensnennung (Achtung `nuxt-security`), Leaflet 42 KB gegen MapLibre 294 KB; Steuerrad als SVG ohne Bibliothek.
+- [Identität, Session und Zugang](issues/07-identitaet-session-zugang.md): QR-URL mit Zugangscode, Einchecken per POST, versiegeltes Cookie mit Spieler-ID (14 Tage), mehrere Geräte gleichzeitig; Zugangscode 4 Buchstaben, Crewcode 4 Ziffern; Rate-Limit je Gerät plus global im Speicher; Admin mit gemeinsamem Passwort.
 
 ## Not yet specified
 

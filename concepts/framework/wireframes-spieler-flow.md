@@ -1,6 +1,6 @@
 # Wireframes: Spieler-Flow
 
-Stand 28.10.2026 · [Übersicht](../README.md)
+Stand 29.10.2026 · [Übersicht](../README.md)
 
 Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) für alle Zustände der mobilen Webseite. Maßgeblich für den Inhalt sind die [Crews](crews.md), [Karte und Stationen](karte-und-stationen.md), [Hinweise, Abbruch und Exit](hinweise-abbruch-exit.md), [Finale](finale-und-ziehung.md) und die Seiten der sechs [Spiele](../spiele/uebergreifend.md). Die Screens des Admin-Panels stehen unter [Wireframes: Admin-Panel](../admin/wireframes-admin.md).
 
@@ -19,7 +19,7 @@ Graue Low-Fi-Wireframes (nur Positionierung der Elemente, keine Optik) für alle
 ### 1. Einstieg
 
 - 1.1 Check-in per QR-Code (Begrüßung „Willkommen an Bord, Peter!“, Fairness-Satz). Weiter: Einchecken → Schatzkarte (2.1). Hat der Nutzer keinen Namen: zuerst 1.3.
-- 1.2 Check-in per Textcode (4-stelliger Code von der Bordkarte). Weiter: Einchecken → Schatzkarte (2.1). Falscher Code → 1.4. Zu viele Versuche → 1.5.
+- 1.2 Check-in per Zugangscode (4 Buchstaben von der Bordkarte). Weiter: Einchecken → Schatzkarte (2.1). Falscher Code → 1.4. Zu viele Versuche → 1.5.
 - 1.3 Name wählen (Overlay „Wie heißt du?“). Weiter: Schatzkarte (2.1).
 - 1.4 Code nicht erkannt. Weiter: Neuer Versuch → 1.2.
 - 1.5 Zu viele Versuche (Rate-Limit). Weiter: Nach der Wartezeit → 1.2.
