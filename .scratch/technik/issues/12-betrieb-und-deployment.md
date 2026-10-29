@@ -11,5 +11,6 @@ Wie kommt die App in den Cluster und wie wird sie am Abend betrieben? Image-Buil
 
 ## Kontext
 
+- Aus [Infrastruktur-Vorgaben erheben](01-infrastruktur-vorgaben.md) offen: Namespace-Name, Domain, Registry, Kyverno-Regeln für Deployments, Aufbewahrung von Loki-Logs (Access-Logs mit IP-Adressen) und DB-Backups. Deployment über ArgoCD und Crossplane.
 - [Betrieb, Datenschutz und Risiken](../../../concepts/framework/betrieb-datenschutz-risiken.md): Löschkonzept.
 - [Admin-Panel, Testlauf](../../../concepts/admin/admin-panel.md#testlauf): Testlauf am 11.11.

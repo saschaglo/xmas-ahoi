@@ -14,7 +14,7 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 - ADRs unter `concepts/technik/adr/`, nur wenn eine Entscheidung schwer umkehrbar, ohne Kontext überraschend und Ergebnis einer echten Abwägung ist (Kandidaten: ein Pod ohne Redis, Wahl des Echtzeit-Wegs).
 - Tiefe: Architektur und Verträge. Die Spielmodul-Schnittstelle bekommt Typen; das Datenmodell bleibt grob (Spieler, Durchlauf, Ereignis). Tabellen und Endpunkte entstehen bei der Umsetzung.
 - Rahmen: Umsetzung 2.–10.11.2026 durch Sascha allein mit Claude, Testlauf 11.11., Feier 20.11. Im Zweifel gewinnt die einfachere Lösung.
-- Plattform (gesetzt): vorhandener K8s-Cluster, betrieben von Sascha; eine MySQL-Datenbank mit Zugangsdaten; **ein Pod**; Redis nur, wenn unvermeidbar; WebSocket am Ingress ungeklärt, bis dahin gilt „nein“. Last: rund 60 Spieler.
+- Plattform (gesetzt): vorhandener K8s-Cluster, betrieben von Sascha; eine MySQL-Datenbank mit Zugangsdaten auf dem Percona XtraDB Cluster von SysEleven (Galera-Regeln, siehe [MySQL in Nuxt](issues/03-mysql-in-nuxt.md)); **ein Pod**; Redis nur, wenn unvermeidbar; Envoy Gateway statt Ingress; ob WebSocket und SSE dort halten, klärt die [Echtzeit-Probe im Cluster](issues/13-echtzeit-probe-im-cluster.md), bis dahin gilt „kein WebSocket“. Last: rund 60 Spieler.
 - Anforderungen des Veranstalters: Spielmodule sind austauschbar und in Ablauf und Punkteberechnung in sich geschlossen, mit einer Schnittstelle zur Basis. Das Spiel reagiert schnell, ist schlank und nutzt Nuxts Hydration; WebSocket nur, wenn es dem Spielen dient. Optik modern, nicht überladen, im Stil der Einladung.
 - Research-Ergebnisse liegen unter `research/`. Commits: siehe `CLAUDE.md`, Abschnitt Git.
 
@@ -23,6 +23,7 @@ Technisches Konzept unter `concepts/technik/` bis **So, 1.11.2026 abends**: Stac
 <!-- eine Zeile je geschlossenem Ticket -->
 
 - [Echtzeit in Nuxt: WebSocket, SSE oder Polling](issues/02-echtzeit-in-nuxt.md): WebSocket in Nitro nur experimentell, SSE ohne Flag; Envoy schneidet SSE ohne Routen-Timeout nach 15 s ab, Loadbalancer nach 50 s Leerlauf; Anwesenheit braucht bei jedem Weg einen Herzschlag. Ungetestet, daher neu: [Echtzeit-Probe im Cluster](issues/13-echtzeit-probe-im-cluster.md).
+- [Infrastruktur-Vorgaben erheben](issues/01-infrastruktur-vorgaben.md): SysEleven-Cluster mit Envoy Gateway (Gateway API), Deployment per ArgoCD und Crossplane durch Sascha selbst; Percona 8.4.7 im Modus `ENFORCING` mit vollen Rechten aufs eigene Schema.
 - [MySQL in Nuxt: ORM, Migrationen, Sperren](issues/03-mysql-in-nuxt.md): Prisma fällt praktisch aus (Prisma 8 ohne MySQL); Drizzle und Kysely tragen Sperren und Idempotenz; Percona-Cluster würde Primärschlüssel erzwingen und `GET_LOCK()` sperren; Sessions per versiegeltem Cookie, Rate-Limit in einer MySQL-Tabelle.
 
 ## Not yet specified
